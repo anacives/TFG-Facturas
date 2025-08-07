@@ -1,0 +1,76 @@
+
+
+--- Página 1 ---
+
+<factura>
+
+VIN program
+
+administracionemnprogram.com
+Wwww.mnprogram.com
+981 146 300
+
+Somos la primera compañía de software de
+gestión para micropymes, pymes y grandes
+empresas. Actualmente contamos con más
+de 15.000 implantaciones y 80.000 usuarios.
+
+Somos líderes en el mercado gracias a una
+estrategia basada en alcanzar la satisfacción
+plena de nuestros clientes, ofreciéndoles un
+software de gestión integral basado en sus
+necesidades y sugerencias y un soporte y
+servicio personalizado.
+
+
+--- Página 2 ---
+
+IN
+
+Factura
+
+Cliente:
+
+Nombre: VENTO ABOGADOS Y ASESORES SLP
+NIF/CIF: B70508932
+
+Domicilio: Calle Fonseca 6, 42
+
+Población: A Coruña - C.P.: 15004
+
+Provincia: A Coruña
+
+Factura N*.: 2301953 Serie: SM12
+
+Fecha Factura:
+
+Uds. Descripción B.I
+
+1,00 MNprogram Licencia Principal Cloud Enterprise 100,00
+
+13,00 MNprogram Licencia Adicional Cloud Enterprise 283,01
+B.I. 383,01
+IV.A. 80,43
+TOTAL FACTURA 463,44
+
+Inscrita en el Registro Mercantil de A Coruña en el tomo 3.535 del Archivo Sección General, al Folio 210 Hoja N* C-51967 inscripción 1%
+
+N AN |
+
+
+--- Página 3 ---
+
+IN
+
+Información de pago:
+
+Su forma de Pago: Recibo
+Su n*. de cuenta de domiciliación: 0049************9989
+Nuestro n*. de cuenta: IBAN ES76-2080-0063-4730-4003-0577
+
+Fecha Vencimiento Total
+05/12/2023 463,44
+
+Inscrita en el Registro Mercantil de A Coruña en el tomo 3.535 del Archivo Sección General, al Folio 210 Hoja N* C-51967 inscripción 1%
+
+N AN |

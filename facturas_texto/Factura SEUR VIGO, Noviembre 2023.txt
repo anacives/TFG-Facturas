@@ -1,0 +1,104 @@
+
+
+--- Página 1 ---
+
+SEUR
+
+SEUR GEOPOST, S.L.U.
+B82516600
+
+Tel. 913228122
+facturacion.seurOseur.com
+
+Datos de la factura:
+
+N* Factura: 0289992023D0272042
+Fecha Factura: 30-11-2023 VENTO ABOGADOS Y ASESORES, SLP
+Código Cliente: 13777-72 Att: Paula Chao Lago
+Forma de Pago: Adeudo Directo SEPA 30 Días
+Cuenta Bancaria: ES22004940903721140***** CL FONSECAN. 64
+Código Proveedor: 0 15004 LA CORUÑA
+Datos del cliente: LA CORUÑA (ESPAÑA)
+VENTO ABOGADOS Y ASESORES, SLP
+B70508932
+PSO ALFONSO XII N. 35
+36202 VIGO
+PONTEVEDRA (ESPAÑA)
+
+Base Euros Impto. Euros Importe
+
+Sujeto 148,42€ IVA 21,00% - 31,17€ 179,59€
+
+Importe Bruto 148,42€
+
+Total Factura 179,59€
+
+Detalle de los servicios prestados:
+
+0070 13777 - 72
+> Envíos Realizados
+
+Destinatario Referencia Clave Unid.
+
+02-11-2023 VIG SAT $-10 ESTD 9386686 RITA GOIMIL MARTINEZ CENT MAILTOCASE S 1 4,000 S 44,82€
+08-11-2023 VIG LAC $-10 ESTD 9397015 VENTO ABOGADOS Y ASESORES 722019060303 1 1,000 S 34,40€
+10-11-2023 — VIG LAC $-13 PRTY 9401728 VENTO ABOGADOS Y ASESORES 722019060310 A 1 4,840 S 17,38€
+24-11-2023 VIG LOG $-13 ESTD 9426471 HACIENDA-DIR.GRAL.TRIBUTO PRV722019060327 1 1,000 S 30,89€
+28-11-2023 1LOG  VIG  $-13 PRTY 6320225 VENTO ABOGADOS Y ASESORES 262010976825 1 1,000 S 18,27€
+SubTotal 145,76€
+
+Otros conceptos facturados:
+Fecha Concepto Observaciones Referencia Impto. Total
+31-10-2023 VARIOS DIF.PESO EXP.72-999-9383782-20231031 Factura 28-999-2023-D-246881 722019060280 S 2,66€
+SubTotal 2,66€
+Subtotal Cliente 13777 - 72 148,42€
+
+Impuesto:(Art.6.3 R.D.1496/2003) E=Exento,S=Sujeto,N=No sujeto,D=Destinatario Sujeto Pasivo
+
+Claves: A=Volumen B=Reexpedición C=Reembolso D=Suplidos E=Seguro F=Aduana G=Recogida H=Comprobante de entrega I=SEUR Plus J=Entrega en sábados N=Recogida en sábados S=Sobrecargos
+T=Tasa IMO
+
+REGISTRO MERCANTIL DE MADRID,HOJA 249810, FOLIO 84,TOMO 14986 N* Factura: 0289992023D0272042
+1/2
+
+
+--- Página 2 ---
+
+SEUR
+
+SEUR GEOPOST, S.L.U.
+B82516600
+
+Tel. 913228122
+facturacion.seurOseur.com
+
+Información para ti
+
+SEUR te informa
+Impulsados por un futuro , . . "
+Estimado Cliente: Le comunicamos que sus condiciones
+
+de cero emis¡0nes , económicas se han actualizado a 1/01/2024
+
+Esta factura podría contener ajustes sobre los últimos
+días del mes anterior por actualizaciones de
+248 .—r | peso/volumen procedentes de nuestras mediciones
+. homologadas.
+
+Juntos cuidamos del planete
+, , Con este formato digital evitamos la tala de árboles
+En 2025 reduciremos el 85% de nuestras y el impacto medioambiental asociado.
+
+emisiones de CO, en 64 grandes ciudades. _ _ l
+' ¡Gracias por no imprimir esta factura!
+
+Descubre más en seur.com
+
+Impuesto:(Art.6.3 R.D.1496/2003) E=Exento,S=Sujeto,N=No sujeto,D=Destinatario Sujeto Pasivo
+
+Claves: A=Volumen B=Reexpedición C=Reembolso D=Suplidos E=Seguro F=Aduana G=Recogida H=Comprobante de entrega I=SEUR Plus J=Entrega en sábados N=Recogida en sábados S=Sobrecargos
+T=Tasa IMO
+
+REGISTRO MERCANTIL DE MADRID,HOJA 249810, FOLIO 84,TOMO 14986 N* Factura: 0289992023D0272042
+2/2
+

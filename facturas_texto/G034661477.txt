@@ -1,0 +1,221 @@
+
+
+--- Página 1 ---
+
+EE Microsoft
+
+Microsoft Iberica S.R.L.
+Paseo Club Deportivo 1,
+Pozuelo de Alarcón,
+
+28223, Madrid,
+
+Spain.
+
+N.9 de reg. IVA ESB78603495
+
+Vendido a
+
+Vento Abogados y Asesores S.L.P.
+
+Rúa Fonseca, 6, 49
+A Coruña
+
+A CORUÑA
+
+15004
+
+ES
+
+Facturar a
+
+Vento Abogados y Asesores S.L.P.
+
+Rúa Fonseca, 6, 49
+A Coruña
+
+A CORUÑA
+
+15004
+
+ES
+
+Resumen
+
+Perfil de facturación
+Número de facturación
+
+Fecha del documento
+
+Importe total
+Vencimiento el 09/12/2023
+
+Esta factura es para el período de facturación 01/11/2023 - 30/11/2023
+
+Esta lista contiene los cargos para las compras y servicios que se han consumido de Microsoft. Podrás encontrar más detalles acerca de tu factura en
+https://admin.microsoft.com/Adminportal/Home*t/billoverview/invoice-list/6034661477
+
+Resumen de facturación
+
+Cargos
+Créditos
+
+Subtotal
+
+Impuesto
+
+Total con impuestos incluidos
+
+Instrucciones de pago:
+
+Su cuenta tiene una tarjeta de crédito registrada y no es necesario realizar ninguna acción. Se le cargará en la tarjeta registrada.
+
+1/4
+
+Resumen de
+
+facturación
+
+Consultoría Vento
+G034661477
+09/12/2023
+
+EUR 5.63
+
+¿Tienes alguna pregunta sobre tu factura? Visita https://aka.ms/invoice-billing
+
+4.65
+0.00
+4.65
+
+0.98
+
+EUR 5.63
+
+
+--- Página 2 ---
+
+EE Microsoft
+
+Microsoft Iberica S.R.L.
+Paseo Club Deportivo 1,
+Pozuelo de Alarcón,
+
+28223, Madrid,
+
+Spain.
+
+N.9 de reg. IVA ESB78603495
+
+Vendido a
+
+Vento Abogados y Asesores S.L.P.
+
+Rúa Fonseca, 6, 49
+A Coruña
+
+A CORUÑA
+
+15004
+
+ES
+
+Resumen de sección
+
+Nombre de sección
+
+Consultoría Vento
+Total (sin incluir impuestos)
+Importe de impuestos
+
+Total con impuestos incluidos
+
+Perfil de facturación
+
+Número de factura de impuestos
+
+Detalles de facturación por producto
+
+Consultoría Vento
+
+Gastos de uso - Microsoft Azure Standard
+
+Compras
+Fecha de inicio del cargo -
+fecha de finalización del cargo
+
+Databases
+01/11/2023-30/11/2023
+Analytics
+01/11/2023-30/11/2023
+
+Descripción de impuestos
+
+Ventas nacionales con tasa estándar 21.00%
+
+Factura
+
+Consultoría Vento
+
+ES-TI2300287875
+
+Fecha de factura de impuestos 09/12/2023
+Facturar a
+Vento Abogados y Asesores S.L.P.
+Rúa Fonseca, 6, 49
+A Coruña
+A CORUÑA
+15004
+ES
+Esta factura es para el período de facturación 01/11/2023 - 30/11/2023
+Cargos Total
+(EUR) (EUR)
+4.65 4.65
+4.65
+0.98
+5.63
+Indicador
+Cargos/ de la línea
+Créditos Tipo Total (sin incluir impuestos) de
+(EUR) impositivo (EUR) impuestos
+4.56 21.00% 4.56 A
+0.09 21.00% 0.09 A
+. Importe de Total con impuestos , ,
+Cantidad subtotal , . . Indicador de la línea
+impuestos incluidos ,
+(EUR) de impuestos
+(EUR) (EUR)
+4.65 0.98 5.63 A
+Subtotal 4.65
+
+2/4
+
+
+--- Página 3 ---
+
+Crédito de Azure 0
+Impuesto 0.98
+
+3/4
+
+
+--- Página 4 ---
+
+EE Microsoft
+
+Instrucciones de pago:
+
+Su cuenta tiene una tarjeta de crédito registrada y no es necesario realizar ninguna acción. Se le cargará en la tarjeta registrada.
+
+Tipo de cambio
+Divisa de precios Tasa de cambio EUR Intervalo de fechas
+
+USD 0.945268929 01/11/2023-30/11/2023
+
+Más información acerca de cómo se calculó la tasa de cambio:
+
+https://go.microsoft.com/fwlink/?linkid =2034352
+
+Los impuestos se calculan en la moneda de facturación
+
+4/4

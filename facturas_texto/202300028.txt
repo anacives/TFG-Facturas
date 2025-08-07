@@ -1,0 +1,29 @@
+
+
+--- Página 1 ---
+
+Factura serie: 2023
+
+Factura num: 00028
+N* factura completo: 202300028
+Fecha factura: 07-12-2023
+Fecha vencimiento: 07-01-2024
+De: Para:
+WAIROA, S.L. VENTO ABOGADOS Y ASESORES, S.L
+B44642759 B70508932
+C/ FONSECA, 6-42 CL FONSECA
+15004 - A CORUÑA 15004 - CORUÑA (A)
+A CORUÑA A CORUÑA
+España ESPAÑA
+Concepto Cantidad Importe IVA/GIC Total
+Servicios informáticos extraordinarios 1 9.000,00 € 21,00 % 9.000,00 €
+Subtotal 9.000,00 €
+Método de pago: Base imponible 9.000,00 €
+TRANSFERENCIA BANCARIO BANCO SANTANDER IVANGIC 1.890,00 €
+ES5700494090382014064338
+Total 10.890,00 €
+Desglose impuestos:
+Base imponible IVA/IGIC Total IVA/IGIC
+9.000,00 € 21,00 % 1.890,00 €
+
+Página 1 de 1
