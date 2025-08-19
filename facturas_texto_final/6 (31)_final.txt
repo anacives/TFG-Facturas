@@ -1,0 +1,61 @@
+
+
+--- Página 1 ---
+
+Oficina:
+CORUÑA
+ANDRES ANTELO
+14
+Fecha de envío: 04-12-2023
+EMISOR
+IMPORTE
+8
+5,81
+IBAN: ES22 0049 4090 3721 1405 9989
+NP Recibos: 32
+NIF: B70508932
+Impuestos (21,00% sobre 4,80): 1,01
+4
+Fecha operación: 01-12-2023
+Sociedades, Insc. 1.3, C.I,F. A-39000013 BIC: BSCHESMM
+
+Banco Santander, S.A. Domicilio social: Paseo de Pereda, 9-12, 39004
+Santander — R.M. de Cantabria, Hoja 286, Folio 64, Libro 5.? de
+
+PL0007
+
+Sd Santander
+
+DOMICILIACIONES: LIQUIDACIÓN DE GASTOS DE REMESA
+
+" Oficina:
+AA FF A CORUÑA , ANDRES ANTELO 14
+Fecha de envío: 04-12-2023
+
+VENTO ABOGADOS Y ASESORESS LP
+
+ID Emisor: ES26000B70508932
+
+IBAN: ES22 0049 4090 3721 1405 9989
+
+Titular: VENTO ABOGADOS Y ASESORESS LP
+NIF: B70508932
+
+>> 5,81
+
+Moneda: EUR
+
+Nominal Facturación: 13.694,69
+
+N9 Recibos: 32
+
+Comisiones por negociación de documentos domiciliados: 4,80
+Impuestos (21,00% sobre 4,80): 1,01
+
+Correo: 0,00
+
+Ne Factura: F2023335RBBBJXB
+
+Fecha operación: 01-12-2023 / Fecha valor: 01-12-2023
+
+ADEUDADO EN SU CUENTA EL APUNTE DETALLADO

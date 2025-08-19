@@ -1,0 +1,56 @@
+
+
+--- Página 1 ---
+
+ORIGINAL
+Información de facturación
+4-6 Riverwalk
+Citywest Business Park
+Número de factura
+1EE2023013463792
+Dublin 24
+Fecha de la factura
+09-DIC-2023
+Adobe
+Cond. de pago
+Carte de crédit
+Orden de compra
+Número de orden
+7035066248
+Cliente
+1221591766
+Divisa
+EUR
+Receptor de factura
+Santiago Carrera
+15004
+SPAIN
+Factura
+NÚMERO DE
+PRECIO
+DESCRIPCIÓN DEL PRODUCTO
+CANTIDAD
+UNIDAD
+TIPO
+IMPUESTOS
+TOTAL
+PRODUCTO
+UNITARIO
+65314005
+Acrobat Pro
+EA
+19.99
+19.99
+0.00
+19.99
+TOTAL FRA
+IMPORTE NETO(EUR)
+19.99
+IMPUESTOS (VER LOS TIPOS)
+1999
+Comentarios:
+inversión impositiva.
+C/ Marina 16-
+18, Planta 20 A
+Gracias por tu confianza!
+Página 1 de 1

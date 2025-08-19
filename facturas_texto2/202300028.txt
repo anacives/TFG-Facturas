@@ -1,0 +1,33 @@
+
+
+--- Página 1 ---
+
+Factura serie: Factura num: NP factura completo: Fecha factura: Fecha vencimiento:
+2023 00028 202300028 07-12-2023 07-01-2024
+De
+Para:
+WAIROA, S.L B44642759 CI FONSECA, 6-4 15004 A CORUÑA A CORUÑA España
+VENTO ABOGADOS Y ASESORES, S.L B70508932 CL FONSECA 15004 CORUÑA (A) A CORUÑA ESPAÑA
+Concepto
+Cantidad
+Importe
+IVAIIGIC
+Total
+Servicios informáticos extraordinarios
+9.000,00 €
+21,00 %
+9.000,00 €
+Subtotal
+9.000,00 € 9.000,00 € 1.890,00 €
+Método de pago:
+Base imponible IVA/IGIC
+TRANSFERENCIA BANCARIO BANCO SANTANDER ES5700494090382014064338
+Total
+10.890,00 €
+Desglose impuestos: Base imponible
+IVAIGIC
+Total IVAIGIC
+9.000,00 €
+21,00 %
+1.890,00 €
+Página de

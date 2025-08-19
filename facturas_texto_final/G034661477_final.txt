@@ -1,0 +1,231 @@
+
+
+--- Página 1 ---
+
+Resumen de
+Microsoft
+facturación
+Resumen
+Paseo Club Deportivo 1,
+Consultoría Vento
+Fecha del documento
+09/12/2023
+Vendido a
+Facturar a
+Importe total
+Vencimiento el 09/12/2023
+A Coruña
+A Coruña
+A
+CORUÑA
+A CORUÑA
+15004
+15004
+ES
+Resumen de facturación
+Cargos
+4.65
+0.00
+Subtotal
+4.65
+Impuesto
+0.98
+Total con impuestos incluidos
+Instrucciones de pago:
+1/4
+ED Microsoft
+
+Microsoft Iberica S.R.L.
+Paseo Club Deportivo 1,
+Pozuelo de Alarcón,
+
+28223, Madrid,
+
+Spain.
+
+N.9 de reg. IVA ESB78603495
+
+Vendido a
+
+Vento Abogados y Asesores S.L.P.
+
+Rúa Fonseca, 6, 4%
+A Coruña
+
+A CORUÑA
+
+15004
+
+ES
+
+Facturara
+
+Vento Abogados y Asesores S.L.P.
+Rúa Fonseca, 6, 4%
+
+A Coruña
+
+A CORUÑA
+
+15004
+
+ES
+
+Resumen
+
+Perfil de facturación
+Número de facturación
+
+Fecha del documento
+
+Importe total
+Vencimiento el 09/12/2023
+
+Resumen de
+facturación
+
+Consultoría Vento
+G034661477
+09/12/2023
+
+EUR 5.63
+
+Esta factura es para el período de facturación 01/11/2023 - 30/11/2023
+
+Esta lista contiene los cargos para las compras y servicios que se han consumido de Microsoft. Podrás encontrar más detalles acerca de tu factura en
+
+https://admin.microsoft.com/Adminportal/Home*/billoverview/invoice-list/G034661477
+
+¿Tienes alguna pregunta sobre tu factura? Visita https://aka.ms/invoice-billing
+
+Resumen de facturación
+
+Cargos
+Créditos
+
+Subtotal
+
+Impuesto
+
+Total con impuestos incluidos
+
+Instrucciones de pago:
+
+Su cuenta tiene una tarjeta de crédito registrada y no es necesario realizar ninguna acción. Se le cargará en la tarjeta registrada.
+
+1/4
+
+4.65
+0.00
+4.65
+
+0.98
+
+EUR 5.63
+
+--- Página 2 ---
+
+Microsoft
+Factura
+Microsoft Iberica SRL
+Consultoría Vento
+Número de factura de impuestos
+ES-TI2300287875
+Fecha de factura de impuestos
+09/12/2023
+Vendido a
+Facturar a
+A
+Coruña
+A Coruña
+A CORUÑA
+15004
+15004
+ES
+ES
+Esta factura es para el
+30/11/2023
+Resumen de sección
+Cargos
+Total
+Nombre de sección
+(EUR)
+(EUR)
+Consultoría Vento
+4.65
+4.65
+4.65
+Importe de impuestos
+0.98
+5.63
+Consultoría Vento
+Gastos de uso
+Microsoft Azure Standard
+Indicador
+Compras
+Cargos/
+de la línea
+Créditos
+Tipo
+de
+fecha de finalización del cargo
+(EUR)
+impositivo
+(EUR)
+impuestos
+Databases
+4.56
+Analytics
+0.09
+21.00%
+0.09
+Total con impuestos
+Cantidad subtotal
+Indicador de la línea
+Descripción de impuestos
+impuestos
+incluidos
+(EUR)
+de impuestos
+(EUR)
+(EUR)
+4.65
+0.98
+5.63
+Subtotal
+4.65
+2/4
+
+--- Página 3 ---
+
+Impuesto
+Total
+EUR 5.63
+3/4
+
+--- Página 4 ---
+
+Microsoft
+Divisa de precios
+Tasa de cambio EUR
+USD
+01/11/2023-30/11/2023
+Los impuestos se calculan en la moneda de facturación
+4/4
+ED Microsoft
+
+Instrucciones de pago:
+
+Su cuenta tiene una tarjeta de crédito registrada y no es necesario realizar ninguna acción. Se le cargará en la tarjeta registrada.
+
+Tipo de cambio
+Divisa de precios Tasa de cambio EUR — Intervalo de fechas
+
+USD 0.945268929 01/11/2023-30/11/2023
+
+Más información acerca de cómo se calculó la tasa de cambio:
+https://go.microsoft.com/fwlink/?linkid=2034352
+
+Los impuestos se calculan en la moneda de facturación
+
+4/4

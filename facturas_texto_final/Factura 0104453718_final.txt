@@ -1,0 +1,67 @@
+
+
+--- Página 1 ---
+
+FACTURA
+4
+de
+Factura
+Fecha
+Doc
+15004 A CORUÑA
+53140104453718
+11.12.2023
+ESPANA
+225274
+N.I.F.
+B70508932
+Ref
+cliente
+10170730
+de
+Cliente
+e-mail
+facturacion@vento.es
+Facturado
+sfs
+facturacion
+es@siemens
+com
+Periodo
+Pos
+Cant
+Denominación
+Precio
+Precio
+EUR
+0100
+1, 0
+Cuota
+de
+Arrendamiento
+87, 50
+87, 50
+contrato
+de
+referencia
+Importe
+Neto
+87, 50
+IVA
+8
+87, 50
+18, 38
+Factura
+EUR
+105, 88
+Condiciones
+de
+pago
+VENCIMIENTO
+INMEDIATO
+Vía
+de
+Domiciliación
+bancaria
+Bcos: Deutsche Bank IBAN: ES51 0019 0030 6740 1002 2612 SWIFT: DEUTESBBXXX
+según

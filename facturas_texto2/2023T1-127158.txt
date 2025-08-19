@@ -1,0 +1,1013 @@
+
+
+--- Página 1 ---
+
+Icrcom
+Factura
+Datos
+Código Cliente: CIF: Número de factura: Fecha factura: Descripción: Período facturado: N. de Cuenta:
+417119 B44785194 2023T1-127158 30-11-2023 Factura productos 01 Nov 23 al 30 Nov 23 ES4000494090342*****
+DISEÑO VENTO; S.LP. FONSECA N? 6 42, A CORUÑA 15004, LA CORUÑA
+1 5 1 Tu partner de confianza ; WWW.camosa.es 0 camosa tecoilnicagianes 981 26 09 12 9 g SERVICIOS FACTURADOS : Concepto Llamadas Duración Importe 5 Metropolitanas 00:00:00 0,0000 g Provinciales 00.00.00 0,0000 Interprovinciales 00.00.00 0,0000 ; Nacionales 1541 93.02.32 0,0000 Móviles 2210 171.26.43 0,0000 ; Internacionales 00:00.00 0,0000 Otros destinos 96 10.21.33 15,4202 ; NUMERACIÓN RI 902 10,0000 TRUNK SIP(CANALES PARA LA CV (BONIFICADOS)) 0,0000 8 LINEA(ASOCIADO A PACK 3 CLIS) 0,0000 LINEA(asociada a pack (15 numeros)) 0,0000 1 LINEA(asociada a pack (1 numero)) 0,0000 LINEA(BONIFICADO) 0,0000 LINEA(PORTADA (ASOCIADA A PACK) 5 CLI) 0,0000 : LINEA(881150366 NUEVA (ASOCIADA EXT.)) 0,0000 2 x LINEA(asociada a pack (2 numeros)) 0,0000 3 LINEA(ASOCIADA A PACK 11 CLIS) 0,0000 LINEA(Numeración nueva asociada a pack) 0,0000 9 2 x LINEA(Asociado a pack (1 numero)) 0,0000 LINEA(Numeración nueva asociada a extensión) 0,0000 5 x LINEA(CUOTA BONIFICADA) 0,0000 2 LINEA(Numeracion portada. Asociada a pack) 0,0000 115 x Extension sin terminal* 552,0000 8 MANTENIMIENTO(Mantenimiento Premium) 75,0000 MANTENIMIENTO(MANTENIMIENTO DATOS 4G) 39,9000 8 MANTENIMIENTO 155,0000 MANTENIMIENTO 80,0000 MANTENIMIENTO(MTO. MÓVILES VIGO)(21 días) 21,0000 BACKUP FIBRA ROUTER 4G Cuota Diciembre 2023 20,0000
+LEAST COST ROUTING TELECOM SL info@lcrcom.es 91 737 77 77 C/ Fernando Rey 8. Ciudad de la Imagen Pozuelo de Alarcón, 28223 (Madrid)
+Icrcom www Icrcom.es
+1/28
+
+--- Página 2 ---
+
+SERVICIOS FACTURADOS
+Concepto
+Llamadas
+Duración
+Importe
+100 x Módulo PRO(cuota especial) 55 x Módulo PRO CONEXIÓN 4G 120 GB(8934012031721029943) 3 x Canales adicionales Smart IVR Plus 5 x FAXZMAIL(CUOTA BONICIFADA) ZENTINELA (Sede)(IUA: 532021397447) Cuota Diciembre 2023 ZENTINELA (Sede) (IUA: 328034491481) Cuota Diciembre 2023 ZENTINELA (Sede) (IUA: 635034807090) Cuota Diciembre 2023 LINEA(Asociado a extension) MANTENIMIENTO(Mto. Alquiler 4 terminales) PACK: FIBRA LCRcom PRO SCA Cuota Diciembre 2023 IP FIJA(IUA 215029161527) ONT Fibra PRO(48575443946F69A1) Router Fibra 3OOMb(CALLE FONSECA 6-8 A CORUÑA) Conexión Internet: FIBRA PRO hasta 6OOMb B PACK: CONEXION 4G 120GB SIM 4G 3OGb CONEXIÓN 4G 120 GB(8934014031940011506) ROUTER MIKROTIK 4G(AE8SOC4BF4A3) PACK: CONEXION 4G 12OGB SIM 4G 30Gb(8934014032145023411) CONEXIÓN 4G 120 GB ROUTER MIKROTIK 4G(HCWOSEYXHJ7) PACK: CONEXION 4G 2OOGB SIM 4G 30Gb(893401403194000573) CONEXIÓN 4G 200 GB ROUTER MIKROTIK 4G(ae850b965cc5) PACK: FIBRA LCRCOM PROFESIONAL Cuota Diciembre 2023 IP FIJA(CI Fonseca; 6-8 4* PL A Coruña) ROUTER FIBRA MIKROTIK ONT HUAWEI IUA(615030334143) Conexión Internet: FIBRA PRO hasta 6OOMb B PACK: FIBRA LCRCOM PROFESIONAL Cuota Diciembre 2023 IP FIJA(CI Alejandro Outeiriño OURENSE) ROUTER FIBRA MIKROTIK(D7I6ODBI7A7C) ONT HUAWEI(48575443A9C465A3) 1UA(532021397447) Conexión Internet: FIBRA PRO hasta 6OOMb B PACK: FIBRA LCRCOM PROFESIONAL Cuota Diciembre 2023 IP FIJA ROUTER FIBRA MIKROTIK ONT HUAWEI 1UA(136023754617) Conexión Internet: FIBRA PRO hasta 6OOMb B PACK: FIBRA LCRCOM PROFESIONAL Cuota Diciembre 2023 IP FIJA
+480,0000 264,0000 45,9000 75,0000 0,0000 9,9000 9,9000 9,9000 0,0000 24,0000 59,9000
+1 5 1 ; 0 9 g : 5 g ; : p 8 1 g 3 9 2 8 8
+45,9000
+45,9000
+59,9000
+59,9000
+59,9000
+59,9000
+59,9000
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+2/28
+
+--- Página 3 ---
+
+SERVICIOS FACTURADOS
+Concepto
+Llamadas
+Duración
+Importe
+ROUTER FIBRA MIKROTIK ONT HUAWEI 1UA(836016786638) Conexión Internet: FIBRA PRO hasta 6OOMb B PACK: SMART IVR PLUS Extension sin terminal LINEA CANALES DE VOZ Módulo PRO Modulo Smart IVR Plus PACK: FIBRA LCRCOM PROFESIONAL PROMO Cuota Diciembre 2023 IP FIJA ONT Fibra PRO ROUTER FTTH 1UA(328034491481) Conexión Internet: FIBRA PRO hasta 6OOMb PACK: FIBRA LCRCOM PROFESIONAL PROMO Cuota Diciembre 2023 IP FIJA ONT Fibra PRO ROUTER FTTH 1UA(536013685614) Conexión Internet: FIBRA PRO hasta 6OMb PACK: FIBRA LCRCOM PROFESIONAL PROMO Cuota Diciembre 2023 IP FIJA ONT Fibra PRO ROUTER FTTH 1UA(635034807090) Conexión Internet: FIBRA PRO hasta 6OOMb PACK: BACKUP 4G Cuota Diciembre 2023 ROUTER BACKUP 4G CONEXIÓN 4G 1OGB (backup) PACK: WAICOM NEGOCIOS 2OMI Cuota Diciembre 2023 20 x Extension sin terminal LINEA IP FIJA 20 x CANALES DE VOZ LINEA MOVIL(601641896) LINEA MOVIL(604066320) LINEA MOVIL(604077484) LINEA MOVIL(618652133) LINEA MOVIL(661542421) ROUTER MIKROTIK RBDS2G ONT NOKIA G-01OG-P 1UA(336033327965) Conexión Internet: FIBRA PRO hasta 6OOMb Tarifa Plana: TP Pack VolP Ilimitado (Movil) Tarifa Plana: TP Pack VolP Ilimitado (Fijo)
+1 5 1 ; 0 9 g : 5 g ; : p 8 1 g 3 9 2 8 8 J
+45,0000
+49,9000
+49,9000
+49,9000
+15,0000
+299,0000
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+3/28
+
+--- Página 4 ---
+
+SERVICIOS FACTURADOS
+Concepto
+Llamadas
+Duración
+Importe
+PACK: WAICOM NEGOCIOS 2OMI Cuota Diciembre 2023 20 x Extension sin terminal LINEA IP FIJA 20 x CANALES DE VOZ LINEA MOVIL(628201068) LINEA MOVIL(672260375) LINEA MOVIL(672260376) LINEA MOVIL(696666333) LINEA MOVIL(621263594) ROUTER MIKROTIK RBDS2G ONT NOKIA G-010G-P IUA(915029473799) Conexión Internet: FIBRA PRO hasta 6OOMb Tarifa Plana: TP Pack VolP Ilimitado (Movil) Tarifa Plana: TP Pack VolP Ilimitado (Fijo) 140 x PACK: Usuario Teams PBX by Ribbon + DDI LINEA PBX USERS (RC-DRAAS-PBX-SUB-L) 18 x PACK: MEETPHONE TOTAL MeetPhone Business MeetPhone Go MeetPhone WebRTC Dto Packs   (DESCUENTO FIBRA PRECIO PROMO) Dto Packs FIBRA LCRCOM PROFESIONAL PROMO (DESCUENTO FIBRA PRECIO PROMO) Dto Packs FIBRA LCRCOM PROFESIONAL (DESCUENTO FIBRA PRECIO PROMO) Dto Packs FIBRA LCRCOM PROFESIONAL (DESCUENTO FIBRA PRECIO PROMO) Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI
+299,0000
+1 5 1 ; 0 9 g : 5 g ; ; p 8 1 g 3 9 2 8 8
+840,0000
+72,0000
+-9,9973
+-8,3283
+-9,9973
+-9,9973 -1,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -1,2000 -1,2000 1,2000 -1,2000 -1,2000 -0,8000 -0,8000 -1,2000 -1,2000
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+4/28
+
+--- Página 5 ---
+
+SERVICIOS FACTURADOS
+Concepto
+Llamadas
+Duración
+Importe
+Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL
+-1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 1 ,2000 -1 2000 -1,2000 -1,2000 -1,2000 -0,8000 -1,2000 -0,8000 -1,2000 -0,8000 -1,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -0,8000 -1,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -1,2000 -0,8000 -1,2000 -0,8000 -1,2000 -1,2000 -1,2000 -1,2000 -0,8000
+1 5 1 ; 0 9 g : 5 g ; ; ; 8 1 g 3 9 2 8 8
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+5/28
+
+--- Página 6 ---
+
+SERVICIOS FACTURADOS
+Concepto
+Llamadas
+Duración
+Importe
+Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI
+-1,2000 -1,2000 -1,2000 -1,2000 -0,8000 -1,2000 -1,2000 1 ,2000 -0,8000 -1,2000 -1,2000 -0,8000 -1,2000 -0,8000 -1,2000 -0,8000 -1,2000 -1,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -0,8000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 1 ,2000 1 2000 -1,2000 -1,2000 -0,8000 -1,2000 -1,2000 1,2000 -1,2000 -1,2000 -0,8000 -1,2000 1 ,2000 -1,2000
+1 5 1 ; 0 9 g : 5 g ; ; ; 8 1 g 3 9 2 8 8
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+6/28
+
+--- Página 7 ---
+
+SERVICIOS FACTURADOS
+Concepto
+Llamadas
+Duración
+Importe
+Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs MEETPHONE TOTAL Dto Packs Usuario Teams PBX by Ribbon DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI Dto Packs Usuario Teams PBX by Ribbon + DDI
+-1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -0,8000 -1,2000 -1 2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -1,2000 1 ,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 -1,2000 1,2000 41 ,2000 1,2000 3.837,1000€
+1 5 1 ; 0 9 g : 5 g ; ; ; 8 1 g 3 9 2 8 8
+Base Imponible
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+7/28
+
+--- Página 8 ---
+
+IVA (21%) Total a pagar
+805,7900€ 4.642,89€
+HISTORIAL DE CONSUMO
+5946
+4460
+2973
+1487
+DIC ENE FEB MAR ABR MAX JUN JUL AGO SEP OCT NOv
+1 DE INTERÉS PARA UD _ 5 Le informamos que puede acceder a la web de cliente final en https:l/www .teki.esl En caso de no recordar sus datos de acceso póngase en contacto con Least Cost Routing Telecom 1 ; 0 9 g : 5 g ; : ; 8 1 g 3 9 2 8 8
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+8/28
+
+--- Página 9 ---
+
+DETALLE DE LLAMADAS
+LINEA: 881150010 NUMERO DESTINO 988517389 Nacional
+FECHA 20-Nov
+HORA DURACIÓN IMPORTE NUMERO 11.45 00.00.42 0.00000
+DESTINO
+FECHA
+HORA DURACIÓN IMPORTE
+SUBTOTALES(881150010): Destino Nacional: SUBTOTAL
+llamadas
+Duracion 00.00.42 00.00.42
+Importe 0,00000 000oo
+LINEA: 881151505 NUMERO DESTINO 600355243 Móvil 639951326 Móvil 05962886 Móvil 68746635 Móvil 649472933 Móvil 65041270 Móvil 638734303 Móvil 943881 Nacional 88517389 Nacional 686558156 Móvil 63598493 Móvil 6159801 Móvil 652075559 Móvil 172 Móvil 6538 7049 Móvil 9648288 Móvil 39658- Móvil 638734303 Móvil 605 Móvil 60641 Móvil 69840 Móvil 0861 969 Móvil 675633370 Móvil 687260999 Móvil 655907176 Móvil 638189774 Móvil 678743833 Móvil 618621316 Móvil 65181 Móvil 649701 Móvil 6362744 Móvil 601 Móvil 67185 Móvil 6269 6006 Móvil 6366702 Móvil 49229409 Nacional 6543 4296 Móvil 303534 Móvil 61862131 Móvil 630353415 Móvil 652075559 Móvil 825529 Móvil 825525 Móvil 825525 Móvil 269 6006 Móvil 675112438 Móvil 981637252 Nacional 63068075 Móvil 66121= Móvil 9402 Móvil 65639 Móvil 605035- Móvil 67764344 Móvil 88269848 Nacional 9667000 Móvil 6292 Móvil 8851- Nacional '66750 Móvil 044420 Móvil 981954830 Nacional 922078 Móvil Móvil 138 Nacional 2934990 Móvil Móvil 29349900 Móvil 2054 Móvil 986 Móvil 610573500 Móvil 60719502 Móvil 6621, Móvil 67400946= Móvil 825529 Móvil 94 Móvil 5962 Móvil 65486 Móvil 023980 Móvil 661842 Móvil 6608 Móvil 806849 Móvil 68 Nacional 63910055 Móvil 6212 Móvil 9539408 Móvil 615188809 Móvil 81260726 Nacional 81260726 Nacional 8126073 Nacional Nacional 39 Móvil 042001 Móvil 98163725 Nacional 66198983 Móvil 957 Móvil 630380290 Móvil 56974935 Móvil 679162862 Móvil 654203218 Móvil
+FECHA 02-Nov 02-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 06-Nov 06-Nov Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov Nov Nov Nov Nov Nov 07-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov Nov Nov 09-Nov 09-Nov Nov 09-Nov 09-Nov Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 12-Nov 3-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 14-Nov 14-Nov 14-Nov 14-Nov Nov Nov 14-Nov 14-Nov 5-Nov 15-Nov 5-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 5-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 16-Nov
+HORA DURACIÓN IMPORTE NUMERO 11.42 00:01:56 0.00000 610633912 13.06 00.06.31 .000oo 661989832 13.32 00.03.55 .00ooo 633321 14.04 00.01.48 .00ooo 670536120 14.15 00:03:0 0oooo 653022770 14.22 00.06: ooooo 634416541 14.29 OO:00:O6 0oooo 609611112 14.36 00.02: 0oooo 663524782 14.40 00:02 ooooo 649472933 15.02 00:01 0o00o 5984934 17:1 00.00.46 000 5984934 09.58 00.02.0- 652075559 10.14 00:01 ooooo 637568149 10.24 00.04.3 0000o 63981 68 10.55 00.02 0oooo 693772596 12.57 00.09 00 72596 14.0 00:04 000oo 53022 14.3 00:01 0oooo 68 14.46 00.0 6984 14.50 00:04: 0000o 2611267 09.49 00.05 0oooo 98681521 10.4 00 000 7260 00 ooooo 2609 00:00: 655907 00.05: 6538 049 00.08: 69840 14.53 00.00 0000o 606800073 15.20 00.00.0 64595 15.49 00.0 00 0498063 00.0 00:01 93058 00.04 00:0 00.00 791584 000 8507 000 034432 5.2 00:00 000 258435 09: 00.00: 64595 10.23 00:00:.0 0oooo 98 10.26 00.00 0000o 6459 00.00 0000o 862131 00 64595 00.00 00:00:05 00:00:5 6:3 00:16: 18.0 00.40.30 0oooo 8085004 09.5 00.06 000 655907 00.03: ooooo 330846 00.04 ooooo 665723 61 11:1 00.00.06 0o00o 2304165 12.18 00:05 ooooo 607431255 13.2 00.03:' 00ooo 6491592 14.36 00:15.48 000oo 600733 15.55 00:01 48 000 61 042 10.0 00.0 0000o 998027 10.3 00:.00.0 9878061 ~ 00:00:5 98009 12.1 00.06 0000o 981954830 14.00 00.2 00000 6612642 14.51 00.04 00o0 662162625 11.05 00:09: 0oooo 986640054 10.4- 00:04: ooooo 62744171 1.05 00.00.0 0000o 652674878 00:00 ooooo 618639 00.03 0oooo '667501 11.58 00.00: 00 7974 12.33 00: ooooo 8894348 14.3 00.05 0000o 605071038 14.5 00:01 000 69252223 16: 00:10.35 67400946 20.02 0000o 69378939 10.3 00.03 00000 980200 11.09 00.02 000 695743949 1330 00.0 0000o 7466896 00:00: 00000 63314201- 13.32 00.00: 695743949 13 O0:00:04 0oooo 13.43 00.05: 0oooo 0239 14.36 00.0 065 00:00: 000 822338 00.00.4 0000o 662162, 00.0 598493 00:19: 0915135 12.23 00.03 0000o 981260726 12.37 00:00 00000 981227696 12.39 00.00 000 629813849 12.49 00.0 00 3849 13.02 00:06: 96822338 13 00.00 292 13: 00:.00.0 0ooo 8008 13.55 00.02:C ooooo 609102148 14.04 00.01 00 661842799 14.10 00.03:1 ooooo 695743949 14.24 00.02.5 0000o 607918044 15.36 00.01.32 0000o 679162862 16.46 00.18.48 ooooo 660873938 10.20 00.04.44 .0000o 670420019
+DESTINO Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil
+FECHA 02-Nov 02-Nov Nov Nov Nov Nov Nov 02-Nov Nov Nov 02-Nov Nov 03-Nov 03-Nov Nov 03-Nov Nov 03-Nov 03-Nov Nov 6-Nov Nov Nov 06-Nov Nov Nov 6-Nov Nov Nov Nov Nov Nov 07-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 10-Nov 10-Nov 10-Nov 10-Nov 11-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 15-Nov 5-Nov 15-Nov 15-Nov 5-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15 ~Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 16-Nov 16-Nov
+HORA DURACIÓN IMPORTE 12.02 00.01.22 000oo 13:17 00.05:19 0oooo 13.40 00.07:08 00ooo 14.14 00.06 000oo 4.2 000o 14.2 000o 14.30 00:04 0000o 14.39 00.0 0000 00:0 000o 7.10 00:0 00000 0000 10:13 00.0 0000o 10.22 00.0 00000 10.36 00:0 000oo 12.05 0000o 13: 00: 0000 00:0 00000 00:0 0000 00:0 000o 09 00.0 0000o 10.19 00: 0000 10: 00 00: 00:.0 00.0 0000 14.12 00.0 00000 14.56 00:0 000oo 00: 0000 00: 0000
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+00.0 00:0 00.0 00.0 00:
+0000 0000 0000o 0000
+09 10
+00: 00:0 00.0 00:.0 00: 00.03
+0000 000o 00000 000o 0000 0000
+10 10.38
+0000 0000 0000o 0000 000o 000o 0000 000oo 00000 000o 0000 0000
+00:.0 00.0 00.0 00:
+00.0 00:0 00: 00: 00.0 00: 0:0 00: 00:
+0000 00ooo 000oo 0000
+13.0
+10.03 10.05 10.48
+00.0 00:0 00.0 00:0 00: 00:
+0000 000o 00000 000o
+12.0 13.20
+00.0 00: 00.05 00.0 00:
+0000 00ooo 000oo 0000
+10 10.59
+0000 000 00000 000o
+13.3
+00:0 00.0 00.03 00:0 00: 00.00 00.04 00.03 00:0 00: 00:0
+14.06 09.59
+000 000 0000 000o 0000 000
+12.36 12.39 12.4
+0000 000o 0000o 0000 000o 00o 000oo 000oo 00000 0.00000
+13: 14.00 14.05 14.23 14.28 16.39 10:12 10.40
+00.00 00:0 00.04 00: 0.06 00.02.4 00.05 00.01:02 00.07.03
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+9/28
+
+--- Página 10 ---
+
+DETALLE DE LLAMADAS
+NUMERO 981285404 69800966 670420019 6822338 812566C 6619898 8810683 657054372 659321 620986262 654314916 78349380 0024062 699956 696166208 62253543 627866479 609539408 65478191 29871 646490990 88301 65431429 670666860 807763 627881 88106832 654765440 8255297 9690262 35503020 646490990 60731762- 664715845 516295 98 0554556 7055455 092606 638843- 7070 300363 6538 65682 9341459 63598493 628199056 9791 674009462 654313444 22853689 6543149 9812436 655729703 6745988 667830395 6356057 9812569 60741515 88106832 6195769 649686180 610513548 62537 607668839 639181270 646109878 654203218 65246461 6104 7060 981151505 64649 610513548 60766883 6819667 981274009 65431 6745988 639181270 607668839 639323 65903247 39031458 69816547 6289 3483 698165472 600240623 945181555 292 9723 63970193- 699407293 298380 60736796 69503 61843 02 661306369 649980275 635503020 696148102
+DESTINO Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil
+FECHA 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 18-Nov 18-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE NUMERO 10.41 00:01.53 0o0oo 654781919 11.32 00:02.33 0.00000 610941540 11.58 00.00.2 0.00000 655334835 13.02 00.00:06 0000o 676469155 13.27 00.01.08 ooooo 629250080 13.47 00.03.4 0000o 600240623 14.1 00.02- 0oooo 88106832 10.49 00:02.0 ooooo 9694605 11.05 00.04: 0000o 6602585 1:26 00:00: 654023 11.29 00.00 000 033418 12.02 00:00:48 000oo 792493 12:14 00:02.20 0oooo 75739940 12.51 00.0 6799 13.02 00:03: 00 13.1 00.00.0 0000o 63598- 14.00 00 09539408 14.24 00.00.06 ooooo 667- 14.4 00.05.3 0000o 674009462 00:09 000oo 6464909 13 00.00: 0000o 607710959 09.52 00.05.40 0000o 56057 10:10 00:01 65381656 10.32 00.03.33 000 8326554 122 00.02 0oooo 12: 00:00.3 2.5 00.05 6037363 13: 00:07 0000o 13.3 00.00.4 0000o 654314978 14.02 00.0 00 10957 18.44 00:0 ooooo 607696336 19.05 00.08.46 0000o 674009462 19.44 00:02: 000oo 654023034 20.25 00:02.06 .000oo 981260726 10.55 00.01 0000o 607717974 1.42 00:04: 000oo 0554556 11.57 00.05.4 000 9694605 12.29 00:00:48 0oooo 13.44 00:02 992* 14.58 00.02 6037363 10:1 00:00 0000o 9686 80 10:19 00.07 0000o 69791 20 00 9914857 00:0 000oo 9802949 12.58 00.00.46 0000o 884236 13:1 00:02 635984934 13.29 00:0 ooooo 654315152 14.06 00.08 0000o 9802949 18.45 00:06 000oo 8830 80 10.36 00.00 000 67071181 10:5- 00.035 0oooo 667021 11:1 00:00: 65431491 12.45 00.04 65431491 13.45 00:01 0000o 654314916 14.24 00.03.0 617944556 15.1 000 9825563 15.14 00:00 ooooo 8842362 15.25 00.00: 0000o 60741515 15.29 00.00: 0000o 98125660 20.04 00.30: ooooo 651516722 10:14 00.01 0000o 649686180 10.20 000oo 693305 1.00 ooooo 639181270 1:1 00.00 0000o 654314833 11.25 00.00.05 63022554 13.26 00.00.05 13.30 00:01 0000o 6745988 14.42 00:00: 000oo 654204076 16.20 00.02.10 0000o 640156647 17.24 00:01 ooooo 077656 09.58 00:00:15 0oooo 693789 10.0- 00:10.2 ooooo 61521849- 10.52 00:00:48 ooooo 6076688 12.06 00.10.49 0000o 6094154 13.32 000 83989 13.43 00.00.3- 000 38 14.30 00.0 00 980200 5: 654247656 00:00: 00537556 09 00:00: 09 00.00: 10.1 000 0554556 00:00:4 000oo 9031458 00.03.08 000 63314201 12.3 00.04: 086 10.0 00:03 0000o 98380 10.20 00.0 0000o 945569 10.4 000 988224 13.3 ).0 000 0918761 14.0 00.20 0000o 647614940 14.1 00:00: ooooo 689800102 14.29 00:00: 0o00o 63607043 14.36 00.03 0oooo 29219723 09.42 00:00:0 000oo 610416216 11.29 00.00.08 0000o 627900612 12.55 00.01.36 0o0oo 676467843 13.47 00.02.28 .000oo 670666860 13:57 00.00:09 0oooo 608611969 15.10 00.03.20 0.00000
+DESTINO Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil
+FECHA 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 18-Nov 18-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov Nov 22-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 29-Nov Nov Nov 29-Nov Nov 29-Nov 29-Nov Nov 29-Nov Nov 30-Nov 30-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE 10.46 00.03.13 0000o 11.58 00:00.0 000oo 12.01 00.01.05 000oo 13.02 00ooo 13.3 00ooo 14.09 0oooo 10:16 00: 000o 10.52 00: 000o 00.00 000oo 11.26 00:0 0000 00.0 000 12.03 00:04 12.48 00.0 00ooo 12.59 00:0 000o 13.0 00:0 000oo 13.43 00: 000oo 14.23 O: 14.4 00:0 00.2 000oo 12:48 00:3 000o 09.18 00: 000oo 10.06 00:0 000oo 10.3 00: 00: 00:0
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+00: 00:0 00:.03
+000 0000 000oo
+14.0
+18.5 19.2 19.58 09 11.08 11.49 12:19 12.30 14.48 09.26 10:18 10.36
+000 000oo 0000o 000oo
+00:04 00.04 00.0 00:0 00:0 00:
+0000 000 00000 000oo
+00:0 00:0 00:0
+00:0 00.03 00:0 00:0 00:0 00: 00 00:
+12.5 13.15
+000oo 000oo 0000o 000oo 0000 000o 000 0000 000o 000oo 0000
+14.26 10.35 10
+12: 12.50 14.05 15: 15.12 15.19 15.26
+00:0 00:
+00:0 00:0 00:0 00:0 00:0 00:
+000oo 0000 0000o 000oo 0000
+10.02 10.19 10.2
+00:0
+000 000o 000oo 0000
+00:0 00:0 00.0
+13.38 16: 16.3 09 10.05 10.31
+00.0
+000 000 00ooo 0000o 000oo 000o 000o 000 0000 000o 000oo 0000
+00:0 00:0 00.0 00:0
+13.2 13.38 13.48
+00:0 00:05 00.04 00:00:
+10.3
+00:0 00:0
+000 0000 0000 00000 000oo 000o 0000o 000oo 0000 00000 00ooo 000o 0oooo 000oo 0oooo 0.00000
+10 10.3 10.49
+00:0 00.02 00:0 00.0 00:
+14.3 15.08 10.24 12.49 13.44 13.54 14.39
+00.04 00: 0.53 00.00 00:0 :04 00.02.09 00.10:52
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+10/28
+
+--- Página 11 ---
+
+DETALLE DE LLAMADAS
+SUBTOTALES(881151505): Destino Móvil: Nacional: SUBTOTAL
+Ilamadas 350 43 393
+Duracion 21.25.03 03.59.54 25.24.57
+Importe 0,00000 0,00000 0,00000
+LINEA: 915944097 NUMERO DESTINO 988517389 Nacional 626911347 Móvil 91154898 Nacional 91154898 Nacional 60777779 Móvil 88517389 Nacional 604038939 Móvil 600602645 Móvil 911774828 Nacional 911774828 Nacional 914478182 Nacional 649946855 Móvil 600602645 Móvil 600602645 Móvil 988517389 Nacional 606363854 Móvil 88517389 Nacional 911548981 Nacional
+FECHA 06-Nov 06-Nov Nov 08-Nov 08-Nov 10-Nov 13-Nov 14-Nov 15-Nov 15-Nov 15-Nov ~Nov 20-Nov 20-Nov 21-Nov 21-Nov 22-Nov 24-Nov
+HORA 09.34 12.12 14.01 10.02 14.3 12.0 16.29 10.0 08:18 09.0 12.42 10.23 12.59 13.35 12.04 13.42 12.08 09.40
+DURACIÓN IMPORTE NUMERO 00.02:12 0.00000 881150100 00.02.31 0oooo 600602645 00.03.37 .000oo 600602645 00.05: ooooo 696133303 00:00.3 .00ooo 600602645 00.01 ooooo 988517389 00:04.5 ooooo 64677091 00.00:06 0oooo 600602645 00.00.2 000 911774828 00.01 ooooo 914478182 00.00: 0oooo 914478182 00.03 988517389 00:05 000oo 9864362 00.01 0oooo 988517389 00:01:00 000oo 609353414 00.06.22 ooooo 646770919 00.01.30 .00ooo 608749218 00.04.52 .00ooo
+DESTINO Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Naciona Nacional Nacional Nacional Nacional Móvil Móvil Móvil
+FECHA 06-Nov 07-Nov Nov 08-Nov Nov 10 ~Nov 13-Nov 14-Nov 5-Nov 15-Nov 15-Nov 17-Nov 20-Nov 21-Nov 21-Nov 21-Nov 23-Nov
+HORA 12.09 13.52 16.43 12.3
+DURACIÓN IMPORTE 00.02.12 00ooo OO:00:07 0o0oo 00.02.54 0oooo 00:.0 0000 000o 00: 0000 00:0 000oo 00: 0000 O0:0 00ooo 00.0 000oo 00:.04.2 0oooo 00:0 000o 00.00 000oo 00.03 0oooo 00.00.54 000oo 00:07.34 ooooo 00.01.41 0.00000
+19.0 12.4- 09.00 12.40 12.43 13: 13.0 11.32 12.35 18.07 12.56
+1 5 SUBTOTALES(915944097): Destino llamadas Duracion Importe Móvil: 17 00.54.56 0,00000 Nacional: 18 00.34.47 0,00000 1 SUBTOTAL 35 01.29.43 000oo ; LINEA: 928390043 NUMERO DESTINO FECHA HORA DURACIÓN IMPORTE NUMERO DESTINO FECHA HORA DURACIÓN IMPORTE 0 928367856 Nacional 02-Nov 10.34 00.01:08 0.00000 928367856 Nacional 02-Nov 10.36 00:01:08 000oo 928362366 Nacional 02-Nov 10.57 00.04:12 0.00000 928916137 Nacional 02-Nov 11.53 00.00.59 0.00000 8256 Móvil Nov 11.54 00.21.01 0000o 928916137 Nacional Nov 11.58 00.01.42 000oo 981649825 Nacional Nov 12.39 00.31: 0o0oo 9 928553131 Nacional Nov 13.35 0O: 0:54 000oo 928439055 Nacional Nov 14.00 00.00:15 .0000o 928439055 Naciona Nov 14.01 00:0 000oo 28439055 Naciona Nov 14.0 00:00:49 0oooo 928439055 Nacional Nov 14.02 00:0 000o 28765415 Nacional Nov 14.08 00:04: ooooo 928302328 Nacional Nov 14.3 00.04.4- 000oo 928439055 Nacional Nov 16.0 00.01 0000o 683136463 Móvil Nov 10.28 00.00 000oo g 928427575 Nacional Nov 00.03:4 000oo 928* 83 Móvil Nov 00:2 000o 91787831 Nacional 03-Nov 00.00:10 000 787831 Nacional Nov 00: :06 000o 928439055 Nacional 03-Nov 2.06 00.0 0oooo 928724668 Nacional Nov 12.09 00: : 63956725 Móvil 03-Nov 12.2 00:0 928263 Naciona Nov 2.3 00:0 0000 683136463 Móvil 03-Nov 12.36 00.00.0 928439 Nacional Nov 12.42 00:0 000o 62857 5 Móvil 03-Nov 13: 00:0 0000o 928439 Nacional 03-Nov 13.13 00:0 000oo 6230692 Móvil 03-Nov 13: 00.06 6000958 Móvil Nov 13 0000 6000958 Móvil 03-Nov 14.06 00.03: 00 9287 069 Nacional Nov 00:0 g 30561 Móvil 03-Nov 15.54 00:04.18 000oo 069 Móvil Nov 16:1 00:04 981649825 Nacional 06-Nov 09.1 00.06.15 0000o 806 265 Móvil Nov 10.0 00:0 000oo 2891613 Nacional 06-Nov 10.34 00.02.5 000 '64893 Móvil Nov 1.06 00.0 00ooo 673318880 Móvil 06-Nov 1.50 00:02 000oo 265 Móvil 6-Nov 14.40 00:0 0000o 8 012 Especial Nov 09.36 00.14.3- 72833 9283 200 Nacional 07-Nov 09 00.04 000oo 2820092 Nacional 07-Nov 10.03 00:0 000 82009 Nacional Nov 10 00:0 0000 81649825 Nacional Nov 10.58 00.30:15 000 '68 Móvil Nov 00: 80789 Móvil Nov 00:1 0000o 92844053 Nacional Nov 00:0 : 92836 Nacional ~Nov 00:01 8367856 Nacional Nov 000 92836 Nacional Nov 14.22 00.03 806 265 Móvil Nov 00:0 000oo 284405 Nacional 08-Nov 1.03 00:1 0000o 928560356 Nacional 08-Nov 00:0 000oo 62868 Móvil 08-Nov 11.24 00:00: 8682 Móvil Nov 00.0 0000 60 Móvil 08-Nov 12.42 00.04.0 000 928301 Nacional Nov 12.56 00: ; 9284435 Nacional 08-Nov 13.05 00:04: 000oo 928560 60 Nacional Nov 13:16 00.0 928551 Nacional 08-Nov 13.47 00.04.29 000 25 Móvil Nov 14.1 0000 28302328 Nacional Nov 09.29 00.01 928302328 Nacional Nov 0 00:0 00ooo 8 6091432 Móvil Nov 10.45 00:15: ooooo 80612 Móvil Nov 00:0 0000o 92813607- Nacional 09-Nov 1334 00.01 0000o 94481893 Nacional Nov 00:0 000oo 9281 Nacional Nov 11.38 000 919199224 Nacional Nov OO:C 0000 281 6014 Nacional Nov 13:10 00.03: ooooo 928117900 Nacional Nov 3: 00.0 1 677460235 Móvil 09-Nov 13.25 00.04 0000o 617248058 Móvil Nov 00: 000o 617248058 Móvil 09-Nov 13.45 00:00: 6749199 Móvil Nov 00:0 0000 6220323 Móvil 09-Nov 15: 00.00 0932 Móvil Nov 00.0 000oo 607011552 Móvil 09-Nov 15.55 00:04 0000o Nacional 09-Nov 00.03 000oo 928427575 Nacional 10-Nov 09 00:02 0000o 2203231 Móvil 10-Nov 12.5 00: 0000 928336279 Nacional 10-Nov 13.0 00.0 000 912108000 Nacional 10-Nov O0: g 28641223 Nacional 10-Nov 14.26 00:02.5 000oo 915313903 Naciona 13-Nov 10 00:04 000 92855313- Nacional 13-Nov 10.3 00.02 0oooo 928367856 Nacional 13-Nov 0000 28362205 Nacional 13-Nov 11: 00.00 0oooo Especia 13-Nov 00.02 1000 012 Especial 13-Nov 12 00:05 2741 8939369 Naciona 13-Nov 00:0 000oo 92823 099 Nacional 13-Nov 16.28 00.01 0000o 928804001 Nacional 13-Nov 16.3 00.0 000oo 3 92880400 Nacional 13-Nov 16.32 00:05 000 63956 254 Móvil 13-Nov 16.38 00:0 000o Nacional 14-Nov 10:10 00:00 000 Nacional 14-Nov 10: 00.0 000o 9282892 Nacional 14-Nov 10.29 00.0 0000o 8916 Nacional 14-Nov 10.3 00:0 000 282331 Nacional 14-Nov 11:18 00:06: ooooo 64942569 Móvil 14-Nov 15.0 00:0 0000 9 6230692 Móvil Nov 15.06 00:10: 928362- Nacional 14-Nov 16:12 00:0 00000 928221 Nacional 15-Nov 09:3 00.01 00ooo 7683 Nacional 15-Nov 10.02 00.05 00ooo 9289 613* Nacional 15-Nov 10:12 00:02 9885 Nacional 15-Nov 10.1 00: 0000 677493879 Móvil 15-Nov 10:18 00.03 000 928439 Nacional 15-Nov 10.24 00.3 000 928362205 Nacional 15-Nov 10.43 00:05 000oo 928379000 Nacional 15-Nov 10.5 00:0 000 2 928439055 Nacional 15-Nov 10.59 00:08:5 000 92847681 Nacional 15-Nov 0000 9283806 Nacional 5-Nov 11:13 00.01 9283806- Nacional 15-Nov 11:15 00:0 0000 928091442 Nacional 15-Nov 12.4 00:01 ooooo Naciona 15-Nov 12.55 0O: 000oo 928092541 Nacional 15-Nov 16.01 00:00: 92809254 Nacional 15-Nov 16.08 00: 0000 8 659965485 Móvil 15-Nov 16.43 981649825 Nacional 16-Nov 10.29 0O: 000o 28239164 Nacional 16-Nov 10.59 ).0 000 855 304 Nacional 16-Nov 00.0 12 Especial 16-Nov 12: 00:03:C 660536 Móvil 16-Nov 12.32 00.03 000oo 654789385 Móvil 16-Nov 13.3 00.00: 608031 Móvil 16-Nov 13.35 00:0 000o 8 654789385 Móvil 16-Nov 13:4C 00.04 ooooo 928222 24 Nacional 16-Nov 14.25 00.0 0000o 282391 Nacional 16-Nov 00.00 0oooo 606045770 Móvil 17-Nov 09:18 00:0 00ooo 606045770 Móvil 17-Nov 09.3 00:01 000oo 928916137 Nacional 17-Nov 10.26 00.0 000o 06045770 Móvil '~Nov 10.29 00:02 0oooo 928226013 Nacional 17-Nov 10.48 00: 0000 28226013 Nacional 17-Nov 10.49 00.00.08 000oo 928226013 Nacional 17-Nov 12.29 00:0 000oo 928226013 Nacional 17-Nov 14.07 00:00:56 ooooo 928226013 Nacional 17-Nov 14.08 00: 0000 660536773 Móvil 20-Nov 11222 00.02.48 000oo 630914248 Móvil 20-Nov 11.51 00.07- 000oo 699287083 Móvil 20-Nov 11.56 00:18.54 0o0oo 699287083 Móvil 20-Nov 13:19 00.06.23 0o0oo 699331402 Móvil 20-Nov 13.27 00:12:10 0.00000 699331402 Móvil 20-Nov 13.49 00.01:00 0.00000
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+11/28
+
+--- Página 12 ---
+
+DETALLE DE LLAMADAS
+NUMERO 628061265 673318880 9289161 22886 2844053 9284336 28641 88517389
+DESTINO Móvil Móvil Nacional Móvil Nacional Nacional Nacional Nacional Móvil Nacional Nacional Móvil Nacional Nacional Nacional Nacional Nacional Nacional Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Red Inteligente Nacional Móvil Móvil
+FECHA 20-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 22-Nov 22-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 29-Nov 29-Nov 29-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE NUMERO 14.27 00.05.41 0o0oo 699331402 09.59 00:00.29 0.00000 673318880 10.20 00.01.46 0.00000 619007464 13.02 00.00.28 0000o 699331402 13.5- 00.01:00 .00ooo 901502050 15.0 00.03: 0000o 90061 11:1 00:01 928050050 %0000 13.49 00.00:0 928291576 10.52 00.01 0000o 6607080 13.40 00:02 000oo 928553 14.06 00.03: 000 28553 31 15.05 00:00 00 859 15.4 00:05.5 .0000o 981649825 09 00:1 981649 10.35 00:03: 00 836- 10.37 00.01 0000o 928362 11.25 00.03 00 325 13.24 00:09 00 14.13 00.00: 0000o 928050050 11.05 00:19: 628913483 09.3 00.01 10.43 00.04 0000o 9282900 15.44 00:03: 000 53 10.33 00.02.05 000 2862 068 1.05 00.01 0oooo 636123885 00:00: 000oo 928916 1.49 00.00.4 0000o 800760266 11.53 0O:00: 000oo 928916 12.25 00.05.48 .0000o 628682597 17.24 00.01.29 000oo
+DESTINO Móvil Móvil Móvil Móvil Red Inteligente Móvil Nacional Nacional Móvil Nacional Nacional Móvil Nacional Nacional Naciona Nacional Nacional Nacional Nacional Móvil Nacional Nacional Nacional Nacional Móvil Nacional Red Inteligente Nacional Móvil
+FECHA 20-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 22-Nov 22-Nov 23-Nov 23-Nov 23-Nov 23-Nov 24-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 28-Nov 29-Nov 29-Nov 29-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE 15:12 00:00:06 0000o 10:12 00.04.08 0o0oo 12.48 00.39.45 000oo 13.17 00ooo 13.53 00: :36 99430 15.56 00.05 0oooo 000o 00:0 000o 12.49 00:0 000oo 13.46 00: 0000 14.56 00: 000 15.15 12.38 00: 00ooo 10.25 00: 000 10.3 00:0 00000 10.39 00.0 000oo 00: 00:C 00:0 000o 12.0 00:0 000o 10.27 00.02 000oo 13.10 00:0 000oo 00:0 000o 10.5 00.0 000o 00: 00ooo 00:04 000o 00:1 000oo 11.55 00.01.40 0o0oo 14.24 00:00.01 0.00000
+289 28234503 1859 287 981649825 9174541 9289 6137 289161
+915313903 928050050 60694409 28050050 928433699 289161 36078 63612388 00760266 2891613 699477184 636123885
+1 5 1 ; 0 9 g : 5 g ; : ; 8 1 : 3 9 2 8 8
+SUBTOTALES(928390043): Destino Móvil: Red Inteligente: Nacional Especial: SUBTOTAL
+Ilamadas 70 3 128
+Duracion 05:17.29 00.30.18 08.19.54 00.25.23 14.33.04
+Importe 0,00000 0,99430 0,00000 1,26916 2,26346
+205
+LINEA: 981174681 NUMERO DESTINO 988517389 Nacional
+FECHA 15-Nov
+HORA DURACIÓN IMPORTE NUMERO 13.29 00.00.07 0.00000
+DESTINO
+FECHA
+HORA DURACIÓN IMPORTE
+SUBTOTALES(981174681): Destino Nacional: SUBTOTAL
+llamadas
+Duracion 00.00.07 00.00.07
+Importe 0,00000 000oo
+LINEA: 981220765 NUMERO DESTINO 988517389 Nacional
+FECHA 17-Nov
+HORA DURACIÓN IMPORTE NUMERO 09.52 00.01.23 0.00000
+DESTINO
+FECHA
+HORA DURACIÓN IMPORTE
+SUBTOTALES(981220765): Destino Nacional: SUBTOTAL
+llamadas
+Duracion 00.01.23 00.01.23
+Importe 0,00000 0,00000
+LINEA: 981224273 NUMERO DESTINO 988517389 Nacional 88517389 Nacional
+FECHA 02-Nov 07-Nov
+HORA 11:18 12.31
+DURACIÓN IMPORTE NUMERO 00.01.37 0.00000 988517389 00.00.55 .000oo
+DESTINO Nacional
+FECHA 06-Nov
+HORA DURACIÓN IMPORTE 10.44 00.01:06 0.00000
+SUBTOTALES(981224273): Destino Nacional: SUBTOTAL
+llamadas
+Duracion 00.03.38 00.03.38
+Importe 0,00000 00ooo
+LINEA: 981252258 NUMERO DESTINO 012 Especial 901502050 Red Inteligente 6455202 Móvil 981138209 Nacional 6499567 Móvil 98129554- Nacional 639130407 Móvil 98167665 Nacional 86365000 Nacional 959025 Móvil 9810616 Nacional 881927203 Nacional 62535390 Móvil 637391 Móvil 885 7389 Nacional 8621 Móvil 2774001 Móvil 9811690 Nacional 9206100 Móvil 88124381 Nacional 9882156 Móvil 98160211 Nacional 981985553 Nacional 88188115 Nacional 981649825 Nacional 986365000 Nacional
+FECHA 02-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov
+HORA DURACIÓN IMPORTE NUMERO 08.59 00.09.55 0.00000 971774504 09.05 00:17.24 93370 629835855 09.1 00.01.28 0.00000 981295544 09.3 00.00:4 ooooo 623494205 10.26 00.00: 000oo 62818061 10.45 00:00.40 ooooo 986460719 10.48 00.01:19 ooooo 687467321 10.55 00.02 00 981649825 1.05 00:02 oo0oo 683555136 00.0 0000o 981295544 00: 988517389 00.00 590257 00.00 0000o 986447498 00.1 00000 988517389 1335 00.00: 00 0080040 12.00 00.0 00 12:1 00:10: 63913040 12.22 00.02 64750580 12.23 00.04 0ooo 981602 12.30 00.03: ooooo 698148 06 12.43 0:0 00 98651 12.48 00:02 ooooo 981649825 12.57 00.02.5 .0000o 626911347 13.00 00.04.52 0000o 621330524 13.02 00.01 ooooo 924459303 13.13 00.02.37 .0000o 981145683
+DESTINO Nacional Móvil Nacional Móvil Móvil Nacional Móvil Nacional Móvil Nacional Nacional Móvil Nacional Nacional Red Inteligente Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Móvil Nacional Nacional
+FECHA 02-Nov Nov Nov Nov Nov Nov 02-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 02-Nov Nov Nov Nov Nov Nov 02-Nov
+HORA 09.04 09.10 09.2 09.3 10.42 10.48 10.49 10.56
+DURACIÓN IMPORTE 00:00.34 00ooo 00.07.28 000oo 00.04 000o 00:1 0000 000o 00.00 00000 00:.03 0000 00 00.0 000oo 00:0 000o 00.0 0000 00:0 000oo 00: 0000 00: 00:0 00.0 0000 00:0 000oo 00.03 0000o 00: 0:06 0000 00: 000o 00: 00o 00: 000oo 00.0 000oo 00.01.44 00000 00.01.51 000oo
+12:15 12:19 12.2 12.25 12.36 12.47 12.55 12.58 13.01 13.03 13.15
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+12/28
+
+--- Página 13 ---
+
+DETALLE DE LLAMADAS
+NUMERO 981121398 910604413 886206238 62067 8851738 98112135 98116020 5939385 79181 86365000 981649825 93894 678708523 9640262 6516421 98164982 2884499 9640262 9812562 9813557 6551 5023 88190929 9816021 98113084 6940393 979832 981426 981 6669
+DESTINO Nacional Nacional Nacional Móvil Nacional Naciona Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Naciona Móvil Nacional Red Inteligente Nacional Nacional Nacional Móvil Móvil Nacional Naciona Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Red Inteligente Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Red Inteligente Nacional Nacional Móvil Nacional Nacional Móvil Red Inteligente Nacional Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil
+FECHA 02-Nov 02-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov Nov Nov 03-Nov 03-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov Nov 06-Nov 06-Nov Nov 06-Nov 06-Nov 06-Nov Nov Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov
+HORA 13:15 13:18 13.21 13.2- 13.23 13.28 13.3 13.35 13.5 13.53 14.02 14.09 14.20
+DURACIÓN IMPORTE NUMERO 00:01.46 0o0oo 986365000 00.01.25 0.00000 910604413 00.02.15 0.00000 914419242 00.06.4 0000o 988517389 00.01:00 .00ooo 981289882 00.01 .0000o 981185127 00.09: 881955800 '@0008 00.02- 644464785 00.00.1 0000o 679181368 00:00:50 00o0o 645903235 00:17.46 0o00o 655115023 00:04.3 000oo 6402625 00:01 ooooo 981145683 00.00.05 0000o 98108051 00:04.48 000oo 981411000 00.02.40 0000o 981256239 00.03 00 6402625 00:02 ooooo 981 00.00: 0000o 91060441 00:01 683555136 00.04 0523 00.03 0000o 620248 00:0 98851 '389 00.0 000 68707892 00.08 0oooo 60345448 00:00.0 0345448 00.09: 0345448 00:0 0000o 9811308 00.02 0000o 662488 00 00 00 00:00 ooooo 00:00:5= 0000o 6050439 00:01 000oo 6292 00:10: ooooo 90080040 00.04 0000o 604032 55 00:16:45 000 383649 00.07 000 88124381 00:04:C 0oooo '6993488 00.00.5 606499 00.00.0- 981685469 00:0 0000o 9442423 00.05 0000o 659740619 00 9346167 00.00.46 ooooo 881150100 00.01 0000o 628166300 00.00:08 981649825 00.05: ooooo 96131 00.00 0000o 69816701 00:00:06 000 626517709 00.01.26 000 644464785 00:00:48 0oooo 8695786 00.00.08 9885 7389 00.07 988517389 00:03: 0000o 881909300 00.01 0000o 627520050 00.0 0000o 647505803 00:0 03 10802 98123271 00:00:0 0000o 629014508 00.01.06 0000o 984649222 00:01 ooooo 981649 00.00: 0000o 6977301 000 981126090 00.00 000 86817446 00.02 0000o 624889- 00:0 981154325 00.02 913040 0000o 6406 09 636 00:0 000 98198555 00:0 ooooo 66300 00.01 000 680504664 00.02. 00:0 ooooo 00.0 0000o 644670239 00:00: 000oo 659393859 00.0- ooooo 63013134 00.01 0000o 644670239 00:02 981649 00.00: 0000o 90080040 00.27 1.44459 686865759 00:05: 000oo 625950262 00.01:18 0000o 671142112 00:00:06 000oo 98179162- 00.01 0oooo 98179162 00.00 ooooo 981120529 00:00: ooooo 657945702 00.00.40 0000o 937901166 00:00:0 000 980371 00.04.08 0oooo 56087 00.01 0000o 98127562 00:00:0 ooooo 66761756- 00:01 ooooo 901502050 00.01:06 00ooo 981229425 00:0 0000o 9366504 00.01 000 69219758 00:1 88517389 00.03: 5939385 00:01 988517389 00:01 ooooo 03932 00:04 Ooooo 981173206 00:19.3 000 988517389 00:02 ooooo 900800401 00.0 0000o 981649825 00:00: ooooo 62774001 00.02 ooooo 590257 00.00: 0oooo 881080209 00:00:59 000oo 666919395 00:05: 0oooo 6351016 00:04: 000oo 981184200 00.00.03 ooooo 981901122 00.00.02 000oo 98189101 00.01:05 0o0oo 981901122 00.08.40 0.00000 615020754
+DESTINO Nacional Nacional Nacional Nacional Nacional Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Naciona Nacional Móvil Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Red Inteligente Móvil Móvil Nacional Móvil Nacional Nacional Nacional Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Nacional Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Red Inteligente Móvil Móvil Móvil Naciona Nacional Nacional Móvil Nacional Móvil Móvil Nacional Móvil Red Inteligente Nacional Móvil Móvil Nacional Móvil Nacional Móvil Nacional Nacional Red Inteligente Nacional Móvil Móvil Nacional Móvil Móvil Naciona Nacional Nacional Nacional Móvil
+FECHA 02-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 03-Nov Nov Nov 03-Nov Nov Nov Nov Nov Nov Nov Nov Nov 03-Nov 03-Nov Nov Nov Nov 03-Nov Nov Nov Nov Nov Nov Nov Nov 03-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 6-Nov Nov Nov Nov Nov Nov Nov Nov 06-Nov Nov Nov Nov Nov 06-Nov Nov Nov Nov Nov Nov 6-Nov 06-Nov 06-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 06-Nov 06-Nov
+HORA DURACIÓN IMPORTE 13:16 00:01:11 0000o 13.20 01.36.39 0o0oo 13.21 00.00.35 000oo 13.22 00ooo 13.25 00: 00ooo 13.3 0oooo 3:3 000o 13 00.09 000o 13.5 00: 000oo 13 00:0 0000 14.03 00: 14.18 00:0 00:0 00ooo 00:0 000o 00:0 00000 00.04 000oo 16 16 16.2 0o: 000o 16.30 000o 16.43 00: 000oo 16.5 00: 000oo 00: 0000 0:
+14.34 15.00 16:08 16:1 16.20 6.26 16.3 16.5
+1 5 81872 6539205 1 902 64947293" 69597* 6538 7049 981080300 ; 637069880 9442423 0 665716955 609263518 680504664 9 881150100 677716773 86443426 66702049 66018822= g 662488100 2540780 64906674 : 6700191E 981600810 5 881909300 645901408 981182385 g 901166565 98189101 98123271 9816021 8 652922794 78415932 86817445 988687124 : 8821 981154325 67877145 662488932 98179162 ; 881909295 615081 687568009 8 3097382 9868 649190288 812263 1 644670239 8686575 98129554- 901502050 98135571 986817533 g 671142112 650341453 679472979 98851~ 3 98179162 618621316 0080040 981126090 88190906 9 6959025 98179162 91541029 634638342 901502050 2 98127562 69697730- 661841285 68050466 8 60309889 8133737 617185216 981229425 8 88517389 677716773 666351016 69366504 056025 629014508 98189101 646951979 600968034
+17.08
+00:0 00.04 00.00
+000 0000 000oo
+18.0 08
+19: 09 09 10.1 10.2- 10.29 10.42 10.52 10.58
+00.0 00.04 00:00 00:0 00:0 00: 00: 00:
+000o 000o 0000o 000oo 0000 000
+10
+0000 000 0000 000oo
+00: 00:0 00:0 00: OO:C 00:0 00:0 00.04 00.05 OO:C 00: 00:0 00:03 00:0 00.03 00 O0: 00:0 00:0 00:0 00:00 00.03 OO:C OO:C 0o: 00: 00:0 00:0 00: 00: 00:0
+12.08 12.13 12.23 12.30 12.3 12.45 12.52 12.55 13.03 13.1 13.23 13.3 13: 13.43 14.0 14.03 14.1 14.1 4.25 08
+12.10 12:16 12
+12.4 2
+000oo 000o 0000o 000oo 0000
+3.0 13.08 13
+0000 000o 000oo 0000
+000oo 0000 0000o 000oo 0000
+0000 000o 000oo 0000
+10.0 10:2 10.46 10.52
+10 10 0.56
+000 0000 0000 0000o 000oo 000o
+1.08
+00:0 00:08 00.02 00: 00.0 00:0
+1224
+000 000o 000oo 0000
+00:0 00:0 00: 00: 00:0 00: 00:0 00:0 00.03 00:0 00.0 00:0 00:0 00:0 00:00 00: 00: 00:0 00.0 00:0 00:0 00: OO:C 00.0
+12.03 12.04 12.06 12:1 12: 12:16 12.17 12.20 12.22 12.27 12.3 12.36 12.42 12.45 12.54 13.0 3.0 3.0 13.08
+12.03 12.05
+000 000 0000 00000 000oo 000o 000o 000 0000
+12: 12.19 12.2
+2.3
+12:45
+0000 0000 000 000 0000 0000 00000 0000 000o 000o 000oo 000o 0000o 00ooo 000o 0000 OoooC 0000 000oo 0o0oo 0.00000
+13
+13
+3.35 13.36 13.42 13:47 13.55 13.59 14.07 14.29 14.29 14.32 14.50
+00: 00.0 00.04 00:00:16 00:
+13.5- 13.56 14.0 14.22 14.29 14.30 14.46 15.40
+00.00.01 00.01.25 00:02.43
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+13/28
+
+--- Página 14 ---
+
+DETALLE DE LLAMADAS
+NUMERO 697566429 00825025 981231242 674838559 30770938 63077093 90359205 65408198 6912638 66539205" 627456860 981920010 72281121 917454131 68707892 661504573 680372525 655880035 60096803 9283010 651935908 651935908 6777 6773 62034 91 652361618 901502050 61623405 61623405 603134059 667738585 618621316 98113084 667227719 886871 981649809 98129554- 885 7389 06252200 981649825 06315713 981901122 68035147 29665166 59361975 92591 981649825 6202061 988517389 0080040 981149352 98118534- 685994085 988517389 62266 98113084 910604413 910604413 0604413 16234051 610470848 0502265 791656 9531 6541656 6584868 981166300 98106161 98117488 981122610 981122610 0081515 986443426 667738585 881927203 9983336 981299105 981169075 981185146 619355955 677716773 88687162 986365000 66654898 98122572 607431255 9812232 659548 881893848 913157180 988517385 98851 656898983 699488102 677716773 679259118 981134051 986582313 98120584- 667738585 981205841 981707172 981707172 604016270 604016270 604057553 881893848 6539481 8723060 7981 5954328 881881992 659543280 609755801
+DESTINO Móvil Red Inteligente Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Red Inteligente Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Nacional Nacional Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Nacional Red Inteligente Nacional Nacional Móvil Nacional Móvil Nacional Nacional Nacional Naciona Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Naciona Nacional Nacional Nacional Red Inteligente Nacional Móvil Nacional Móvil Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Nacional Móvil Nacional Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Nacional Móvil Nacional Naciona Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil
+FECHA 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov Nov Nov Nov 07-Nov 07-Nov Nov Nov Nov 07-Nov 07-Nov 07-Nov 07-Nov Nov Nov ~Nov Nov 07-Nov 07-Nov Nov ~Nov Nov 07-Nov 07-Nov 07-Nov 07-Nov Nov Nov ~Nov 07-Nov 07-Nov 07-Nov Nov 07-Nov Nov 07-Nov 07-Nov 07-Nov 07-Nov Nov Nov ~Nov Nov 07-Nov ~Nov Nov Nov Nov ~Nov 07-Nov 07-Nov 07-Nov Nov Nov ~Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov Nov Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov
+HORA 15.45 16.05 16.13 16.28 16.42 6.4
+DURACIÓN IMPORTE NUMERO 00:12.51 0o0oo 988517389 00.06.25 0.00000 981231242 00.07.2 0.00000 696351290 00.07.38 0oooo 900800401 00:00: ooooo 680504664 00.00: 0000o 2362366 00.33: 0oooo 98851* 389 00.05 .0oooo 981145683 00.0 0000o 6784159 627456860 000 0770938 00:00 00 00 92001 00.00.3 0oooo 8771457 00.0 645520292 0000o 18723060 0000o 680574399 00 83 00:00:08 ooooo 98 00:14.05 0000o 928379000 00.02.20 00.00: 98129554 00.00:19 0000o 695588 00:01:16 000oo 6348552 00.00.1 0o00o 98 29554 00.00.05 ooooo 00:18: 975 981 62800 00.00: 00:00 0000o 6484 00:1 0000o 635301842 00.02.00 00 7013 00:00:05 ooooo 602 00:04.09 0000o 661841285 00:1- 000oo 6063157 00:04.08 ooooo 00.02 0000o 914930895 00:0 644670239 00.0 000 667272581 00.00.0 0oooo 86443426 00.28: 0393252 00.01 06201 00:0 0000o 981901 00.0 0000o 670502265 00 0502265 00:00: ooooo 6593619 00.00.0 0000o 622548 08 00.01 000oo 65034145 00:00: ooooo 020619- 00.01 0000o 986501496 00:05 000oo 988517389 00.03 000 98122257 00.06 0oooo 9346 67 00.00 6499212 00.00: 6584868 00:02 0000o 988517389 00:00 9885 389 00.00 000 0604413 00:0 000oo 932177654 00.01 0000o 881893848 00.23: 0000o 981503035 00:0 ooooo 637378848 00.03: 0000o 625950262 000 981148810 ooooo 646427177 00.0 0000o 678592352
+DESTINO Nacional Nacional Móvil Red Inteligente Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Naciona Nacional Móvil Móvil Móvil Nacional Nacional Nacional Nacional Naciona Nacional Móvil Móvil Nacional Móvil Móvil Especial Nacional Nacional Nacional Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Red Inteligente Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil
+FECHA 06-Nov 06-Nov 06-Nov 06-Nov Nov Nov Nov Nov Nov 06-Nov 06-Nov 07-Nov Nov 07-Nov 07-Nov 07-Nov 07-Nov Nov 07-Nov 07-Nov Nov 07-Nov Nov Nov Nov Nov 07-Nov 07-Nov 07-Nov 07-Nov Nov Nov 07-Nov 07-Nov 07-Nov 07-Nov Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov Nov Nov Nov 07-Nov 07-Nov 07-Nov Nov Nov Nov 07-Nov 07-Nov 07-Nov Nov Nov Nov Nov Nov 08-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 08-Nov Nov Nov 08-Nov Nov Nov Nov Nov 08-Nov Nov Nov Nov Nov Nov Nov Nov 08-Nov Nov Nov Nov Nov 08-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 08-Nov
+HORA DURACIÓN IMPORTE 15.55 00:00.40 0000o 16:1 00:00:1 000oo 16.21 00.01 000oo 16.34 O: 00ooo 16.42 00:0- 00ooo 16.5 000oo 000o 00: 000o 18.03 00:0 000oo 18.06 00:05 9 00.2 00:0 09 00:.04 00ooo 00:0 000oo 00.04 00000 0o: 000oo
+18.00 18.03 8:1 08: 09 09 09 09 09 09 10.06 10.09 10.34 10.51 11.05 11:13 11.2- 1.25 1.27 1.40 11.45 11.49 12.02 12:19 12:43 12.45 13.13 13.24 13.30 13:48 13.5 13.55 14.23 14.37 14.42 15.46 15.47 16:1 16.24 16.25 16.38 16.39 16:59 17:1 17.1 17.22
+00: 0.0
+0.0 10.2 10.43 10
+000oo 000o 000oo 000oo
+00: 00.0 00:0 00:0 00:0
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+0000 000 0000 000oo
+00:0 00:0 00.02
+11.46 12.01 12:16 12.20 12:45 12.49 13.16 13.28 13.4 13.53 13.5- 14.05 14.3 14.3 14.44 15.46 16.05 16.2 16.2 16.30 16.38 16.46
+00.0 00:0 00:0 00.0 00: 00: 00.3 00: 00: 00:0 00:0 00.0
+000oo 000oo 0000o 000oo 0000
+0000 000o 0000 000oo
+00:0 00.00 00:2 00 00.04 00:0 00: 00.0
+000oo 000o 0000o 000oo 0000
+000 0000 000o 000oo 0000
+00: 00:0 00:
+7.30
+00:0 00:0 00:0 00.04 00.03 00.03 00.0 00:0 00.0 00:0 00:0 00.0 00:0 00:0
+7.36
+000oo 00ooo 0000o 000oo 0000
+18.0 18 18.4
+18.0 18
+18
+0000 000o 000oo 0000
+08
+00.0 00:0
+981166300 981166300 981649 981 166300 981182208 005739 22548 08 65 2523
+000 ooooo
+00:00:04 00.02 00.00: 00:02
+000 000 00ooo 0000o 000oo 0000
+00:0 00:0 00.00 00:0
+0000o
+10.0 10.0 10.1 10: 10:1 10:2 10.30 10.37 10.40 10:42 10:52 10.55 1.00 1.02
+00.01.03 00:1 00:.00:5 00.19: 00:05 00:06 00.03: 00:02.48 00.03: 00.01
+00 00
+0004
+0000 000oo 000oo 0000
+00:0 00:0 00.0 00: 00:0 00.0 00:0 00:0 00.04 00:06 00: 00:0 00:0 00.0 00:0 00:0 00 00:0
+752484 4055 05 000 3555 36 000oo 2955 000 0632 881900450 ooooo 629 0000o 66539205 000 65819224 0oooo 00907 0000o 07388 6581922 9149308 00ooo 647632968 000oo 606315713 0000o 625798131 ooooo 981225727 000 609774782 ooooo 862131 ooooo 98126091 06315713 000 981126682 ooooo 604016270 0000o 604016270 881080209 ooooo 604057553 0oooo 67184631 000oo 981503035 0oooo 005560 000oo 646188106 ooooo 98122329 000oo 687568009 0o0oo 669982742 0.00000 626575312
+10 10.3 10.38 10 10: 10.5- 10 1.02
+000 0000 00ooo 00000 000oo 000o
+00:0 ):00:0
+00.0 00:00.0 00:09 00:16.0 00:00: 00.05 00:12.48 00.00: 00:00: 00:02: 00.03: 00:00:58 00:0 00:00:16 00.01 00:00: 00.00.0 00:00.26 00:01 00:42:0 00:11.3 00.04.52 00:02:1 00.00.37
+0000 00000 00ooo 0000 000 000 0000 0000 000oo 0000 000o
+339
+12.00 12.0- 12.10 12.15 12.21
+12.0 12.05 12.15 12.20 12.21 12.22 12.23 12.40 12.41 12.47 2.55 13.00 13.02 13:1 13.22 13.31
+00.07 00.05 00: 0O: 00: 00:0 00:0 00.0 0O:0 00.0 00:(
+12.23 12.35 12.40 12.4 12.49 .58 3.0 13.05 13.16 13.28 13.41
+0000 0000o 00ooo 000o 0000 000o 0000 000oo 0o0oo 0.00000
+00.01.23 00.05.05 00:04.25
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+14/28
+
+--- Página 15 ---
+
+DETALLE DE LLAMADAS
+NUMERO 630627983 98113084 981130841 00573972 981901122 981256239 619207575 67236 0080040 690359205 0400739 68104 63017773= 6541656 981503035 63068785= 9865823 09437406 6258231 8851- 86365000 901502050 9812058 94282801 98161 629 901502050 910604413 981901122 981256239 910604413 634638342 981613983 654215495 981901122 981611629 698167013 942819447 942819113 981184200 645813124 942819447 942819113 06315713 657804481 981600750 667361 '600608- 667634009 65287872 6315713 981600750 9811308 698167269 98112052 949700288 667370436 9885 67215679 69814 6063089 60631 981 03006 8851 ~ 94970028 8851 9865823 2884499 8851 88517389 6057800 656867865 26057800 981920010 986442724 981337377 9878113 98166954 6202061 881255653 981904848 981184200 86442724 981611506 9816498 649124268 653231 679181368 981103006 986365000 9816498 9816498 698146130 881150100 98851 88517389 988517389 981795246 981295544 981286572 881255653 98167269 67370436 9811542 9812229 625088383 606252200 651407042 17935230 68720386 88517389 981917378 981917378 698167269
+DESTINO Móvil Nacional Nacional Móvil Nacional Nacional Móvil Móvil Red Inteligente Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Nacional Red Inteligente Nacional Nacional Nacional Red Inteligente Nacional Nacional Nacional Nacional Móvil Nacional Móvil Nacional Nacional Móvil Nacional Naciona Nacional Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Nacional Nacional Naciona Nacional Nacional Móvil Nacional Nacional Móvil Móvil Móvil Nacional Nacional Nacional Móvil Nacional Móvil Nacional Naciona Nacional Nacional Nacional Nacional Móvil Móvil Móvil Nacional Nacional Nacional Nacional Móvil Nacional Nacional Nacional Naciona Nacional Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Nacional Nacional Móvil
+FECHA 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov Nov Nov Nov Nov Nov Nov Vov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 09-Nov Nov Nov Nov Nov Nov 09-Nov Nov Nov Nov Nov Nov Nov 09-Nov 09-Nov Nov Nov 09-Nov Nov 09-Nov Nov Nov 09-Nov Nov 09-Nov Nov 09-Nov 09-Nov Nov 09-Nov 09-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov
+HORA 13.45 13.48 13.52 14.03 14.05 14.3 14.55 15.45 16.05 16.25 6.35 6:
+DURACIÓN IMPORTE NUMERO 00.02.23 0o0oo 981901122 00.02.44 0.00000 627858938 00.01:10 0.00000 630531409 00.00.41 0000o 981795246 00:01.40 .00ooo 986443426 00.01 0000o 986582313 00:02 98179162- '@0008 00:13: 630575123 00.23 0000o 59025 0000o 626458446 00.06.36 000 695902575 00 00 00 62747933 00:08.0- 0oooo 988517389 00.05: 0000o 66291771 00:4 000oo 256239 00.00: 0000o 98115382 19:0 00: 000 5823 99 09 00:00: ooooo 985553 00.02 0000o 901502050 00:16: 000oo 901502 00.02 00ooo 901502050 00.08.0 46405 629320380 79181368 00.02 000 65392052 00:0 0oooo 00:03:.0 20650 9015029 0.0 00.00: 938312 10.0 00:00.0 0000o 06044 10.08 00.04 0000o 981611629 10.1 00.01.05 00 661910593 10.20 00:0 ooooo 925976 10.30 00.01.43 0000o 94282801 10.44 00.02.39 000oo 629 885802 10.49 00:13.0 ooooo 1.03 00.00.4 0000o 00:0 94282801 00.0 :06 0oo 6364061 00.00 0oooo 9428191 00:00.3 9428191 00.00: 981184200 00:00: 0000o 94281911 122 00.00 0000o 942819447 25 00 639130407 00:00 ooooo 0973829 00.00: 0000o 981600750 00:01 0oooo 647505803 00:1 ooooo 981611629 12.08 00.00 0000o 981174877 12:19 00:0 000oo 98113084- 12.22 00.0 03 000 98137061 12.25 00.00.40 0oooo 98161- 629 12.33 00:00:58 67816222- 12.43 00.00: 667617567 12.56 00:00: 0000o 7033 13.0 00.0 9885 7389 3.09 00.00: 000 659548191 3:1 00:0 ooooo 637430370 3: 00.09: 0000o 9819083 3:3 00.23: 0oooo 508060 13.35 00:02 ooooo 988517389 00.05.4 0000o 677716773 13.45 00:00.5 77716773 3.50 00.01 000 06315713 00.0 00 60631571 00:00.0 0067161 00.01 988517389 15.58 00:03:.0 0000o 988517389 16 00.00.0 625088383 16:19 00.00 000 634910264 16.36 00:00: ooooo 988517389 16.43 00.04.2 906712 00000 98192001 09.06 00:08.0 ooooo 5392052 09.1 00.00.3 0000o 981184200 09 000 605067355 09 00.06 ooooo 604055105 09 00:16: 0000o 66761756 10: 00:0 981904848 10.1 00.0 66439331 10.2 00:00: 0000o 981330046 10.23 00ooo 981130841 10.30 00.00:3 000 9303457 10.40 00.02.43 ooooo 630575 23 10: 00.04: 000 981213063 10.52 00.00.0 ooooo 654215495 10.59 00:0 ooooo 88391110 1.05 00.00: 0000o 981649825 1.08 000 6978036 1:12 00.03 0oooo 981184200 1:18 00.0 0000o 0804595 1.21 00:06: ooooo 63453233 00:1 ooooo 9812232 00.02 0oooo 981120529 00:00.0 000oo 988517389 00.0 0000o 657804481 00:00.0 ooooo 988517389 00:13: 000 625950262 12.02 00.02 ooooo 9811308 12.1 00:00:4 ooooo 0081 98 12.42 00:01 Ooooo 98113084- 12.58 00:00 000 8530992 13.02 00:1 ooooo 6393461 13.05 00.01 0000o 981154222 13.09 00:02:' 0o0oo 981262825 13:12 00:.00.4 ooooo 911123443 13.13 00.05: 0oooo 698167269 13:18 00:00:59 000oo 698167269 13:19 00 ooooo 69816 269 13.23 00:00: 000oo 02253 13.28 00:01:15 ooooo 698146130 13.32 00.00.06 000oo 981130841 13.32 00.01:50 0o0oo 981262825 13.36 00.25.25 0.00000 626827864
+DESTINO Nacional Móvil Móvil Nacional Nacional Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Red Inteligente Red Inteligente Red Inteligente Móvil Móvil Móvil Nacional Red Inteligente Móvil Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Nacional Móvil Nacional Naciona Nacional Naciona Nacional Móvil Móvil Nacional Móvil Nacional Nacional Naciona Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Móvil Móvil Nacional Nacional Nacional Móvil Nacional Móvil Nacional Móvil Nacional Móvil Móvil Nacional Naciona Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil
+FECHA 08-Nov 08-Nov 08-Nov Nov Nov Nov 8-Nov Nov Nov 08-Nov 08-Nov Nov 08-Nov Nov 08-Nov 08-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 09-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 09-Nov Nov 09-Nov Nov Nov Nov Nov Nov Nov Nov 0-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov
+HORA DURACIÓN IMPORTE 13.48 00.03.54 0000o 13.50 00:01 000oo 13.53 00.02.36 000oo 14.03 00ooo 14.20 00: 00ooo 4.3E 0oooo 000o 00: 000o 16.19 00:0 000oo 16 00:0 000o 16.3 00:0 00:0 00:.0 0000 00:0 000o 00:00 000oo 00.02 000oo 00:0 00:0 000 00.03 00:0 421 00.02 00.00 000o 00.33 0000 00:0 000 00.03 000o 00:0 0: 00:0 000 10 00:0 0000 10 00:.0 000oo 10:18 10 00.0 10.3 00:0 000oo 0 00:0 000oo 00:0 0000o 00.00 000oo 00:0 0000 00: 000 00:0 000 0000 00: 000o 00:0 0000 00.03 000oo 00: 00:0 00:0 000oo 00:0 000oo 12.06 00:0 0000o 12:12 00:0 000oo 12.20 00:0 0000 00: 000o 00: 000 00: 0000 00:0 000o 00.03 000oo 00: 0000
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+00:0 00:0 00:0 00:0 00:0 00: 00.0
+000oo 00ooo 0000o 000oo 0000
+13.43 3.45 3
+000 000o 000oo 0000
+00:0 00:00 00: 00:0 00:0
+000 000 0000 0000o 000oo 0000
+00.03 00:08 00.03 00:0 00.0 00:0
+000 000o 000oo 0000
+10 10 10.28 10.33 10.40 10.48 10
+00.04 00:0 00: 00: 00:04 00: 00.0 00:0 00: 00: 00.0
+000 0000 00ooo 00000 000oo 000o
+00:0 00.0 00:00 00: 00:0 00:0
+0000 0000 00ooo 0000
+000 000 0000 00000 0000 000o 000o 000oo 000o 0000o 00ooo 000o 0000 000o 0000 000oo 0o0oo 0.00000
+12.00 12.08 12.19 12.52 12.58
+00:0 00.02 00: OO:C 00.0 00.03 00:0 00.03 00:00 00:00:06 00:(
+13:1- 13:18
+13.32 13.35 13.36
+00.01:06 00.01.37 00:00.04
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+15/28
+
+--- Página 16 ---
+
+DETALLE DE LLAMADAS
+NUMERO 981130841 981262825 615650330 915548770 653558204 650169518 61876623 677716773 645325 5634 5634295 8 699660 2508838 5020 88517389 9811207E 9153591 6491938 9153591 90080040- 981184200 98116801 98154039 09808200 9483338 9331- 98154039 655861 98120588- 66539 98161 0088993 292102 981561818 650793125 882432 900800401 981299105 9331480 788243" 665235968 618621316 98146130 937901 6306528 29882707 98116147- 665392052 2540780 0579902 9811308 62050338 910604413 981130841 981901122 64677009" 3228380 69062948 881066178 698167013 0080040 3829 6921- 8337- 885 62744328 609851 635376953 651858565 2657000 08677400 669 981184200 625458578 981649825 949700 66773858 655481 981243333 696059720 9259118 98120584 8851- 98164982 981985553 66773858 5802 00 60E 915805400 60693869 886906258 98117558 981649825 6036465 881080209 679702662 607470045 655861393 98122257 9812225 816498 8160 66736
+DESTINO Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Nacional Nacional Móvil Nacional Red Inteligente Nacional Nacional Nacional Móvil Nacional Nacional Nacional Móvil Nacional Móvil Nacional Móvil Móvil Nacional Móvil Móvil Red Inteligente Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Nacional Nacional Nacional Móvil Nacional Móvil Nacional Móvil Red Inteligente Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Nacional Nacional Nacional Nacional Móvil Nacional Móvil Nacional Móvil Nacional Nacional Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil
+FECHA 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 13-Nov 13-Nov 3-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 3-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 3-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 3-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov
+HORA DURACIÓN IMPORTE NUMERO 13.37 00.00.57 0o0oo 988517389 13.38 00:15.00 0.00000 633057133 13.38 00:00.01 0.00000 615650330 13:40 00:06:46 0oooo 913605640 13.41 00.04.46 .00ooo 615650330 13.43 00.00.06 .0000o 917575777 13.42 00.00.0 000oo 988517389 13.53 00.01.43 .ooooo 981917378 13.56 00:1 0000o 988517389 14.06 00:00:05 000oo 655861393 14:12 00.00.04 000 949700288 14.1 00:01 000oo 949700288 00:07 0oooo 5634295 00.04.2 98113084 00:00:4 0o 630177736 16.05 00.00: 0000o 981120762 00.00 00 6919395 08.5 00:00:56 ooooo 981122290 09 00:0 0000o 968277500 09 00:0 981295544 09 00 72540780 09 00.0 0000o 98116801 9811680 09 00.00 000 9092298 10:0 00.03: 0oooo 10.0 00:02.0 981324506 10.1 00.0 981 1629 10.29 00:0 324506 10.36 00: 0000o 909 56 10.42 00.03 00 10.48 00:03 ooooo 56 10.56 00:1 0000o 1027 1.00 00:00.0 981273948 1.0 :30: ooooo 69588 1.08 00.01 0000o 59025 36 00.00.0- 000 8818849 00.0 0oooo 65705485 00:03: 6577401 00.02 982209 12.08 00:04 0000o 9812955 12.17 00.0 0000o 625458578 12.35 00: 00 981173264 12.35 00:0 ooooo 644670239 12.5 00.02:' 0000o 981138209 12.58 00:1 0oooo 981873522 13.05 00:02 ooooo 735681 13.08 00.06 0000o 698111376 13:1 00:0 0oooo 5227 13.1 00.0 0o00o 698167013 13:1 00.00.0 0oooo 6057990 13:1 00:1 9816701= 13.2 60631571 13.28 00:05.0 0000o 5650330 13.35 00.00.0 9885 7389 13.45 00.00 000 981901122 13.48 00:02 ooooo 65640567 13.5 00.00.53 0000o 646364061 14.02 00.2* 0000o 623405- 14.08 00:00: ooooo 981901 15.02 00.04.06 0000o 981649825 15.3 000 900800401 000 88517389 6: 00.0 0000o 900800401 00:0 9067 00.0 1530254 00:02 0000o 988517389 00.02 60596040 000 667587330 00:09 ooooo 93894 00.02 000 689802253 00:12 ooooo ooooo 60345448 09 00.09 0000o 667738585 09 000 981184200 09 00: ooooo 949700288 00.0 0000o 949700288 00:01 6875681 00.03.3 9259118 09 00:0 0000o 981243333 09 00:00.0 0000o 914932762 10.00 00.02 0000o 625458578 10:16 00:0 ooooo 988517389 10:16 00.01 0oooo 619735655 10.25 00.02 ooooo 617545849 10.48 ooooo 67050668 10.50 00.00 0000o 915802100 10.52 000 915802194 10.54 00:00:46 0oooo 6693050 1.00 00.02 0000o 915802200 11.03 00:01 0o0oo 673734932 ooooo 981174440 00.03 0oooo 638522777 00 000oo 6036465 1:39 00.00.05 000 981208254 11.45 00:03: ooooo 6036465 12.00 00.02 0oooo 98120584 12: 00.00: ooooo 6292102 12.1 00:02:' ooooo 981222342 12.21 00:00 Ooooo 655666686 12.25 00:06 000 981324506 12.52 00.01 ooooo 0923671 12.56 00:0- 0000o 503035 13.OC 00:03:' 6201509 13.08 00:0- ooooo 8061254 13:1- 00.01 0oooo 6202253 13:1 00:08.2 000oo 630126548 13.34 00:0 33 0oooo 630126548 13.38 00:00.5 000oo 61881935 13.55 00:00:15 ooooo 60631571 14.03 00.03.06 000oo 659502608 14.30 00.03.31 0o0oo 699603165 15.03 00:00.36 0.00000 981252258
+DESTINO Nacional Móvil Móvil Nacional Móvil Nacional Naciona Nacional Nacional Móvil Nacional Nacional Móvil Nacional Móvil Nacional Móvil Nacional Nacional Nacional Móvil Nacional Nacional Móvil Nacional Naciona Nacional Naciona Nacional Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Nacional Red Inteligente Nacional Red Inteligente Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Nacional Nacional Móvil Nacional Móvil Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional
+FECHA 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 13-Nov 13-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov
+HORA 13.37 13.38 13.39 13.41 13.42 13.44 13.49 13.5 13.5
+DURACIÓN IMPORTE 00.01.38 000oo 00.03.0 0o0oo 00.03.1 000oo 00ooo 00: 00ooo 0oooo 000o 00.0 000oo 00:0 000oo 0O: 0000 00:0
+00ooo 000o 00000 000oo
+00.00 00: 00.00:
+16
+00:0 00.05 00: 00.03 00.00 00:0 00:0 00:0
+000o 000o 000oo 000oo 0000 000
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+0000 000 0000 000oo
+00: 00:0 00:.0
+10.3 10.38 10 10.5 10.5
+00.0
+000oo 000oo 0000o 000oo
+00:0 00.0 00:0 00: 00.0 00: 00.0 00:0 00:0 00:0
+1.05 11.08 1:15 1335
+0000 000o 0000 000oo
+12:13 12.24 12.35
+00.0
+12.5 12.58 13.06 13.10 13.12 13.16 13:18
+000oo 000oo 0000o 000oo 0000
+00: 00:0 00.0 00: 00.0 00.04 00:0 00:0 00:0 00: 00:0
+0000 000o 000oo 0000
+13.45 13.46 13.5= 13.58 14.02 14.26 15.15 15.4
+00:0 00.0 00:0 00.00 00: 00: 00:0 00.0 00:0 00:0
+000oo 00ooo 0000o 000oo 0000
+17:18
+0000 000oo 000oo 0000
+0:2 00:0
+18.0
+000 0000 00ooo 0000o 000oo 000o
+00.0 00:0 00: 6: 00:0 00.0 00:0 00:03 00:0 00:0
+09
+0000 000oo 000oo 0000
+10 10:1 10 10:4 10.4 10.50 10.53 10.59
+00:0
+000 000 000 00000 000oo 000o 000o 000o 0000 0000 00ooo 0000 000 000 0000 0000 000oo 0000 000o 000o 000o 000o 0000o 00ooo 000o 0000 000o 0000 000oo 0o0oo 0.00000
+00.0 00:0 00:0 00: 00.0 00:0 00:0 00: 00:0 00: 0o: 00:03
+1.40 11.45 12.05 12:12 12.2 12.24 12.4 12.5 13.00 13.0 13:12 13:15 13.25 13.36 13.4 13.56 14.03 14.40 15.28
+00.02 0O: 00: OO:C
+00:0
+00.0 00: 00:0 00.0
+'69588 6053727 286 89 695 81660255 652790209 981649825 607469324
+00.05.1 00.04.11 00:00.28
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+16/28
+
+--- Página 17 ---
+
+DETALLE DE LLAMADAS
+NUMERO 981252258 98126766 981662507 981461 98167013 981267666 937264446 937264446 86504888 622901 86504888 6418722 687625798 38522 986365000 88188168 0345448 986365000 60985781 6769588 986817465 69283865- 981901 667738585 7979832 66539205 655861 959025- 665867068 6353 6953 8851 6375681 0080040 0080040 981126682 0080040 0080040 667738585 9816498 8256098 881955800 881955800 82560200 981324506 98195773 393461
+DESTINO Nacional Nacional Nacional Móvil Móvil Nacional Nacional Nacional Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Móvil Nacional Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Red Inteligente Red Inteligente Nacional Red Inteligente Red Inteligente Móvil Nacional Nacional Naciona Nacional Nacional Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Red Inteligente Nacional Móvil Nacional Móvil Nacional Móvil Móvil Nacional Nacional Móvil Nacional Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil
+FECHA 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 5-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 16-Nov 16-Nov 16-Nov 16-Nov 6-Nov 16-Nov 16-Nov 16-Nov 16-Nov 6-Nov 6-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov Nov 16-Nov 16-Nov 16-Nov 16-Nov Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 6-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 6-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 6-Nov 16-Nov 17-Nov
+HORA DURACIÓN IMPORTE NUMERO 15.30 00:00.35 0o0oo 900800401 16.22 00.00.5 000oo 981561818 17.05 00.00.47 0.00000 646770092 17.09 00:01:12 0oooo 699978088 17:12 00:01 :16 ooooo 988517389 17.19 00.04.2 0000o 65586 39 17.20 00:06:3 78589 00.01 .0000o 55861- 18.0 00.00: 0000o 18: 18.39 000 65526095 9.08 00:09 00 5634 08 08: 00.08 0oooo 88199 00.03: 98851 389 09 0o 885- 7389 09 00.0 0000o 986817465 09 00.00: 00 986817465 00:0 ooooo 6057800 00.00.4 0000o 67645325 09.4 00:04 806800065 09 00.03: 000 10.04 00.05: 0000o 6057800 10:13 00:02 981675502 10:15 00.0 18 000 881909 56 10.23 00:01.00 0oooo 6809 5283 10.34 00:07 981154222 10.4 00.00: 981324506 10.49 00:03: 0000o 981210505 10.51 00.04.00 0000o 981169075 10.55 00.02 00 5362 97 11.09 00:02 ooooo 98130335 122 00.01 0000o 667837016 00:00:03 000oo 900800401 00:02 ooooo 60345448 00.00: 0000o 687568009 :55 00:01 000oo 0080040 11.59 00.00.0 00o 00800401 12.0 00.07 0oooo 981649 12.03 00.20.55 9813033 12:10 00.00: 981649825 12.23 00:0 0000o 10055 12.25 00.03 0000o 952 12.27 00.03 00 2649 12.3 00:0 ooooo 981649825 12.38 00.07 0000o 981324506 12.48 00:00.5 0oooo 881927203 12.5 00:01 ooooo 982563133 13.0 00.03.5 0000o 637430370 13.0 00:06 000oo 981252240 13.2 00.03 0000o 655861393 13:2 00:1 0oooo 659548 13.3 00:03 667016 13.35 00.0 609216719 14.00 00:06: 0000o 8522 14.2 00:1 00ooo 981649825 14.29 0.08 000 914183240 14.39 00:00: ooooo 69027246 15.4 00:08.55 0000o 98120338 16 00.09.3 0000o 655191135 17.03 00:00 ooooo 90080040 18.5 00.02 0000o 651858565 08:5 000 552029 00.04 000 09 00.04.40 0000o 00:00:05 10.0 00.07 90059 10:18 00:04 0000o 6550495 10.25 00.0 00ooo 665392052 10.39 00.00: 000 619107099 10.48 00:0 ooooo 924302707 10.50 00.00: ooooo 62657531 1.0 00.03: 21912 620550483 1:18 00:05 ooooo 645848442 1.26 00.00.0 0000o 881955800 000 638121301 00: 0: ooooo 98164017 12.0 00.0 0000o 610417068 12 00:00 63632645 12.33 00.0 988517389 12.3 00:0 0000o 98120338 12.48 00.02 000oo 981122412 12.50 00 000 986823416 00:05 ooooo 642380547 00.03 000 900800401 13:0 00.04 955519 13:1 00:04 00 885- 13.18 00.03:' 0000o 2685 13.20 23805 13.2 00:00 000 6823416 13.28 00.00: 0000o 13.3 00:09: 722602 13.38 00:1 13:42 00.00 00ooo 8500 13.46 6385 13.56 00:0 000 698 742 13.5 00:02 000oo 208885 00.01 000 98120888 14.06 00.03.0 7239838 15: 00:00 ooooo 988517389 16.0 00.02 6345738 16.29 988517389 16.36 00:0 000 885- 389 16.46 00.0 0000o 697665 17.08 00:00.5 669 17:12 00:05.08 913040 17:19 00.01 0oooo 694351 17.31 00:02: 000oo 981639600 17.38 00:1 0oooo 0942 35 17.40 00:00:4 000oo 637536059 18:12 00:10.38 ooooo 672657000 18:13 00.00:13 000oo 619768092 18.59 00:11:56 0o0oo 669296907 09.10 00.06.46 0.00000 981174961
+DESTINO Red Inteligente Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Naciona Nacional Nacional Móvil Móvil Móvil Red Inteligente Móvil Nacional Nacional Móvil Nacional Nacional Naciona Nacional Móvil Nacional Móvil Red Inteligente Móvil Móvil Red Inteligente Red Inteligente Nacional Nacional Nacional Móvil Móvil Nacional Naciona Naciona Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Móvil Red Inteligente Móvil Móvil Nacional Móvil Nacional Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Naciona Nacional Nacional Móvil Red Inteligente Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Nacional Nacional Móvil Naciona Nacional Móvil Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional
+FECHA 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 16-Nov 6-Nov 6-Nov 6-Nov 6-Nov 16-Nov 6-Nov 16-Nov 16-Nov 6-Nov 6-Nov 6-Nov 6-Nov 16-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 16-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 16-Nov 6-Nov 6-Nov 6-Nov 6-Nov 6-Nov 16-Nov 6-Nov 6-Nov 6-Nov 6-Nov 16-Nov 16-Nov 6-Nov 6-Nov 16-Nov 16-Nov 16-Nov 17-Nov
+HORA DURACIÓN IMPORTE 15.45 00:14.25 0000o 16.50 00.01:5 0o0oo 17.07 00.00.0 000oo 17:10 00:10 00ooo 17:16 00: :48 00ooo 7:19 00:0 0oooo 00:1 000o 00.02 000oo 18.03 00.03 000oo 18.3 00:2 0000 18: 00:0 000 00: 00:0 00ooo 00:0 000oo 00:0 00000 00.00 000oo 00.04 00:0 00.04 000oo 00.05 000o 00: 000oo 10:1 00.0 000o 10.15 00:06 10.1 00: 10.28 00:0 10.4 0000 10:48 00: 000 10.50 00:0 0000 10.53 00: 000oo 10.56 11:10 00.0 000oo 000oo 00:0 0000o 00.04 000oo 00:0 0000 12.00 00: 12.0 00:0 12:0 00.2 12:19 00.02 000 12.2 00:0 0000 12.26 00:0 000oo 12.2 12 00: 12.38 00:0 000oo 12.5: 00:0 000oo 00:0 0000o 13.05 00.00 000oo 13 00:0 0000 13 00.0 13.24 00: 13.3 00.0 0000 13.3 00:0 000oo 14.16 00:0 000oo 14.28 00: 0000 14.34 14.40 00: 16.30 00.00 000oo 16:5- 00.03 00ooo 00.05 0000o 00.00 000oo 00:0 0000 00.0 00:0 0000 10.0 00:0 000o 10 00:0 000oo 10.2 0000 10 10.50 00: 000 10: 0000 00:0 00ooo 00:02 0000o 00:0 000oo 00: 0000 00: 000o 00: 00: 0000 00.03 000o 12.43 00:0 000oo 12.50 00: 0000 12.5 00: 12.5 00.0 000 0000 00: 000 13:15 00:0 00000 3.18 00.0 000oo 00: 000o 00.03 00:0 000 00:0 0000 00:0 0000 00:00 00ooo 00.0 0000
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+825 001 59393859 39881728 659393859 636177055 636177055 981296588 981649825 615634295 69027246 987210 655481822 620550483 616164219 645104255 6059720 8819091 66633 9268559 6611639 630531409 981267666 02349583 0694202 901502050 981122412 9819083 88517389 3024512 88226787 63024512 06315713 981185893 982510013 649981421 98112241 881960585 65566 95551 981189400 692685592 655861 0909965 626057800 627740012 88185001 607269178 722602444 981222657 607269178 3658540 61684049 88517389 684049
+000 000 00000 0000 000o 000o 000o 000o 0000o 00ooo 000o 0000 000o 0000 000oo 0o0oo 0.00000
+00:0 00:0 00: OO:C
+16.35 16 16.48
+66 669 812058 885 6519034 81 600 20145 669435- 656838830 667837016 661163936
+00:0 00:0 00.0 00:00 00:0 00.0
+18.12 18.31 19.39 09:18
+00.01.38 00:09.15 00.00.34
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+17/28
+
+--- Página 18 ---
+
+DETALLE DE LLAMADAS
+NUMERO 981174961 901502050 655861393 0080040 646770092 981174959 9811851 69817083 6354066 981356269 981244058 964881 65705437 913221620 64238054 900800401 981872101 667543553 98167013 6158993 98164982 98154469 66758733 7858938 98126766 322838 98187210- 88187863  917208043 981602288 639130407 607451010 06982225 88517389 630531409 981169075 619247049 9247049 981146300 67549620- 90080040 66169388 604016270 662488110 98166954 98117161 981255530 98123201 72540780 98123201 981649825 670666860 619247049 62726072 8287 8287859 90 98113084 493 4830 7605 6492 60549 885 3305 8287859 91553680 881044602 98113084 630674026 881878634 981014173 62314131 88187863  8822678 66154243 661542437 655861 19247049 6037363 603 8822
+DESTINO Nacional Red Inteligente Móvil Red Inteligente Móvil Nacional Nacional Móvil Móvil Nacional Naciona Móvil Móvil Nacional Móvil Red Inteligente Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Nacional Nacional Naciona Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Móvil Red Inteligente Móvil Móvil Móvil Nacional Nacional Nacional Nacional Móvil Nacional Nacional Móvil Móvil Móvil Nacional Nacional Red Inteligente Nacional Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Nacional Nacional Móvil Nacional Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Red Inteligente Red Inteligente Nacional Móvil
+FECHA 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov
+HORA DURACIÓN IMPORTE NUMERO 09.20 00:00.34 0o0oo 981174961 09.22 00.24.03 1.26953 900800401 09.42 00.08: 0.00000 661163936 09 0oooo 901502050 00.00 ooooo 655666686 00.00 0000o 94039 10.02 00:02 000oo 86365 10.1 00.09 0o0oo 988517389 10.20 00.03 0000o 54886 10.22 10.39 000 6488 10.54 00:03 00 11.08 00.00.3 0oooo 606938 11:18 00.00.0 913221620 00:05 0o 90080040 1335 00.00: 0000o 900800401 00 06938695 00:00 ooooo 655152 32 00.05.3 0000o 83555136 12.09 00:06: 6667 12:12 00.02 586* 12:19 00:1 0000o 3228380 12.25 00:03: 88188 12.36 00:18.2 000 590457 12.56 00.0 0oooo 86439946 13.02 00:01 69649 542 13.04 00.29: 136252" 13:12 00:01 0000o 9885 389 13.14 00.0 0000o 675739940 13.16 981146300 13:1 00:00 ooooo 268683 13.32 00.00:10 0000o 65240661 13.33 00:05.5 619247049 13.36 00:.02:0 ooooo 6761307 13.38 00.02 0000o 68980301 13.39 30335 13.4 00.00.08 000 2489 13:45 00:00.04 0oooo 64552029 13.4 00:02 8811501 14.04 00.01 9812780 14.18 00:05: 0000o 86346525 14.22 00.00.4 0000o 604016270 14.23 00.01 00 607431255 14.51 00:04.05 ooooo 259118 09:1 00.22.2 0000o 88199562 09 00:05 000oo 954544350 09 00:02 ooooo 8061254 10.05 00.00.0 0000o 986365000 10:10 00:00:05 000 981281365 10.25 00.00 000 65548 822 10.28 00:00: 0oooo 65548 822 10.29 00:00: 661 10.42 00.06.0 649825 00:03:4 828785 00:00 229 00.0 252200 1.46 00:00 81045 11.59 00:00:05 0000o 77680603 12:12 00.20.0 69903= 12:18 00:01 ooooo 85 12.24 00.03 0000o 644984889 12.26 00:06 630436699 12.28 00:0 000 '568009 12.29 00.08 0000o 12.3 00:03 86346525 12.40 00:1 98106161 12.45 00:00 0000o 666467730 12.48 00:02 665157493 12.51 00.0 000 981215990 12.58 00:04 ooooo 981215990 3.0 00.01 0oooo 6393461 13:1 00.04: ooooo 646675335 13:18 00:04.0 ooooo 677716773 13.30 00.00: 0000o 600251105 13.45 000oo 647919289 13:50 00.00 ooooo 981901122 13.5 00.02 0000o 64716732 14.0 00.32 981 14.39 00.0 603736 14.4 00:00:03 0000o 6076963 14.48 00:00: 0000o 9882 14.51 00.0 0000o 654314157 15.20 00:0 ooooo 986443426 6:1 00:1- ooooo 917260076 16:2 00.00:06 ooooo 988517389 16:4 00:00: ooooo 0206 17.03 00.03 0000o 986443426 00:05 000oo 6444430 0oooo 640559387 18.0 OO.00: 0000o 610208 18:1 00:03:03 000oo 610208 8: 00:00: 60373 18.2 00:13: 00ooo 63915892 19.06 ).03: 000oo 30641458 19.1 00.0 0000o 981795246 08.46 00:02 ooooo 2207339 09 00:0- 000 655481822 09 00.00.0 ooooo 981124630 09 00:01 ooooo 687065490 09 00.00.3 0oooo 981126090 10.04 00:00.5 000oo 981126090 10:1 00: ooooo 981913764 10:15 00.00: 0000o 609808200 10.2 00:00:36 530736 10.28 00.00.3: ooooo 61530736 10.29 00.08 0oooo 530736 10.31 00:02.05 000oo 981126090 10.40 00:0 ooooo 981212709 11.05 00:05:00 000oo 881027547 11.0 O0.01:1 ooooo 900132204 11:1 00.02.24 000oo 654305707 11:16 00.02.51 0o0oo 981151876 11.22 00.00.09 0.00000 662318002
+DESTINO Nacional Red Inteligente Móvil Red Inteligente Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Red Inteligente Red Inteligente Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Móvil Nacional Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Nacional Nacional Móvil Móvil Móvil Nacional Naciona Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Naciona Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Naciona Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Nacional Red Inteligente Móvil Nacional Móvil
+FECHA 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 0-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov
+HORA DURACIÓN IMPORTE 09.21 00.00.25 0000o 00.27:1 0o0oo 09.43 00.03.10 000oo 9:46 58104 09 00: 00ooo 10.0 000oo 10.0 00:0 000o 10:12 00: 000oo 10.20 00.04 000oo 10.26 0O: 0000 10.54 00: 000 10.55 00: 00ooo 0o: 000o 00:0 00000 00.08 000oo 00: 00:C 000oo 12.10 00: 000o 12:19 00: 000oo 12.2 00: 000o 12.3 00:0 0000 12.52 0o: 12.5 00:0 13.0- 00:0 0000 13.12 00:0 000o 13.13 00:0 0000 13:1 00.08 000oo 13 00: 00: 13.3 000oo 13.3 00:00 000oo 00.03 0000o 13.38 00.03 000oo 13.40 00: 0000 13.45 00: 3:42 00: 13 0000 14.06 0o: 000o 14.19 00:00 00000 14.23 00.00 000oo 14.34 16 00: 09.1 00.00 000oo 09 00:0 000oo 09 00:0 0000o 10.08 00:0 000oo 10: 00: 0000 10 00: 000o 10.28 00.0 000 10 0000 00:0 000o 00:00 000oo 00: 0000 0o: 00: 12.05 00:0 000oo 12:18 00.0 0000 12.23 00:0 0000o 12.25 00.0 000oo 12.2 00:0 0000 00: 12.31 00:0 00:0 000 00:0 000o 12.48 00.03 000oo 12.5 00: 0000 12.5 00:0 000 0000 00.0 00ooo 00:0 0000o 13.3 00.00 000oo 13.46 00: 0000 00.0 0o: 0000 00:0 000o 00:0 000oo 00: 0000 14.59 16 00:0 000 00:0 0000 16.3 00:0 0000 16 00:0 00000 17.0 00:0 000oo OO:C 000o 00.0 000o 00:0 000 00:0 0000 00:0 00000 18:58 0O:0 00ooo 19 00.0 0000 08 00.05 000 000 00:02 0000 00.02 00ooo 00:00 00000 10.0 00: 0000 10.06 00:0 000o 10.14 00: 000o 10:19 0.0 000oo 10.2 000o 10.25 00.0 0000o 10.30 00:00 00ooo 10.35 00:0 000o 00: 0000 00: 8.45 OoooC 02.2 0000 11:15 00.20.14 000oo 11:18 00.00.52 0o0oo 11.23 00.03.04 0.00000
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+6201651 86443 98125 8822 98
+692 63084 616434358 643435 6086 7400 63064 458 9816021 667738585 65238 634514029 65238836 981126090 355820 8132450 98112609 61530 63515488 530736 530736- 869578 0013220 900132204 981355717 626057800
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+18/28
+
+--- Página 19 ---
+
+DETALLE DE LLAMADAS
+NUMERO 981268854 6257888 88517389 98113084- 981145446 913228380 936025200 619107099 5909 8819091 6539205 881909 65236 2349 8723060 65721 89 9959 8818500 653920 9815030 62766889 98191376- 62766889 20393 698167269 98116907 882432 90620170 647919289 6078387 7882 647081 0578 88 654215495 981187920 981187920 91090198 638740543 09808200 6392349 72657000 98166954 981324506 672 5679 665867068 0013220 981152000 672657000 64187224 649561952 981795246 981169075 69219758 625088383 981171613 629687012 6018822 615885590 66219647 981171366 6281045 98113084 393461 9810025 6018822 98121736 981324506 981171613 86979051 981120529 607838719 988413547 98117161 981257530 981152000 98160211 64605623 9811308 98117161 900800401 981171613 61682300 6361 981372- 98129500 98164700 6297943 885 7389 885 635634 6929382
+DESTINO Nacional Móvil Nacional Nacional Nacional Nacional Nacional Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Red Inteligente Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Naciona Nacional Móvil Nacional Móvil Nacional Nacional Nacional Nacional Nacional Móvil Nacional Nacional Red Inteligente Nacional Móvil Móvil Nacional Nacional Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Nacional Nacional Nacional Nacional Nacional Nacional Móvil Nacional Nacional Nacional
+FECHA 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov
+HORA 11.31 11.41 11.48 11.59 12.08 12.1 12:13 12.29 12.30 12.42 12.48 12.51 12.53 13.00 13.0 13.06 13:12 13.30 13.3 13.50 13.52 14.09 14:12 14:15 14.24 14.55 15.3- 15: 16.02 16.21 17.20 17.26
+DURACIÓN IMPORTE NUMERO 00:01:17 0o0oo 981324506 00:00.39 0.00000 981611506 00.02.24 0.00000 981212709 00:11.29 0oooo 647599782 00:00.40 ooooo 913228380 00.01.59 0000o 62952239 00.04.2 60072539- '@0008 00:12.48 981649825 00.09.4 0000o 9894125 00:01 000oo 98113084- 00.02.39 000 619107099 00:0 000oo 5917853 00:00:1- ooooo 65236761 00.05 666478808 00:01 ooooo 64972 00.04.09 0000o 600645222 00.0- 0oooo 981913764 00.0 ooooo 60952104 00.01 0000o 635154886 00:0 0oooo 66889 OO.00: 00ooo 981913764 00.03: 0000o 9816401 00:00: 0oooo 912039345 00.00.46 0o00o 981872101 00:13.4 0oooo 981676656 00:1 616072172 00.00.0 699603165 00:05.0 0000o 656706 03 00.01 0000o 664177027 00.02 000 981226323 ooooo 910901981 00.06 0000o 67215679 00:00: 000oo 683228749 00.20: ooooo 647081688 00.00: 0000o 981187920 000oo 981171613 00.0 000 988517389 00.07 0oooo 095794 00:01 92349 00.0 645520292 00:00: 0000o 6695 00.0 0000o 988517389 00.01 00 283449 00:1 08 ooooo 900132204 00.03: 0000o 900132204 00:03:4 0oooo 63833157 00:01 .000oo 981600009 00.00.0 0000o 606315713 0oooo 981152000 00.06 0000o 981212709 00:04.09 0oooo 981771051 00:0 981 988322382 00.05.0 00:00:0 0000o 604078768 00:02 699446250 00:16.5 000 604078768 00 ooooo 981324506 00.00.0 0000o 675496204 00.06: 0000o 695902575 00:01 ooooo 651752484 00.07: 0000o 5080607 00:00: 000 981984750 00:0 ooooo 981585 00.05 0000o 686405986 00:0 68231 OO.00: 0o00o 98117161- 00:00 000oo 981171613 00:04 ooooo 981267666 00.05.00 0000o 981171613 00:01 ooooo 981267666 00.01 9816823 %0000 00.02 881080209 00:01 ooooo 6455202 00.00: 0000o 981152000 00:03 000 981171613 00:06.03 000 981171613 00.04 0000o 881080209 00:10.5 687554146 00.0 6078648 00:05 0000o 98161663 00:0 63332 00.03.05 000 981171613 00:54:' 000oo 303231 00.01 0oooo 3032317 00:16: ooooo 6063089 00:01 ooooo 7943- 00:1 0000o 981600009 00:01 000 914930576 00:02 0oooo 66725056 00:1 0000o 655045 00.2 65795839 00.05: 03181 00.03 00ooo 98155358 00:00: 885- 00.01 000 88517389 00:07 000oo 885- 00.06: 000 03459359 00.00: 6552391 00:02 0000o 88517389 00.00 981 00:03 6848 93 00:00:58 000 908 00.0 0000o 98191 00:01 ooooo 981602 00.31 0o00o 620241 00.0 0oooo 881955800 00:01 000oo 981146300 00:1 :38 0oooo 6848793 00:04.59 000oo 630627983 O0.01:1 ooooo 91248909 00.00.06 000oo 912489092 00.05.48 0o0oo 660305363 00.02.17 0.00000 644045194
+DESTINO Nacional Nacional Nacional Móvil Nacional Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Nacional Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Red Inteligente Red Inteligente Móvil Nacional Móvil Nacional Nacional Nacional Naciona Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Naciona Nacional Nacional Nacional Nacional Nacional Móvil Nacional Naciona Nacional Nacional Móvil Móvil Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Nacional Naciona Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil
+FECHA 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov
+HORA DURACIÓN IMPORTE 11.40 00:16.22 0000o 11.46 00.02.34 0o0oo 11.55 00.01 000oo 12.01 00ooo 12.09 00:.0 00ooo 12:13 000oo 12:1 000o 00.03 000o 12.32 00.0 000oo 12.44 00: 12.50 00: 12.52 00: 12.55 00: 00ooo 13.0 0o: 000o 13.06 00:0 00000 13.1 00:0 000oo 13.31
+13.4 13.5- 13.59
+000oo 000o 000oo 000oo
+00:0 00.0 00.03 00: 0o: 00:0
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+000
+15.0
+0000 000o 0000 000oo
+00:0 00:0 00:.02
+15.4 16.16
+00.0
+000o 000o 0000o 000oo 0000 000
+00:0 00:00 00.00 00:0 00:0 00:0 00:0 00:0 00:00 00:0 0o: 00.0
+18.18 09.0
+0000 000o 0000 000oo
+09
+10.0 10.0 10.10 10.1 10:18 10.19 10.2- 10.3 10.38 10.43 10.4 10.50 10.5 11.00
+000oo 000oo 0000o 000oo 0000
+10.0 10:10 10:12 10:16 10:18 10.20 1028 10.38 10.46 10.47 10.50 10.58 1.02 1.06 1:19 1.27 11.30 1.48
+00:0 00:0 00.03 00:0 00: 00:
+0000 000 000oo 0000
+00:0 00:03 00: 00: 00: 0o: 00: 00:00 00.0 00:0 00.0 00:
+000oo 00ooo 0000o 000oo 000o
+0000 000oo 000oo 0000
+00:0 00:0 00: 00:0 00:0 00: 00.2 00:0 00.0 00:0 00.0 00:0 00:0 00:0 0O: 00: 00: 00:03 00: 00.04 00:0 00.02 00:0
+11.59 12.08 12.1 12.20 12.22 12.23 12.29 12.33 12.3 12.39 12.4 12.46 12.5 12.56 12.59 13.09 13:1 13:18 13.3 13.4 13.48 13.50 14.32 15.39 15.58 16:43 16.49 16.51 16.5 16:56 17:0 1721
+12.05 12:10 12.20 12.2
+000 0000 00ooo 0000o 000oo 000o
+12.3 12.35
+12: 12.4 12: 12:5 12.5 13.05 13:1
+000 000o 000oo 0000 000 000 0000 0000 00000 000oo 000o
+13.4 13.48 13.50 13.5
+00:0 00:0 00.0 00.0 00:
+0000 00000 00ooo 0000
+16.13 16.48 16.50 16.53 16.55 16: 17:10
+885 885 7389 604055 063851 885 798 083 64995 98 9083
+000 000 000 00000 0000 000o
+00:0 00:0 00: 00:0 00: 00:0 00:0 00:0- 00:0 00:0 00: 00:04 00:0 00.02.07 00:00.02 00.07:26
+18.0 08.4 09 09: 10:00 10.04 10.20 10.24 10.26 10.28 10.31 10.34
+19 08.58
+8 602- 981649825 981795246 862024 8620241 8122 983 9816498 60033069 956402710 956402710 881955800
+000o 000oo 0000o 00ooo 000o 0000 OoooC 0000 000oo 0o0oo 0.00000
+09 10.02 10.0 10 10.2 10.26 10.28 10.33 10.36
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+19/28
+
+--- Página 20 ---
+
+DETALLE DE LLAMADAS
+NUMERO 672362366 912489092 916165710 98128832 981146300 912489092 698391 981171613 981795246 659361975 88189932 981267E 98116836 623494205 62349420 88517389 6541481 63555782 981168365 618695- 9812609 6016422 936025200 626057800 881080209 6330323 98106161 981369 67605497 - 9853546 6978036 6761454 65586 393 680390680 981908 885 981 4935= 6281045 0293 88517389 937901 602937202 9739- 669 9395 9816021 944157422 680504664 981295544 6361219 60076576 98130335- 98115187 65416561 98127807 698144162 915421176 91541029 91541029 915412530 986788062 912701796 679635023 981185344 901502050 610416216 6385227 696059720 62579813 649193823 6281045 619768092 '6361219 981185897 681041033 981324506 637915595 6281045 634962788 981272259 667837016 981906478 96491542 600573972 981145159 636990333 988517389 62016779 98535461 6571 9946 630925510 600573972 8535461 91553680 676361219 619247049 67459887 6303855 649193823 981795246 63332 945018000 69 69588 2810451 8862062 981133313 676423575 28104515 9816498 98179432 981649825 619391598 981146300
+DESTINO Móvil Nacional Nacional Nacional Nacional Nacional Móvil Nacional Nacional Móvil Nacional Naciona Nacional Móvil Móvil Nacional Móvil Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Nacional Nacional Nacional Nacional Nacional Nacional Móvil Nacional Red Inteligente Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Nacional Nacional Móvil Nacional
+FECHA 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov
+HORA DURACIÓN IMPORTE NUMERO 10.40 00:04.06 0o0oo 695902575 10.47 00.01.5 0.00000 698177774 10.59 00.00.20 0.00000 692207339 1.0 00.00.38 0000o 634514029 1.08 00.01:18 ooooo 0488492 00.06.5 0000o 981120529 00:04:' 0oooo 644045194 00.06.0 .ooooo 98179162- 00.0 0000o 981553584 00:03 0000o 6361219 000 981503035 11.46 00 000oo 293720 12:0 00:00.06 0oooo 981168365 12.09 00.08 6539131 8 12: 00:00: 0o 9008 12.24 00.01 0000o 981536679 12.33 00.00: 00 6203258 12.34 00:00:06 ooooo 981503035 12.36 00.05: 0000o 981582000 12.4 00.04:09 000oo 657215976 12.50 00.01 00ooo 98106161 12.53 00.00.4 0000o 98113084 13.0 00:00: 000 6025200 13:C 00.02 000 650215696 13: 00.00: 0oooo 555782 13: 00:03: 88517389 13.26 00.00 988517389 13.28 00:05 0000o 537544 13.35 00.0 0000o 981369 13.42 00 981 4935 13.5 00:00:40 ooooo 63 14.00 00.01 0000o 9816 14.1 00.05 0390680 14.12 00:01 ooooo 6155552 14.36 00.24 0000o 8819636 15.31 00:00: 000oo 62545857 15.45 00.00.20 00o 0901981 16:1 00.04: 0oooo 981 6656 16 00:0 885101- 6.5 00.00 98190059 00:05 0000o 67215679 18.04 00.03 0000o 670475202 18: 00 00 687554146 00:05 ooooo 6155552 08.4 00.05.4 0000o 60693869 00:05 981649825 00:0 ooooo 2955 09 00.0 0000o 946482 09 2362366 000 981182329 09 00.0 0oooo 981184845 09 00:01 98179 981290252 10.0 00.04.08 10.05 00:00:4 0000o 65705485- 10.0 00:10.5 698144162 10.09 00.06: 00 98173301 10:1 00:07 ooooo 92361 10.24 00.04.56 0000o 6990333 10.30 00.01 0000o 607 10.35 00:01 ooooo 6455202 10.43 00.01 0000o 912701796 10.46 00:05.50 629787234 10.47 ooooo 912701796 10.51 00.08 6381695 10.55 502 1.04 00.00: 85227 1.0 00:1 0000o 881955800 00:1 988517389 00.01.00 000 6450139 00:04.03 ooooo 680 00.02 00:19: 03389C 12.09 00:00: ooooo 885- 12.17 00.04 0000o 67642357 12.21 00:1 642357 12.25 00.00.03 000 586- 12.28 00:03 00 188033 12.36 00:00.30 6990333 12.38 00.02 664036 12.4 00:00.5 0000o 7039 12.48 00:04 900800401 12.52 00.0 000 6005739 12.58 00:00: 000oo 9006 13:OC 00.02 000 9885 13.05 00.08: 886130598 13.0 00:00: ooooo 646654900 13.13 00.06.0 0000o 67215679 13:15 00:01 000 608749218 13.26 00:18.5 0oooo 981649 13.2 00:06: 0000o 602918873 13.4 00:01 ooooo 667581324 13.4 00:08 553680 13:5 00.05 00ooo 988517389 000oo 620100590 0000o 9247049 15.03 00:00:03 000oo 654215495 16:1 00.24:04 000 630177736 08 00.06: 98118589 09 00:00: 0000o 63332 09 6333 9812609 00.00 000 906 28 09.4 00:06: 0000o 981185225 09 00.04.2- 981649825 10.0 00:00: ooooo 6206 10.06 00.00.52 0oooo 9819236 10.21 00:00:4 000oo 603459359 10.41 00.01:49 ooooo 981649825 10.45 00:07: 000oo 956402710 10.49 00.00:10 ooooo 981794324 10.53 00.04.10 000oo 981984750 10.56 00.04.27 0.00000 607471744 11.01 00.06.42 0.00000 619768092
+DESTINO Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Móvil Nacional Móvil Móvil Nacional Nacional Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Nacional Nacional Nacional Nacional Móvil Móvil Nacional Móvil Nacional Naciona Naciona Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Nacional Móvil Nacional Naciona Naciona Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Móvil Red Inteligente Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Red Inteligente Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Nacional Nacional Móvil Nacional Naciona Nacional Nacional Móvil Nacional Naciona Nacional Nacional Móvil Móvil
+FECHA 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov
+HORA 10.42 10.47 11.00
+DURACIÓN IMPORTE 00.02.28 0000o 00:00.0 0o0oo 00.08.56 000oo 00:0 00ooo 00: 00ooo 0oooo 000o 00: 000o 00.05 000oo 00 00:0 00: 00:.0 00ooo 00:0 000o 00:0 00000 00:0 000oo 00: 00:2 00:0 000o 00:0 000o 00.0 000oo 00.0 000o 00: 00: 000 00:0 00:03 0000 00:0 000 00:0 0000 00: 000oo
+12: 12:1 12.2 12.2 12.3-
+12.3 2
+12
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+13.0 3
+13.36 13: 13.55 14.0 14
+00: 0o: 00:0 00:0 00.03 00:0 00.0 00.07 00:0 00.03 00:0 00:.03
+000o 000o 0000o 000oo 0000
+0000 000o 00000 000oo
+18.06 9.0
+000oo 000oo 0000o 000oo 0000
+00:09 00:00 00.05 00:0 00: 00:0 00:0 00:0 00:0
+09
+0000 000o 000oo 0000
+10.0 10.0 10.10 10 10.26 10:3 10.3 10.45 10.4 10.51 10.53
+00: 00: 0o: 00: 00:0 00.05 00: 00: 0:
+000oo 00ooo 0000o 000oo 0000
+00:0 00:03 00.0
+00o 00000 0000
+00:0
+000 0000 0000 0000o 000oo 0000 000o 000 000 000o 000oo 0000
+12.06 12:14 12:19 12.25 12.2 12.35 12.3 12.43 12.46 12.50 12.5
+00: 00:0 00.0 00: 00.0 00:0 00:0 00.0 00:0 00:
+00:0 00:0 00:0 00:04 00.00
+000 0000 0000 00000 000oo 000o
+13.10 13.14 13:19 13 13.36 13.45 13.48 13:5-
+00: 00:0 00: 00:04 00:0 00.0 0.0 00.33 00.3 00.04 00:00 0O: 00:0 00:03 00:0 00:2 00:0 00:0 00:0 00:(
+0000 0000 0000 0000
+000 0000 0000 000oo 0000 000o 00o 000o 000o 0000o 00ooo 000o 0000 OoooC 0000 000oo 0o0oo 0.00000
+10: 10.01 10.24 10.42 10.46 10.50 10.56 11.00 11.02
+00.00.58 00.04.06 00:02.43
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+20/28
+
+--- Página 21 ---
+
+DETALLE DE LLAMADAS
+NUMERO 630177736 9882 0665 690860137 98161743 988517389 98179432 981295544 607471744 981146300 98129554- 981894596 636718401 981148480 881900450 98106161 900814900 607150219 981174440 607471744 649876960 96393003 90080040 648878485 981185115 679819083 61931. 680915283 918055145 881900450 5801208 981324506 00800401 0080040 679819083 62810451 634577737 670340740 397731 8851* 9816401 900800401 900800401 981168365 60029 9816498 2655 62067 605067355 98113084 981226323 60506735
+DESTINO Móvil Nacional Móvil Nacional Nacional Nacional Nacional Móvil Nacional Nacional Nacional Móvil Nacional Nacional Nacional Red Inteligente Móvil Nacional Móvil Móvil Móvil Red Inteligente Móvil Nacional Móvil Móvil Móvil Nacional Nacional Móvil Nacional Red Inteligente Red Inteligente Móvil Móvil Móvil Móvil Móvil Nacional Nacional Red Inteligente Red Inteligente Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Red Inteligente Móvil Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Naciona Nacional Nacional Móvil Móvil Nacional Nacional Red Inteligente Red Inteligente Nacional Nacional Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Red Inteligente Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Móvil Nacional Nacional Nacional Nacional
+FECHA 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov
+HORA DURACIÓN IMPORTE NUMERO 11.03 00:00.03 0o0oo 981649825 11.06 00.05: 0.00000 655220545 1.09 00.00.52 0.00000 988517389 00.01 0oooo 952071213 00.0 :58 ooooo 661910593 1224 00.09 0000o 981791252 00:02 0oooo 98135571 00.01 .ooooo 981284594 11.54 00.02: 0000o 988517389 12.10 00:01 000oo 986350534 12.24 00.00.32 0oo 9635023 12.29 00:10.49 0oooo 98 083 12:40 00.05.4* ooooo 722602444 12:42 00.00.58 0000o 654148157 12.50 00:04: 000oo 981632220 13.04 00.07.23 0000o 988371869 13.06 00.0- 000 981145409 13:10 00:00: ooooo 981174440 13.14 00:00: 0000o 986443426 00.02 0oooo 9288 99 1328 00.03: ooooo 900800401 13.3 00:1 0000o 607471744 13.34 00:00:58 0oooo 661900243 13.42 00.0 0o00o 981637913 13:46 00.00: 0oooo 7645325 14.03 00:05:' 981240589 14.06 00.08: 14.09 00:03 0000o 828005 14.47 00.02 0000o 650372098 15.50 00 00 5916328 16.08 00:0 ooooo 615375442 16.32 00:00.0- 0000o 900800401 16.38 00:07 000oo 610318152 16.5 00.05:4 ooooo 63005560 16.5 00.03 0000o 981649825 18.0 000oo 600725394 18.1 000 628104515 0.03 00.08 0oooo 99 09 00:0 980809825 09.1 00.00: 09 00:0 0000o 981640 09 00.00: 0000o 900800401 0:00: 00 695902575 00:02 000oo 923270 98 10.0 00.03: 0000o 923270198 10:1 00:0 000oo 62921027- 10.29 00.00 ooooo 942660249 10.5 00:00 0000o 942660249 10.59 00:03 942660249 1.02 00.0 000 6087769 00:1 0oooo 60641- 058 630423346 334 00.05: 9426602 1.40 00:00: 0000o 981649 1.42 00:01 9209 246 00.00.45 000 34962788 00:1 ooooo 981120529 00.06:' 0000o 60007898 12.20 00.00.0 0oooo 981270253 12.2 00:01 ooooo 627456860 12.29 00.02 0000o 62202151 12.38 00:0 5902 12.48 00.08 000 256450 12.53 00.04.03 0000o 256450 12.5 00:0 92627888 00.06: 92627900 13.03 00:0 0000o 981256450 13.0 00.09 8966 20 13.08 000 98164017- 13:1 00:0 ooooo 881066178 13 00.00:C 0oooo 988517389 13 00.00.0 ooooo 78677336 13.25 00:04: ooooo 692207339 13.32 00.00: 0000o 98117161 13.32 000 981171613 13.35 00.00.0 ooooo 0786742 13.35 00.02 0000o 98258 00:00: 66704862 13: 00.02 6078648 13.45 00:04 90080040 13.46 00:09: 982582 14.00 00:1 000 3228380 14.05 00:03:4 ooooo 684092246 14: 00.03.3 000 627475104 14.3 00.00 ooooo 2207: 14.52 00:08 48088 16.30 00:10.0 0000o 08601 16.39 00:00: 98851 389 16.5 00:00 000 8822895 17.0 00.0 0000o 07628 00:00: 988517389 00:00.0 ooooo 00.22 00ooo 63457773 00.0 000oo 881076289 00 0000o 629708433 18.06 00.05:4 ooooo 60711230 09 00.00.55 000 900800401 09: 00.04 ooooo 981201300 00:01 ooooo 981901122 09 0oooo 981152930 09 00:06: 000 981275218 00:06: ooooo 88517389 00:02.0- 0000o 881909156 10.0 00:08.5 91580920 10.06 00.00 8602 10:1 00.02 0oooo 981649825 10.21 00:02 000oo 600251105 10.23 00:00 ooooo 981 6907 10.24 00:03: 000oo 98113331 10.26 00:00.26 ooooo 6958817 10.28 00.00.24 000oo 981133313 10.31 00.01:14 0o0oo 988386815 10.33 00.01.22 0.00000 900800401
+DESTINO Nacional Móvil Nacional Nacional Móvil Nacional Naciona Nacional Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Nacional Nacional Nacional Móvil Red Inteligente Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Red Inteligente Móvil Móvil Nacional Móvil Móvil Móvil Nacional Red Inteligente Nacional Red Inteligente Móvil Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Naciona Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Móvil Red Inteligente Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Nacional Nacional Nacional Móvil Móvil Nacional Móvil Móvil Red Inteligente Nacional Nacional Nacional Nacional Nacional Nacional Nacional Móvil Nacional Móvil Nacional Nacional Móvil Nacional Nacional Red Inteligente
+FECHA 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 8-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 8-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 29-Nov 29-Nov 9-Nov 29-Nov 29-Nov Nov 29-Nov 29-Nov Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov
+HORA 11.04 11.06 11211 11:13
+DURACIÓN IMPORTE 00:15.45 0000o 00:05:1 000oo 00.00.09 000oo 00.02.43 00ooo 00: 00ooo 0o: 0oooo 000o 00.33 000o 00.03 000oo 00:0 0000 00:0 000 00:0 00:.0 00ooo 00: 000o 00:0 00000 00.00 000oo 00: 00.0 00:0 000o 00:0 000o 00.0 000oo 00.0 000o 00: 00: 00: 0000 00:0 000 00:0 0000 00:0 000oo
+12.09 12:16 12.26 12.3 12: 12
+13.05 13.09 13:1 13.2 13.2
+13.3 13.3- 13.43 13:48 14.0 14.06 14.10 15.35 16.06 16.35 16.3 16.48 16.5 16.5 18: 19 20
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+00.0 00:0 00:0 00:0 00.04 00: 00:0
+000oo 000o 0000o 000oo 0000 000o 000 0000 000o 00000 000oo
+00:0 00:0 00:0 00:
+10 10.0 10 10.5 10 10.59
+000oo 000o 0000o 000oo 0000 000
+00.0 00:00 00:0 00: 00:0
+0000 000o 000oo 0000
+68441 864434 88517389 69663 00800401 62020619- 981270253 98117161 98117161 666467730 6206758 89661 7636 981901 881255390 92627 881150100 96491542 6516161 881066178 981185127 900800401 900800401 981300186 98136912 651616152 981368572 944189470 660188222 651664272 915913058 662196474 722602444 901502050 981901122 988517389 29708433 7941828 646770092 8055145 606563562 981230472 981169816 65504592 981256239 981901 600251105 682166300 48271810 05067355 20459050 88107 86443426 62810451 981151876 38602523 067932 9812267 988386402 981647001 881022925
+00:0 00:0 00
+00:0 00: 00:0 00.02 00.0 00: 00.0 00:
+12.05 12.2
+000oo 00ooo 0000o 000oo 00000
+12.38 12.48
+0000 000o 000oo 0000
+00:0 00:0 00: 00: 00:0 00:0 00:0 00:0 00.0 OO:C
+13 13:
+000 0000 0000 0000o 000oo 000o
+0000 000oo 000oo 0000 000 000 0000 0000 00000 000oo 000o 000o 000o 0000 00000 00ooo 0000 000 000 0000 000 00000 0000 000o 000o 000o 000o 0000o 00ooo 000o 0000 OoooC 0000 000oo 0o0oo 0.00000
+00:0 0O: 00: 00:0 00:0 00: 00:0 00 0.0 00: 00: 00:0 00.0 00: 00:0 00: 00: 00:
+16.3 16
+18.45 09
+00:0 00:00 00: 00:0 00:0 00:0 00:00 00:0- 00.04 00:0 00.0 00:00: 00: 0: 00.00.44 00:17:14 00.00:16
+10.0 10.0 10: 10:1- 10.21 10 10 10.28 10.29 10.32 10.33
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+21/28
+
+--- Página 22 ---
+
+DETALLE DE LLAMADAS
+NUMERO 900800401 881955800 98133737- 981901122 881955800 98120392 9816498 98179432 9180551 98164982 82280980 3852 981620075 638602523 62599343 645901408 935081444 881080209 948290055 626057800 8851 629708433 925762146 981012658 98160056 925762146 65314928 981182050 981185258 881881692 79006 981148759 981901122 916165020 675801208 5801208 627468125 034457 96881 856898 623405 615375442 88517389 39346 5534803 75534803 9811308 658963049 658963049 629056 6301 63607642 65954515 98164982 666478808 981901122 981660250 9816021 981167000 981701 88101469 5534803 881896808 75534803 675534803 981901 604016270 981213063 881955800 981206783 '6361219 981660250 981901122 627468125 61530736 981901 6151 6580 8957 03459359 9688110 606982225 659740619 59740619 15230419 68674787- 972238839 94821011 649033043 981273906 6595451 696611910 65791 66154243 981169075 695881 36485 885 650567735 66629554 606353232 3972901 615365353 981701 981701 88517389 646514245 928390043 981701169 638765333 60578188 915565413 652878721
+DESTINO Red Inteligente Naciona Nacional Nacional Nacional Nacional Nacional Nacional Nacional Nacional Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Nacional Móvil Nacional Móvil Nacional Nacional Nacional Nacional Móvil Nacional Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Naciona Nacional Nacional Nacional Móvil Nacional Móvil Móvil Nacional Móvil Nacional Nacional Nacional Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Nacional Móvil Nacional Nacional Móvil Móvil Nacional Móvil
+FECHA 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE NUMERO 10.33 00.20.05 0o0oo 981235810 10.42 00:02.09 000oo 881955800 10.49 00.01.06 0.00000 636990333 10.51 00.00.4 0oooo 661910593 10.53 00.0 28 ooooo 65287872- 10.56 00.09 0000o 696491542 11:15 00:00: 781585 00.01 ooooo 88108020 00.05 0000o 7236
+DESTINO Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Naciona Nacional Nacional Nacional Nacional Móvil Nacional Nacional Nacional Nacional Nacional Nacional Móvil Nacional Nacional Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Nacional Naciona Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Nacional Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Móvil Nacional Naciona Nacional Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional
+FECHA 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 9-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov Nov 29-Nov 29-Nov 29-Nov 29-Nov Nov 29-Nov 9-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov Nov 29-Nov 29-Nov 29-Nov 29-Nov 30-Nov 30-Nov 30-Nov Nov Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov Nov Nov 30-Nov 30-Nov Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov Nov 30-Nov Nov Nov 30-Nov 30-Nov Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE 10.36 00.00.47 0000o 10.44 00:01:0 0o0oo 10.50 00.05.50 000oo 10.53 00:0 00ooo 10.55 00: 00ooo 000oo 00:04 000o 00.0 000oo 1:40 00.03 000oo 46 00:0 0000 00: 00: 00ooo 12.03 0o: 000o 12.08 00:0 00000 12:10 00.0 000oo 12:15 00 12.4 00.0 12.58 00:0 000o 13: 00:0 000o 13 00.0 000oo 3: 00:0 000oo 3 00: 0000 13 00: 000 00:0 0000 00: 000 00:0 0000 13.56 00:0 000oo
+246
+000 00 0oooo
+9288 99
+00:08 00.02 00.05 00:00.0 00.00.0 00.05 00:00: 00.00.0 00:00.0 00.00: 00.00: 00:03: 03 00.00.04 00:03: 00.04 00:0 00.01 00.01 00:07 00.00: 00:1 00:01 OO.00:
+599343 981649825 948290056 981794324 988517389 981620567 982510013 590457 98162056 981901 22 981012658 925317020 98162056 98179432- 68732561 622 988517389 4305707 06258
+12.00 12.05 12.09 12:1 12.33 12.5 3.0 13:1 13.1 13.23 13.25 13:3 13: 13.38 13.53 13.55 13.57 14.1 14.2 14.52 15: 15.32 15.33 15.39 16:02 16.2 16.3 16: 17.02
+0000o 0000o 000 ooooo 0000o
+00ooo 0000o
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+000 0oooo
+0000o 00 ooooo 0000o
+00.0 00:0 00.04 00:00 00.0 00.0 00: 00:
+000oo 000oo 0000o 000oo 0000 000o 000 0000 000 00000 000oo
+649193823 ooooo 981267666 0000o 6202128 000 9838070 000 609917146 0oooo 654305707 981649 988517389 0000o 98113084 0000o 988517389 00 5375442 ooooo 605482384 0000o '5534803 0oooo 98113084 ooooo 60786742 0000o 630126548 00ooo 696450466 000 659548 0oooo 602 88 0000o 9482900 981226323 000 660250 ooooo 6351290 0000o 695544124 0000o 98113084 ooooo 946482 0000o 675534803 606039 000 75534803 0000o 75534803 981795246 604016270 0000o 9816021 981901122 000 66439331 ooooo 985366078 0000o 634962788 981660250 ooooo 981901122 0000o 98838681 000 98170331 000 915548770 0000o 2362366 64677009 604078768 0000o 886218404 649981421 000 98113084 ooooo 981922109 0oooo '83701 98117161 0000o 6050439 0000o 6554323 69 000 4889 0000o 659734335 606039 ooooo 730 00ooo 6990333 000oo 981169 0000o 981130841 ooooo 670340740 ooooo 679688110 000Oo 645940175 ooooo 986346525 0oooo 9482101 ooooo 673016567 .000oo 67301656 0000o 981701 69 ooooo 673016567 ooooo 67301656 0oooo 67700480 000oo 981701169 ooooo 72156797 000oo 666467730 .000oo 638765333 000oo 617138491 0.00000 981203920
+15.5 16:08 16.33 16.36 17.00 17.05 17.19
+00:0 ):03: 00.05 00:05 00: 00 00:0 00.01 00:00.0 00:00: 00:00
+00: 0O: 00: 00: 0O: 00:0 00:0 00:4 00:0 00:0 00: 00.04 00:3 00:0 00.02
+000oo 000oo 0000o 000oo 0000
+18:
+18.10 18 18 9
+00:1
+0000 000o 000oo 0000
+08
+09 09 09
+00:00: 00:
+00:0 00:0 00:0 00:0 00:0 00.00 00:0 00: 00:0
+00:03 00.44.56 00.02 00:03 00.0
+09 10:3 10.3 10.39 10.42 10.47 10.48 10.49 1.0
+000oo 00ooo 0000o 000oo 000o 000o
+10 10.40 10: 10.4 10 10
+00.00:C 00.00.0 00:00.0 00:00: 00:01 00.03.0
+0000 000oo 000oo 0000
+00:0 00:03 00: 0o: 00:0 00: 00:0 00:0 00.0 OO:C 00: 00: 00: 00: 00:0 00: 00:0 00:0
+00:00: 00:1- 00.00.3 00:00:03 00.05:
+000 0000 00ooo 0000o 000oo 0000
+12.0: 12:13 12.15 12.29 12.39
+12.09 12.15 12.18 12.37 12.4
+00 00.00 00:00: 00.06 00:05 00.06 00.00 00:00: 00.09: 00.00.0 00:00:06 00.02
+12:
+0000 000o 000oo 0000
+13.0
+000 0000 000 00000 000oo 000o 000o 000 0000 00000 00ooo 0000 000 000 0000 000 00000 0000 000o 000o 000o 000oo 0000o 00ooo 000o 0000 000oo 0000 000oo 0.00000
+00.05 00.04 00.07 00 00.0 00.04 00:0 00:0 00:0 00: 00: 00: 00: 00.07 00:0 00: 00:0 00.0 00:0 00:00 00.00 00.04 00:00:0
+3: 13.40
+3.49 13.55 14.06 14.24 14.44 15.03 15.41 16:19 16.29 16.3 16.39 16.41 16:4 17.00
+00.09 00.00: 00:03:.0 00:02 00.01 00:01 00.00.1 00:01 00.02.48 OO:0O:1 00:13.3- 00:02 00:0 00:04 00:00.0- 00.02 00.00: 00.06.5 00:00: 00:0 00:00:09 00:00.07 00.03.25 00.00.06
+16 16
+16
+7.32 7.36 17.4 18.06 18.27 19.07
+00:03 00.00:0 00.05.18 00:00.40
+18.23 18.34 19.09
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+22/28
+
+--- Página 23 ---
+
+DETALLE DE LLAMADAS
+SUBTOTALES(981252258): Destino Móvil: Red Inteligente: Nacional: Especial: SUBTOTAL
+Ilamadas 1186 77 1045 2 2310
+Duracion 95.17.05 08.29.00 61.32.08 00.11.42 165.29.55
+Importe 0,00000 9,77224 0,00000 0,00000 9,77224
+LINEA: 981252343 NUMERO DESTINO 988517389 Nacional
+FECHA 28-Nov
+HORA DURACIÓN IMPORTE NUMERO 16.59 00.02.48 .00ooo 988517389
+DESTINO Nacional
+FECHA 28-Nov
+HORA DURACIÓN IMPORTE 17.29 00.02:01 0.00000
+SUBTOTALES(981252343): Destino Nacional: SUBTOTAL
+llamadas 2
+Duracion 00.04.49 00.04.49
+Importe 0,00000 0,00000
+1 LINERA : 981252789TIN0 FECHA HORA DURACIÓN IMPORTE NUMERO DESTINO 988517389 Nacional 03-Nov 13.04 00:00.04 .00ooo 988517389 Nacional SUBTOTALES(981252789): Destino llamadas Duracion 5 Nacional: 2 00.00:17 SUBTOTAL 00.00.17 1 LINEA: 981267808 NUMERO DESTINO FECHA HORA DURACIÓN IMPORTE NUMERO DESTINO ; 988517389 Nacional 17-Nov 14.58 00.00.38 .00ooo 0 SUBTOTALES(981267808): Destino llamadas Duracion Nacional: 00.00.38 9 SUBTOTAL 00.00.38 g LINEA: 981607753 NUMERO DESTINO FECHA HORA DURACIÓN IMPORTE NUMERO DESTINO : 988517389 Nacional 09-Nov 09.02 00.00:15 .00ooo 5 SUBTOTALES(981607753): Destino llamadas Duracion Nacional: 00.00.15 g SUBTOTAL 00.00.15 8 LINEA: 986434649 NUMERO DESTINO FECHA HORA DURACIÓN IMPORTE NUMERO DESTINO 941277000 Nacional 07-Nov 10.45 00.03.26 .00ooo 616575000 Móvil : 669768786 Móvil 08-Nov 13.29 00.01:12 0000o 616575000 Móvil 616575000 Móvil Nov 11.51 00:00.0- ooooo 689025240 Móvil 689025240 Móvil 09-Nov 17.40 00.00.32 00ooo 600430475 Móvil 0776396 Móvil 10-Nov 11.09 00:01 .00ooo 679456313 Móvil ; 86847244 Nacional 13-Nov 10.35 00.02.38 ooooo 986229385 Nacional 986609709 Naciona 13-Nov 12: 00.0 0000o 9735655 Móvil 86400320 Nacional 14-Nov 09 00:01 ooooo 9864003 Nacional '696245- Móvil 14-Nov 11.36 00:0~ 986449 Nacional 8 0202 Móvil 14-Nov 12.55 00.05 98664082 Nacional 98128459 Nacional 15-Nov 09.45 00:- 9188671 Nacional 86449090 Nacional 15-Nov 12.05 00.00 000 8867 70 Nacional 86609 Nacional 15-Nov 13.02 00:00 000oo 986609 09 Nacional 1 67020679 Móvil 15-Nov 17.53 00:00: 000 9864495 Nacional 86229385 Nacional 16-Nov 09.38 00.00.3 664082 Nacional 941294126 Nacional 17-Nov 09 00:01 0oooo 9862131 Nacional 986213119 Nacional 17-Nov 10.32 00.0 0o0oo 986213119 Nacional 912983596 Nacional 17-Nov 10.39 69 Móvil 9456313 Móvil 17-Nov 13.20 00.04 00 63- g Móvil 616575000 Móvil 21-Nov 10.2 00.00 86435 Nacional 687786715 Móvil 21-Nov 17:3 00:1 98118427 Nacional 981600009 Nacional 22-Nov 10.3 00:1- 6435 Nacional 986435023 Nacional 22-Nov 12.3 00.0 0000o 6091003 Móvil 3 941294126 Nacional 22-Nov 3.02 00000 60910039 Móvil 629856955 Móvil 23-Nov 000 941294126 Nacional 88517389 Nacional 23-Nov 14.43 00.0 00 00 9856955 Móvil 6877867 Móvil 24-Nov 10:1 00:00:.0 ooooo 6877867 Móvil 9 986493130 Nacional 27-Nov 09.08 00:03 98681111 Nacional 8681111 - Nacional 27-Nov 09.12 00:00 0oooo 670776396 Móvil 912901340 Nacional 27-Nov 09.59 00:10: ooooo 912701796 Nacional 912701796 Nacional 27-Nov 10:16 00:15.18 000 912701796 Nacional 8681111 Nacional 27-Nov 13.20 00:00:10 ooooo 912901340 Nacional 687786716 Móvil 28-Nov 11.52 00.08.38 .0000o 912901340 Nacional 2 941206983 Nacional 29-Nov 12.52 00.01.37 0oooo 670776396 Móvil 670776396 Móvil 29-Nov 17.38 00:00.0 ooooo 986400320 Nacional 981820167 Nacional 30-Nov 11.00 00.04.10 0.00000 981820167 Nacional 627843249 Móvil 30-Nov 12.14 00.00.29 0.00000 8 8
+FECHA 08-Nov
+HORA DURACIÓN IMPORTE 16:42 00.00:13 0.00000
+Importe 0,00000 0,00000
+FECHA
+HORA DURACIÓN IMPORTE
+Importe 0,00000 0,00000
+FECHA
+HORA DURACIÓN IMPORTE
+Importe 0,00000 0,00000
+FECHA 07-Nov 09-Nov Nov 09-Nov 10-Nov 13-Nov 14-Nov 14-Nov 14-Nov 15-Nov 15-Nov 15-Nov 15-Nov 16 ~Nov 16-Nov 17-Nov 17-Nov 17-Nov 20-Nov 21-Nov 22-Nov 22-Nov 22-Nov 22-Nov 23-Nov 23-Nov 24-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 28-Nov 29-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE 12.58 00:00.43 0oooo 11.49 00.00 000oo 16.00 00.03.5 0oooo 17.42 00.00.06 000oo 12.42 00:0 :39 000o 10.41 00: 0000 09.1 00:0 000o 10.06 0000 00.2 00ooo 09.26 00.03 000oo 00: 0000 12.2 00: 16.3 00.0 09.2" 00.0 0000 10.5 00:0 000o 10.3 00.0 00000 10.34 00:0 000o 00: 09 00: 00:0 00:0 0000 00.04 00ooo 12.5 00.03 000o 13 00: 0000 13 00:.0
+0000 000o 00000 0000 000o 0000 000o 00ooo 00000 0.00000
+09
+00.00 00:0 0o: 00.05.35 00.05.3 00.02.47 00.02.32 00.03.14
+10:13 10.32 10:0 12.38 17:15 09.30 11.44
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+23/28
+
+--- Página 24 ---
+
+DETALLE DE LLAMADAS
+SUBTOTALES(986434649): Destino Móvil: Nacional: SUBTOTAL
+Ilamadas 29 44 73
+Duracion 01.24.02 03.08.13 04.32:15
+Importe 0,00000 0,00000 0oooo
+LINEA: 986443366 NUMERO DESTINO 616522723 Móvil 988517389 Nacional 838 Móvil 864932 Nacional 7068589 Móvil 7068589 Móvil 65057925 Móvil 625191319 Móvil 67068589 Móvil 914460354 Nacional 986207474 Nacional 639827403 Móvil 86847244 Nacional 86290100 Nacional 986451498 Nacional 068589 Móvil 068589 Móvil 9816498 Nacional 7068589 Móvil Nacional Móvil 885 Nacional 068 Móvil 06858 Móvil Nacional Nacional 98 Nacional Nacional Nacional 8 Nacional 95688 Móvil 068 Móvil 09763485 Móvil 050372 Móvil 068589 Móvil 88517389 Nacional 86129208 Nacional
+FECHA 02-Nov 03-Nov 06-Nov Nov '~Nov 08-Nov 08-Nov 08-Nov 10-Nov 13-Nov 13-Nov 13-Nov 13-Nov 14-Nov 14-Nov 15-Nov 15-Nov 15-Nov 15-Nov 16-Nov 16-Nov 16-Nov 16-Nov Nov 17-Nov 17-Nov 17-Nov 17-Nov 20-Nov 20-Nov 22-Nov 24-Nov 27-Nov 27-Nov 29-Nov 30-Nov 30-Nov
+HORA 13:14 13.45 09.47 09: 11.06 10.28 11.49 12.42 13.14 09.4 10.00 10.49
+DURACIÓN IMPORTE NUMERO 00.00.09 .000oo 988517389 00.01.36 0oooo 988517389 00.01:08 .000oo 986316818 00.02 0oooo 607732403 00.03: 0000o 068589 00:01 0685 00.22: 0000o 0685 0oooo 068 00:01 00 68589 00:02.55 000 864148 00:01 9827403 00.00 6290 00.02 00 9864148 00.0 00000 568 00:00 000 6438 00:06 0oooo 0685 00.02 0o0oo 068589 00:00: ooooo 068589 00:02 ooooo 98644101 00.00 0000o 925320566 00.00 '068589 00:00: 00 068589 00:05.53 000 0685 00:00: 000 981 00.00 00:00: 9253 00:00 00000 981649 00.08 000 649 25 00:00 ooooo 00.00.3 000 00.00.03 ooooo 986290 00:07: ooooo 0685 00.00.56 0000o 988517389 00:10.03 000oo 67050372- 00.04.04 ooooo 988517389 00.01.22 .0000o 988517389 00.03.15 .000oo 988517389
+DESTINO Nacional Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Nacional Nacional Nacional Móvil Nacional Móvil Nacional Móvil Nacional Naciona Nacional
+FECHA 03-Nov 03-Nov Nov Nov Nov Nov 08-Nov 09-Nov 10-Nov 13-Nov 13-Nov 13-Nov 14-Nov 14-Nov 15-Nov 5-Nov 15-Nov 15-Nov 16-Nov 16-Nov 16-Nov 16-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 20-Nov 20-Nov 22-Nov 22-Nov 24-Nov 27-Nov 27-Nov 30-Nov 30-Nov 30-Nov
+HORA 13.04 13.45 11.34 10:1-
+DURACIÓN IMPORTE 00.01.43 00ooo 00.00.46 0o0oo 00.02.1 0oooo 00.0- 0000 000o 00:0 0000 00:00:0 000oo 00:0 0000 00:0- 0000 00:0 00000 00.0 0000 00:0 000o 00.0 0000o 00.0 0000 000o 00.0 00000 00:.0 0000 00:05 0000o 00.0 00000 00:0 000oo 00:0 0000o 00: 0000 00:0 00000 0O: 0000 00:0 000o 00.03 0000o 00.0 00000 00: 000oo 00000 0000 000o 00: 00000 00.0 000oo 00.04.25 000oo 00:00:01 ooooo 00.00.46 0000o 00.00.01 00ooo
+09.38 16:1 09
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+2 13.25
+13:12 15:19 13.05 15.43 16:1 16.46 12.23 12.48 13.03 13.40 13.49 11.58 13.40 15.31 11.08 12.28 17:13 12.42 11.33 18.15
+13 15.4 16.15 12.18 12.3
+13: 10.0 13.02 14.28 15.33 13.59 17.04 17.45 08.44 13.40 19.24
+SUBTOTALES(986443366): Destino Móvil: Nacional: SUBTOTAL
+llamadas 37 37 74
+Duracion 02.32:16 02.24.54 04.57.10
+Importe 0,00000 0,00000 00000
+LINEA: 986443426 NUMERO DESTINO 619424539 Móvil 604053170 Móvil 881955800 Nacional 69601 Móvil 862 Nacional 62908898 Móvil 610769783 Móvil 6705355 Móvil 64781561 Móvil 617417334 Móvil 650183758 Móvil 619352208 Móvil 617742528 Móvil 8613702 Nacional 619770340 Móvil 78156 Móvil 8851 Nacional 64976 Móvil 86208 Nacional 98851 Nacional 2908898 Móvil 8862 8840 Nacional 8530915 Móvil 61741 Móvil 677444849 Móvil 862225 Nacional 9814492 Móvil 6508539 Móvil 66141886 Móvil 885 Nacional 66141 Móvil 649766839 Móvil 86 Nacional 90082 Red Inteligente 6197271 Móvil 98133537 Móvil 6666777 Móvil 644250782 Móvil 055601C Móvil 988517389 Nacional 684012128 Móvil 09431 Móvil 2884 Móvil 0810228 Móvil 291631 Móvil 65175248 Móvil 644250782 Móvil 661734450 Móvil 39993349 Móvil 06695205 Móvil 86640054 Nacional 695395558 Móvil 616768774 Móvil 986300050 Nacional
+FECHA 01-Nov 02-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 03-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 06-Nov 07-Nov 07-Nov 07-Nov Nov ~Nov ~Nov Nov 07-Nov 07-Nov
+HORA 10.47 09.42 10:11 10.48 10.57 1:1
+DURACIÓN IMPORTE NUMERO 00.56.37 0oooo 617417334 00.00.48 0.00000 986231700 00.07:07 .0000o 981649825 00.03:16 .000oo 934858931 00:07:19 0000o 986228270 00.01 681383733 %0000 00.03.3 0535578 00:00:4 000oo 627743232 00:04: 000oo 617417334 00:0 0000o 629835855 00.00.0- ooooo 986433844 00.00: 0oooo 98629451 00.01.0 00ooo 2694187 00:07: ooooo 86454180 00.01 0000o 650183758 00:58.25 5395558 00.00.45 000 6205= 00.0 0000o 6478156 00:06: 636990336 00.0 670421719 00:0 0000o 986453353 00:00.3 000oo 607751426 00.39: 000 9341005 00:0 ooooo 670776396 00.05 000 88621846 00.03 0224088 00:00: 0000o 687480426 00.00: 0000o 907507 000 6906258 00:00.0 000 88517389 00.0 0000o 88517389 00:00.3 50931 00:10: 00.04 00ooo 86 8613 00:00 000 00:03: 000oo 86222 00.00:06 000 62694187 00.00.0 ooooo 986160920 00:01 ooooo 86817445 00:02 0oooo 684012128 000oo 68031 00:06: ooooo 00941638 00.03 0000o 986449090 00:02 ooooo 886218872 00.00: ooooo 639341005 00.03: 0oooo 76817229 00:06:56 000oo 644250782 00:0 13 0oooo 605560101 00.09.14 000oo 6817229 00.02.13 ooooo 658557254 00.04.51 000oo 645957010 00.01.30 0o0oo 661734450 00.04.44 0.00000 616004438
+DESTINO Móvil Nacional Naciona Nacional Nacional Móvil Móvil Móvil Móvil Móvil Naciona Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Nacional Nacional Móvil Móvil Móvil Nacional Móvil Nacional Móvil Nacional Nacional Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil
+FECHA 02-Nov Nov 2-Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov Nov 03-Nov Nov Nov Nov Nov Nov Nov 03-Nov Nov Nov Nov Nov Nov Nov 6-Nov 06-Nov 06-Nov Nov Nov Nov 6-Nov 06-Nov Nov 06-Nov 07-Nov 07-Nov 07-Nov Nov Nov Nov Nov 07-Nov 07-Nov 07-Nov
+HORA 09.28 09.51 10.46 10.5
+DURACIÓN IMPORTE 00:00:19 0o0oo 00.05.40 0.00000 00:02:07 000oo 00.0 0000o 000o 000o 00:0 000o 00:00 000oo 00: 0000
+11.2 12.02 12.25 13.02 13:1 13:56 15.49 16.45 17.05
+12:15 12.31
+00.0
+000 000 0000 0000o 000oo 0000 000o 000 0000 000o 000oo 0000
+00:0 00.0 00.00 00:0 00.0 00:0 00:5 00:0 00:0 00: 00: 00:0 00:0 00:0 00:0 00.0 00:0 00.0 00:0 00:00 00:0 00.04 00: 00: 00:0 00: 00.0 00:0 00: OO:C 00.0 00:0 00:0 00.0 00:0 00:00 00:C 00:00 00:00 00.00.5 00:07:06 00.01:00
+16 16.5
+18.0 19 09 10 10.25 10.4 10
+18:1 09.48 10:1 10.24 10.4 10.49 1.00
+000 0000 0000 00000 000oo 000o 000o
+12.08 12.1 13.03 13.06 3: 13.5 10.46 1335 12.22 12.29 12.38 12.5- 3.09 13.49 3.51 15.12 5.43 16.1 18.00 10.02 10.31 10.48 10.55 11.04 11.24 11.46 12.14 12.48
+12.10 12:16 13.0
+3:
+0000 00000 00ooo 0000 000 000 000 000 00000 0000 000o 000o 000o 0000 0000o 00ooo 000o 0000 000oo 0000 000oo 0o0oo 0.00000
+12: 12.28
+13
+16.10
+08.56 10.05 10.3- 10.51
+12.02 12.20 12.56
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+24/28
+
+--- Página 25 ---
+
+DETALLE DE LLAMADAS
+NUMERO 677111761 604022049 88517389 8687 8643384 88517389 666102248 86206379 647614940 647614940 88517389 885 6978689 862292 6981449 9864338 00411500 98116809 63010621 66417702- 885 7389 8643384 65855725~ 63739259 8851 80376 885 7385 885 885
+DESTINO Móvil Móvil Nacional Nacional Nacional Nacional Móvil Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Nacional Móvil Nacional Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Nacional Naciona Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Nacional Móvil Red Inteligente Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Nacional Nacional Nacional Naciona Móvil Nacional Móvil Móvil Nacional Red Inteligente Móvil Móvil Móvil Móvil Móvil Nacional Red Inteligente Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Nacional Nacional Nacional Naciona Móvil Móvil Móvil Móvil
+FECHA 07-Nov 07-Nov 07-Nov 07-Nov 7-Nov 07-Nov 07-Nov 07-Nov 07-Nov 07-Nov Nov Nov Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov Nov 08-Nov 08-Nov 08-Nov 08-Nov 08-Nov 09-Nov 09-Nov Nov 09-Nov Nov Nov 09-Nov Nov 09-Nov Nov Nov Nov Nov 09-Nov Nov Nov Nov 0-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 13-Nov 13-Nov 13-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 3-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov
+HORA DURACIÓN IMPORTE NUMERO 12.56 00.01.41 0o0oo 605067355 13.02 00.04.05 0.00000 986640054 13.09 00.01.01 0.00000 617417334 13.36 00.02.28 0000o 986439300 13.42 00.03: .00ooo 651406690 13.4 00.01 0000o 988517389 13.52 00: 0oooo 65416561 14.2 00.012 ooooo 988517389 15.45 00.00:0- 0000o 647614940 15.46 988517389 16.58 000 988517389 17.29 00:00.0 000oo 88327084 18:1 00.03: 0oooo 68400209 10.50 00.04: 981284594 00:00: 00 60067161 1330 00.06 0000o 98661 99 12:16 00 00 986817459 12.39 00:04 ooooo 617417334 13.06 00.03: 0000o 633684959 13.3 00:00: 9646 14.16 00.00.0 6082162 14.59 00.04: 988517389 16.22 9885 389 6.55 03 000 091824 7:0 00.00.05 0oooo 64595701 00:07 65426230 00.0 988517389 00:0 0000o 0931006 08 00.00.0 0000o 629121246 09 00 68621 762 09 00:0 ooooo 09 00.0 0000o 986500136 0.20 00:05: 988517389 00.09 ooooo 6004438 12.59 00.03 0000o 66269478 13:1 00:0 000 88517389 13.29 00.00.08 000 6397 2227 13:42 00.0 0oooo 508683 5.3 00.35 885 00.0 8851738 00:08.5 000oo 8623 700 00.05 328 615375442 00.0 0803 00.03:4 00 6674590 18.3 00.24 0000o 986470000 10.02 00:13: 619770340 10.04 00:00: ooooo 05889 10:19 00.00.0 0000o 9885 7389 10.39 00:02 6004 38 10.52 00.0 000 68031 00.07 0oooo 4255 00:05 8851 00.00: 988517389 1.46 00:10.0 9376449 12:19 00.03 988517389 12.44 00.0 00 09210885 12.55 00:05.3 000oo 88247040 13.03 00.02 0000o 988517389 13:13 00.09: 0oooo 5228029 13.34 00:02 ooooo 19770340 13.45 00.0 0000o 680376489 13.52 9376449 ).0 000 6667 00.0 0000o 88517389 00:0 88517389 00.00: 689747876 15.01 00:0 0000o 5992 20.45 00.0 00ooo 0776396 09 00.00: 000 920251020 09.55 00:00.3 ooooo 67050462 10:1 00.01 6304697 00000 1:15 00.00: 901200350 00:00: 07520 629121246 11.36 00.01 0000o 66169388 12.54 00:00:0 63537 13.02 00.0- 000 88517389 13.09 00.03.5 0000o 1852 13: 00:0 9991 984852 13.2 00.00: 0o00o 981 13.40 00:01 13748 699911852 13.50 00:05: 000oo 60403545 15.22 00.00: 0000o 66169388 16:2 00:02 ooooo 66169388 17.08 00.03 0oooo 9885- 17.2e 00:10: 627443286 18.03 00:06: ooooo 66677 20.23 00.00.0 0000o 658557254 09 606618538 10.0 00:0 000 6403156 10.1 00:1 0000o 65855725 10.3 00:01 11.03 00.0 694135- 12.50 00.00: 00ooo 86260800 12.56 00:0 000oo 988517389 13.13 00:0 :03 ooooo 661418868 13:1 00:02 0o0oo 986436440 13.2 00:0 .0000o 661734450 13.32 00.00: 0o0oo 661734450 13.43 00:00: ooooo 6019745 16.18 00:00.3 Ooooo 620294 66 16.53 ooooo 604035451 17.03 00:00:16 ooooo 88517389 17.05 00.01 0000o 64663482 17.35 00:14.5 0o0oo 661418868 00.00: ooooo 988517389 09.02 00.02 0oooo 9396 10.26 00:05: 000oo 986470000 10.46 00:13:5 ooooo 986137021 12.00 00:01 000oo 986871623 13.28 00.01.0 ooooo 661958623 13.56 00:10:13 000oo 661958623 16.29 00.20.08 0o0oo 653607412 18:11 00.08.52 0.00000 680376489
+DESTINO Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Móvil Nacional Nacional Nacional Móvil Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Nacional Nacional Nacional Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Nacional Nacional Móvil Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Móvil Red Inteligente Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Nacional Nacional Nacional Móvil Móvil Móvil Móvil
+FECHA 07-Nov 07-Nov 07-Nov Nov Nov Nov ~Nov Nov 07-Nov Nov Nov Nov 08-Nov Nov 08-Nov 08-Nov 08-Nov Nov Nov Nov Nov Nov 08-Nov 08-Nov Nov Nov Nov 08-Nov Nov 09-Nov Nov Nov Nov Nov Nov Nov Nov 09-Nov Nov Nov Nov Nov 09-Nov Nov Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 10-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 13-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 14-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov 15-Nov
+HORA DURACIÓN IMPORTE 12.58 00.01.47 0000o 13.08 00:06:10 0o0oo 13.28 00.01.26 000oo 13.40 00:0 00ooo 13.45 00: 00ooo 13.5 0oooo 14.16 00:0 000o 14.36 00:0 000o 15.46 00.00 000oo 16.38 00:0 0000 17.00 00: 18.08 00:0 10:1- 00:.0 00ooo 10.52 00:0 000o 00:0 00000 00.0 000oo 12.3 00:0 12.53 00:C 3.3 00:0 000oo 00:0 000o 00: 000oo 16.0 00: 000o 16 00:0 00:0 00:0 00: 0000 00:0 000o 00:0 0000 08 00.0 000oo 0: 00: 00:0 000o 00:03 000o 00.03 0000o 3.0 00:0 000oo 13 00:0 0000 3 00:0 3: 00: 00:0 0000 00:0 000 00:2 0000 00.02 000oo
+1 5 3560700 64976683 68853 1 66 586 885 07 66150868 ; 865001 8851- 0 933883 901335533 615375442 9 649542520 6168031 00825892 9864338 639376449 g 661418902 615081409 86231700 : 6075776 9865001 5 69739712 619370500 619770340 g 3005560 673566830 619770340 98128459 8 65181054 86500136 686154353 9865001 : 865001 8851 9885 7389 638081 920251020 ; 69282. '8618629 91553680 8 901200350 677111761 629121246 607471744 1 658557254 5855725 88517389 901200350 62982 88517389 g 658557254 661- 1775 680376489 66101 3 61663920 6103 7520372 9 649434894 6775259 661734450 6693961 627912395 8630473 2 86436440 661734450 62790061 88517389 8 664- 7702 9800218 8851 2623 8 661418868 88517385 8643384 8613702 988517389 652406619 676832781 659531409 619770340
+18.00 09.15 10.0 10:16 10.2 10.39 10
+00.0 00:0 00:0 00.0 00:0 00:0 00: 00:
+000oo 000oo 0000o 000oo
+0000 000o 000oo 0000
+00:0 00:0 00:
+12.3-
+00.0 00:0 00.0 0O: 00.0 00:0
+13.05
+000oo 00ooo 0000o 000oo 0000
+0000 000oo 000oo 0000
+00:0 00:03 00:
+18
+09
+00.0
+000 0000
+00:0 00:08 00: OO:C 00.0 00: 00:0 00:0 0O: 00: 00:0 00.0 00:0 00:0 00:0 00.04 00:0 00.0
+0000o 000oo 000o
+12.26 12 13: 13.13
+0000 000oo 000oo 0000
+13.5
+16
+000 0000 0000 00000 000oo 000o
+20: 09 09 10.05 10.2 10.5
+00: 00 00.03 00:
+0000 0000 00ooo 0000
+12.50 13.12 13.16 13.2
+000 000 000 00000 0000 000o 000o 000o 000o 0000o 00ooo 000o 0000 000o 0000 000oo 0o0oo 0.00000
+13.3- 13.45 16.49 17.00 17.03 17.1 17.40 08.5 09 10.38
+00: 00:03 00: 00:0 00.0 00:0 00:0 00.0 00:0 00:0 00.46 00:00
+12.0 13.45 15.38 16.29 18.27
+00.00.56 00:03.06 00:13.45
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+25/28
+
+--- Página 26 ---
+
+DETALLE DE LLAMADAS
+NUMERO 600435797 881997124 986600223 670886710 05444153 64494157 619770340 619770340 619770340 928934140 88517389 66150780 6002948 88517389 667596 61641 650202699 3923497 981544145 986817464 691033418 64791332- 653819339 09113486 98613702- 63923497 66087769- 640315043 6004 500 86 9532 66197635 86482338 986385050 635163103 1521562 6074 5839 8687 655061 61521 6594603 66141 868 885 7389 9352508 885- 86609 64921 6510468 64494 981900643 080392 6344001 604064319 62112656 3633 88517389 85309 881955800 604003 608672788 98851738 78704688 666102248 661734450 661734450 658839966 661734450 608216295 928934140 686541553 670361 630469700 886151 690620170 661734450 61680311 - 661734450 5890016 649219764 98646701 647352343 651419244 606321476 09210885 698125473 655061288 678618629 988517389 60750755- 62985356 087528 6108752 98687 98681 6492 9764 981541300 881955800 881955800 66111775 0310822 0041 500 02101010 646513065 906201 50899748 88517389 88517389 50899748 646513065 62080392 655511949 928934140 649705054
+DESTINO Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Nacional Nacional Móvil Móvil Móvil Red Inteligente Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil
+FECHA 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 6-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 6-Nov 16-Nov 16-Nov 16-Nov 17-Nov Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 18-Nov 18-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov
+HORA DURACIÓN IMPORTE NUMERO 08.46 00.00.21 0o0oo 661693881 09:13 00:02.05 0.00000 881997124 09.38 00.02.49 0.00000 670886710 10.28 00.00.28 0oooo '688883 11.09 00.00.43 ooooo 986493620 00.04.5 0000o 695395558 00:1 65506 288 '@0008 12.53 00:00.06 646634824 13: 00.06 0000o 981574348 13:1 00:03 0oooo 655061288 14.00 00.0 0o00o 9770340 15.48 00:0 000oo 69 07 16.0 00:01 ooooo 08867 6.36 00.00.06 0000o 98851* 389 16.5 00:1 ooooo 61004087 00.0 0000o 600411500 00.09 000 661507807 09 00:02 ooooo 91114657 10.05 00.10: 0000o 653819339 1.20 00:02 647913324 00.03: 0000o 6667 12.07 00.01 0000o 98643384 12.44 00:02 78654 13.14 00.28: 000 8592352 13:46 00.0 0oooo 666 14.05 00:03: 661734450 14.52 00.01 15228029 14.5 00:0 00 6538 10.34 00.06 0000o 60041 500 12.25 00 00 886871 2 10.04 00:00 ooooo 8613702 1.08 00.00: 0000o 659460329 00:02:' 986443269 00:01 ooooo 88517389 00.00: 0000o 986443269 1.52 98613702 12:14 000 655061288 12.41 00.08 0oooo 65506 288 12.56 00:00.3 981594435 13 00.01 665157493 13.2 00:00:0 0000o 03341 13.31 00.03.08 0000o 678704688 13.40 000 659460329 16.36 00:00: ooooo 687554146 17.07 00.00.02 0000o 6639205 18:16 00:1 000oo 9332- 9.49 00:10.00 ooooo 6614189 09.3 00:12: 0000o 08039 09.52 00:00:04 000oo 9885 389 10:19 00.03.32 000 0803670 10:35 00.0 0oooo 63392 10.47 00:0 10.52 00.03: 600704809 10.56 00:00:06 0000o 6449415 1.05 00:00.53 0000o 619352508 00.01 000 7853091 11.43 00:0 ooooo 65506 288 12.34 00.01 0000o 069634 12.49 00.03: 0oooo 62112656 13.22 00:16: ooooo 13.24 00.00.0 0000o 604003736 13.26 00:00: 000 678704688 15:1 00.03 000 16: 00:1 0000o 0469 16:42 885- 17.03 00.00.3 9352508 17.22 00:01 6639 17.28 00.1 17.5 00.03.03 000 4035 19.09 00:07 ooooo 9849 19.2 00.07 000 61734450 09:0 00.00:06 988517389 09 00:01 ooooo 645183556 10.08 00.28: 0000o 608672788 10:18 000 661734450 10:4- 00.03:10 000 6506054 11.03 00.02: 0000o 8934140 12.1 00:0 335533 12.25 00:13: 643623 12.50 00:18: 9864362 13.0 00:00 600411500 13.33 000 6609815 13: 00:0 000oo 666* 13: 00.00.03 14.02 00.03: 66098 14.29 00:01 ooooo 982* 16.23 00.0 0000o 634400150 16.39 00:0 000 629827383 17.3 00:1 0oooo 629121246 09: 00.02 0000o 662678140 10.0 00:03:08 ooooo 62976117 10.1 00:0 ooooo 861 10:46 00.00: 00ooo 667596 10.52 00:01 000oo 609592549 11:1 00:15: 0000o 646410535 12.35 00:00 ooooo 66941351 12.3 00:12: ooooo 9853 13:00 00.03.4 ooooo 6291631 13.02 00:01 ooooo 649219764 13.07 00:02 0oooo 651113400 13.37 000oo 646410535 14.03 00:04: 550 6667 14.1 00.00.0 0000o 8629901 15.49 00.00.0 86609 16:15 00:08 ooooo 988517389 17:01 00.00: 00ooo 606321476 17:14 00:00:05 000oo 988517389 17.22 00:08 000 8851 389 17.30 00:00: 000oo 650899748 17.42 00.03.03 0oooo 9456254 17.47 00.03.15 000oo 634266991 17.49 00.03.09 0o0oo 609210885 17:56 00:09:11 0.00000 666102248
+DESTINO Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Nacional Nacional Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Red Inteligente Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Naciona Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil
+FECHA 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 16-Nov 6-Nov 6-Nov 6-Nov 16-Nov 6-Nov 6-Nov 6-Nov 6-Nov 16-Nov 16-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 17-Nov 18-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 20-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 21-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov 22-Nov Nov 22-Nov 22-Nov Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov 23-Nov
+HORA DURACIÓN IMPORTE 08.47 00:08.08 0000o 00.00.52 000oo 09.46 00.00.40 000oo 10 :58 00ooo 00:.0 00ooo 000oo 00:0 000o 00.0 000o 13:1 00.00 000oo 00: 0000 00:0 000
+00: 00:0 00.05 00: 00: 00:C
+00ooo 000 00000 000oo
+16 17.08
+09 10.53
+000oo 000o 000oo 000oo 0000 000
+00:0 00.02 00: 00:0 00: 00.07
+12.2 13.0 13.28 13:48 14.2 14.55 19.45 12.2 09 10
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+000 0000 000oo
+00: 00.0
+00:0 00:0 00:0 00:0 00:0 OO:C 00.0 00:
+000o 000o 0000o 000oo 0000 000 000 0000 000 00000 000oo
+12: 12.40 12:
+00:0 00:0 00.04 00:0 OO:C 00: 0O: 00:0 00.03 00:0 00:2 00: 00:0 00.0 0O: 00:
+13.38 13.50 16.5 18.0 18.3
+000oo 000oo 0000o 000oo 0000
+09 10.19 10 10:45 10.49 10.53 10.59
+0000 000oo 000oo 0000
+12.3 12.39 13:19 13.23 13.25 14.58 15.56 16.2
+00: 00:0 00:0 00:0 00.0 0O: 00:
+000oo 00ooo 0000o 000oo 000o
+000 000o 000oo 0000
+17.16
+0o: 00:00 00.03
+19.0
+00:0 00:0 00:0 00:0 00: 00:0 00: 00:0
+000 0000 0000 0000o 000oo 0000 000o
+08 09 10.00 10.16 10.35 10.5-
+00:0 00:0
+000o 000oo 0000
+12.5 13.0 13
+00:2
+000 0000 00ooo 00000 000oo 000o 000o 000 0000 00000 00ooo 0000 000 000 0000 0000 00000 0000 000o 000o 000o 0000 0000o 00ooo 000o 0000 OoooC 0000 000oo 0o0oo 0.00000
+00:0 00:0 00.0 OO:C 00.0 0.0 00: 00: 00.0 00:
+16 16.38 16
+09 10: 10 10
+00: 00: 00.07 00:0 00: 00:0 00:- 00: 00:3 00.0 00.02 00.02 00:( 00:00.2 00.17.25 00.01:14 00.00:13 00.04:16
+2: 13: 13.05 13.2 14.0 14.0 14.16 15.53 16 17.02 17.21
+17:45 17.48 17.55 18:14
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+26/28
+
+--- Página 27 ---
+
+DETALLE DE LLAMADAS
+NUMERO 609210885 651113400 6961 3366 8645335 8683* 5381 06321476 86485900 08672788
+DESTINO Móvil Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Red Inteligente Móvil Móvil Móvil Móvil Red Inteligente Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Nacional Nacional Móvil Nacional Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Nacional Nacional Móvil
+FECHA 23-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 25-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 29-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE NUMERO 18.21 00.00.06 0o0oo 608672788 09.3 00:18.32 0.00000 670206776 09.51 00.11.49 0.00000 986229101 10:15 00.00.05 0000o 647352343 10:19 00:15.33 .00ooo 986229101 10.41 00:17.4 .0000o 988517389 10:53 00:01.00 0oooo 69613070 11.20 00:15.06 ooooo 608672788 11.45 00.20: 0000o 0866 48 12.22 00:00:58 609210885 12.32 00.01 000 608216295 13: 00:02 000oo 88517389 13.32 00.00.4 0oooo 98643737 13.50 00.01 .0000o 98851 389 13.22 00:10: 000oo 68031 10.04 00.02 0000o 982283107 10:46 00 '757 96 11.04 00:00: ooooo 635163103 1.06 00.00.48 0000o 90282 1:09 00:00: 906* 1.46 00.00.03 690178406 12.38 00.00: 0000o 6661022 12.41 00:06: 000oo 8346900 12.52 00:15: 000 651406690 13.27 00.0 0oooo '596 13.5- 00:0 89341 15:56 00.00: 0631306 16.5 00:00 0000o 6742408 17.15 00.02 0000o 0631306 17.26 00.20 00 06044126 18.49 00 ooooo 630541498 20.5 00.06 0000o 609800928 09.26 00.02 098009- 10:18 00:05 ooooo 90133553" 10.26 00.00 0000o 645183556 10.30 00:02 000 5677579 10.45 00.00:18 000 988517389 10:5- 00.02:C 0oooo 98192563 1.0 00.05: 6521555 1.38 00:1 667544497 12.1 00:01 0000o 8643952 12.1 00.01 0000o 629121246 12.23 00.00: 2008069 12.3 00.26: ooooo 67945631 12.58 00:12 67 68 69818088 13:1 00:.05.0 0000o 986443366 13.28 00:00: ooooo 8661011 13.46 00.02:' 0000o 682082656 13.59 00:03 000oo 986493620 15.4 00.03 22502 634400150 5.5 00:04 0oooo 986493620 00.01 629121246 00.00: 659460329 18.0 00:04: 0000o 68630473 19 00:09 00ooo 986493 09.5 00.0 000 627900612 10:1 00.00.05 ooooo 677761324 10.25 00:02.07 0000o 9370500 10.3 00:1 :03 0000o 988488229 10.45 00:00: ooooo 29121246 1.0 00.02 0000o 988517389 000 988517389 1.46 000 88517389 12: 00.03 0000o 7389 12.38 82283 12.54 00.00: 678654 12.5 00.24.06 0000o 65431476 13.22 00.02 606567052 15.53 000 63918005 15.5 00:00: ooooo 623806 00:00.0 6864541 6:1 00.00: 690133835 00:00 ooooo 07156 16.5 00.0 0000o 988517389 986493620 09 00:00.05 000 827383 09 00.40.4 0000o 738 00:00: 653484268 10.0 00.00: 60750755 10.50 00:00 0000o 60510582 1.03 00.0 00ooo 881997 24 00.00.05 000 98648231 1.46 00:04.04 000oo 60959- 49 12.5 00:.04.4 000 038949- 3 00.0 ooooo 963286- 13: 00:07 ooooo 608672788 13.56 00.01 0000o 881955800 16.28 00:00:03 000oo 677111761 16.49 00.05.3: 0oooo 647167327 17.34 00.01.40 .0000o 658902233 17.58 00.20.30 0o0oo 657629903 18.33 00.02.18 ooooo 986120142 19:16 00.05.05 .0000o
+DESTINO Móvil Móvil Nacional Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Nacional Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Red Inteligente Móvil Móvil Nacional Nacional Móvil Móvil Nacional Móvil Nacional Móvil Móvil Nacional Nacional Móvil Nacional Móvil Nacional Móvil Móvil Móvil Nacional Móvil Móvil Móvil Nacional Móvil Nacional Naciona Nacional Nacional Nacional Móvil Móvil Móvil Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Móvil Nacional Nacional Móvil Móvil Móvil Móvil Nacional Móvil Móvil Móvil Móvil Nacional
+FECHA 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 24-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 27-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov 28-Nov Nov 29-Nov 9-Nov Nov 29-Nov Nov Nov 29-Nov Nov 29-Nov 29-Nov Nov 29-Nov Nov 29-Nov 29-Nov 29-Nov 29-Nov Nov 29-Nov 29-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov 30-Nov
+HORA DURACIÓN IMPORTE 09.15 00:16.55 000oo 09.3 00.03.34 0o0oo 10:13 00.01:16 000oo 10:16 00.03:09 00ooo 10.36 00.0 00ooo 10.5 00:0 0oooo 10.5 00:3 000o 00:0 000o 12:16 00:5 000oo 12.28 00:0 0000 12.41 00: 000 13.2- 13.36 00:.0 00ooo 00:0 000o 09 00:0 00000 10.06 00.02 000oo
+963885 4697 885 65020269 55061 64793 08 981649825 678757 650885785 696622 690178406 661102248 66087769 616424252 6909632 60514 616803- 630541 626238062 63054 498 655061288 6552882 8638 639180052 64716732 66706031 680979763 98 61 04586 08672788 304026 864395=
+00.0
+000o 000o 000oo 000oo
+00:00 00:0 00: 00: 0: 00.0 00.0 00:0 0O: 00.06 0o: 00.0 00:0 00:0 00.0 00:0
+12.30 12.40 12.5 13.06
+1 5 1 ; 0 9 g : 5 g 8 : ; 8 1 g 3 9 2 8 8
+000
+0000 000o 00000 000oo
+16.5
+18 20 09.15
+000o 000o 3563 00o 0000 000
+10 10.28 10: 10.48 10
+00: 00:
+0000 000o 00000 000oo
+00:0 00:0 00:.04
+12: 12.23 12.25
+00:0
+01 86 2638
+13.0 13.2
+000oo 000oo 0000o 000oo 0000 000o 000 0000 000o 000oo 0000
+00: 00:0 00:0 00:3 00: 00:0
+3
+08
+901335533 '683
+00.04 00:00 00:
+8602 88255060 6476 4940 60 6052026 1991 65425409 61746668- 6670663 86871623 2228455 647614940 822831 610866148 690133835 9917146 639- 80052 8851- 63903 8851 6467709 653484268 654038136 98649362 986470000 986470000 68418257 98125748 654038136 9073100 881955800 65519 5953 409 9006 885 6531 6614 885 866201 8621 507 640071891
+18.48
+10.06 10 10 10.35 10
+000oo 00ooo 0000o 000oo 0000
+00:0 00:0 00.0 00:0 00.0
+12: 2:4 12.5 13:
+0000 000oo 000oo 0000
+00:0 00:0 00:
+00.0
+000 000 0000 0000o 000oo 000o 000o 000 0000 000o 000oo 0000 000 0000 0000 0000 00000 000oo OoooC 0000o 000oo 0o0oo 0.00000
+00:0 00.0 00.00 00:0 00.0 00:0 00:0 00: 00:0 00: 00:0 00:
+18.02
+09
+10.3 10.58
+3
+00:0 00: 00.00 00:0 08 00.0 00.0 00.03.58 00.03.07
+14.15 16
+17.38 18.28 18.36
+SUBTOTALES(986443426): Destino Móvil: Red Inteligente: Nacional: SUBTOTAL
+llamadas 521 10 214 745
+Duracion 44.35.52 00.45.10 12.50.53 58.11.55
+Importe 0,00000 3,38454 0,00000 3,38454
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+27/28
+
+--- Página 28 ---
+
+DETALLE DE LLAMADAS
+TOTALES(factura): Destino
+Ilamadas
+Duracion
+Importe
+1 5 1 ; 0 9 g : 5 g ; : ; 8 1 g 3 9 2 8 8
+CALLE FERNANDO REY, 8 (CIUDAD DE LA IMAGEN) POZUELO DE ALARCÓN 28223, MADRID. Tfno: 917377777
+28/28

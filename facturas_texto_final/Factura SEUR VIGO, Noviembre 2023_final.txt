@@ -1,0 +1,114 @@
+
+
+--- Página 1 ---
+
+SEUR
+SEUR
+CRT VALLECAS-VILLAVERDE N. 257
+B82516600
+Código Cliente:
+13777-72
+Att:
+Paula Chao Lago
+Forma de Pago:
+Adeudo Directo SEPA 30 Días
+Cuenta Bancaria:
+ES22004940903721140*****
+CL FONSECA N. 64
+Código Proveedor;
+15004 LA CORUÑA
+VENTO ABOGADOS Y ASESORES, SLP
+B70508932
+PSO ALFONSO XII N. 35
+36202 VIGO
+PONTEVEDRA (ESPAÑA)
+Euros
+Sujeto
+148,42€
+IVA
+179,59€
+Importe Bruto
+148,42€
+Total Factura
+179,59€
+Detalle de los servicios prestados:
+CCC
+13777
+72
+Envíos Realizados
+@rig
+02-11-2023
+VIG
+SAT
+S-10
+ESTD
+9386686
+MAILTOCASE
+44,82€
+VIG
+LAC
+ESTD
+9397015
+722019060303
+1,000
+34,40€
+LAC
+PRTY
+9401728
+VENTO ABOGADOS Y ASESORES
+722019060310
+24-11-2023
+VIG
+ESTD
+9426471
+PRV722019060327
+1,000
+28-11-2023
+LOG
+VIG
+PRTY
+6320225
+262010976825
+1,000
+18,27€
+SubTotal
+Otros conceptos facturados:
+31-10-2023
+VARIOS
+722019060280
+S
+2,66€
+SubTotal
+N? Factura:
+1/2
+
+--- Página 2 ---
+
+SEUR
+SEUR
+CRT VALLECAS-VILLAVERDE N. 257
+B82516600
+Información para ti
+SEUR te informa
+Impulsados por un futuro
+de cero emisiones
+a 1/01/2024
+días
+del
+mes
+anterior
+por
+actualizaciones
+de
+pesolvolumen
+procedentes
+de
+nuestras
+mediciones
+[
+homologadas.
+Juntos cuidamos del planeta
+iGracias por no imprimir esta factura!
+Descubre más en seur.com
+N? Factura:
+yel

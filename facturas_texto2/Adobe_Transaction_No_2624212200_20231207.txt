@@ -1,0 +1,39 @@
+
+
+--- Página 1 ---
+
+Adobe Systems Software Ireland Ltd 4-6 Riverwalk Citywest Business Park Dublin 24 Ireland Número de registro de IVA: 1E6364992H
+ORIGINAL
+Información de facturación
+Número de factura Fecha de la factura Cond. de pago Orden de compra Número de orden Cliente Divisa
+1EE2023013389013 07-DIC-2023 Carte de crédit HDB102995OOOES 7009879696 1205435347 EUR
+Adobe
+Receptor de factura VENTO ABOGADOS Y ASESORES, S.LP_ 15004 SPAIN N:? de IVA de cliente: ESB70508932
+Factura Detalle de artículos
+Duración del servicio: 07-DIC-2023 to 06-ENE-2024
+NÚMERO DE PRODUCTO
+PRECIO UNITARIO
+DESCRIPCIÓN DEL PRODUCTO
+CANTIDAD UNIDAD
+IMPORTE NETO
+TIPO IMPUESTOS
+TOTAL
+65230467
+Acrobat Standard
+EA
+12.99
+1299
+0.009
+0.00
+12.99
+TOTAL FRA
+IMPORTE NETO(EUR)
+12.99
+IMPUESTOS (VER LOS TIPOS) IVA
+0.00
+TOTAL(EUR)
+12.99
+Comentarios: Nota: Si no se ha aplicado ningún impuesto y se muestra su número de identificación fiscal; se trata de una exención 0 una transacción de inversión impositiva Entrega con mecanismo de inversión; el cliente autoevalúa el IVA ESB70508932 C/ Marina 16 18, Planta 20 A 08005 Barcelona (España) Tel: 900 810 339 http:l/www.adobecomIsupport/servicel No VAT liability in Seller's Country. Customer to Reverse Charge. Art. 44 & 196 EC Dir. 2006/112
+Contacto de facturación https:l /helpxadobecomIcontact html
+Gracias por tu confianza!
+Página 1 de 1

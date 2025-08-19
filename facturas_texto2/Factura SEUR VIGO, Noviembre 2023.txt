@@ -1,0 +1,110 @@
+
+
+--- Página 1 ---
+
+SEUR SEUR GEOPOST, S.LU. CRT VALLECAS-VILLAVERDE N. 257
+SEUR
+B82516600 Tel. 913228122 facturacion.seur@seur.com
+Datos de la factura: N? Factura: 0289992023D0272042 Fecha Factura: 30-11-2023 Código Cliente: 13777-72 Forma de Pago: Adeudo Directo SEPA 30 Días Cuenta Bancaria: ES22004940903721140***** Código Proveedor: Datos del cliente: VENTO ABOGADOS Y ASESORES; SLP B70508932 PSO ALFONSO XII N. 35 36202 VIGO PONTEVEDRA (ESPAÑA)
+VENTO ABOGADOS Y ASESORES; SLP Att: Paula Chao Lago
+CL FONSECA N. 64 15004 LA CORUÑA LA CORUÑA (ESPAÑA)
+Base Sujeto
+Euros 148,42€ 148,42€
+Impto IVA 21,009
+Euros 31,17€
+Importe 179,59€
+Importe Bruto
+Total Factura
+179,59€
+Detalle de los servicios prestados:
+CCC 13777 72 Envíos Realizados FFecha Orig. Dest. Srv_ 02-11-2023 VIG SAT S-10
+Prd.
+N? Exp_
+Destinatario
+Referencia
+Clave Unid.
+Kilos Impto_
+Total
+ESTD
+9386686
+RITA GOIMIL MARTINEZ CENT
+MAILTOCASE
+4,000 S
+44,82€
+08-11-2023
+VIG
+LAC
+S-10
+ESTD
+9397015
+VENTO ABOGADOS Y ASESORES 722019060303
+1,000 S
+34,40€
+10-11-2023
+VIG
+LAC
+S-13
+PRTY
+9401728
+VENTO ABOGADOS Y ASESORES 722019060310
+4,840 s
+17,38€ 30,89€
+24-11-2023
+VIG
+LOG
+S-13
+ESTD
+9426471
+HACIENDA-DIRGRALTRIBUTO
+PRV722019060327
+1,000 S
+28-11-2023
+LOG
+VIG
+S-13
+PRTY
+6320225
+VENTO ABOGADOS Y ASESORES 262010976825
+1,000 S
+18,27€
+SubTotal
+145,76€
+Otros conceptos facturados: FFecha Concepto 31-10-2023 VARIOS
+Observaciones
+Referencia
+Impto
+Total
+DIF PESO EXP.72-999-9383782-20231031 Factura 28-999-2023-D-246881
+722019060280
+2,66€ 2,66€ 148,42€
+SubTotal 13777 72
+Subtotal Cliente
+Impuesto:(Art.6.3 R.D.1496/2003) E-Exento;S-Sujeto,N-No sujeto, D-Destinatario Sujeto Pasivo
+Claves: A-Volumen B-Reexpedición C-Reembolso D-Suplidos E-Seguro F_Aduana G-Recogida H-Comprobante de entrega I-SEUR Plus J-Entrega en sábados N-Recogida en sábados S-Sobrecargos T-Tasa IMO
+REGISTRO MERCANTIL DE MADRID,HOJA 249810, FOLIO 84,TOMO 14986
+NP Factura:
+0289992023D0272042
+1/2
+
+--- Página 2 ---
+
+SEUR SEUR GEOPOST, S.LU. CRT VALLECAS-VILLAVERDE N. 257
+SEUR
+B82516600 Tel. 913228122 facturacion.seur@seur.com
+Información para ti
+SEUR te informa Estimado Cliente: Le comunicamos que sus condiciones económicas se han actualizado a 1/01/2024
+Impulsados por un futuro de cero emisiones
+Esta factura   podría contener   ajustes sobre   los últimos días del mes anterior por actualizaciones de pesolvolumen procedentes de nuestras mediciones homologadas
+4 F [o 88r D @ I7
+Qo 0 C 02 0 0
+D0
+Cero
+SEURE
+Juntos cuidamos del planeta Con este formato digital evitamos la tala de árboles yel impacto medioambiental asociado. iGracias por no imprimir esta factura!
+En 2025 reduciremos el 85% de nuestras emisiones de CO2 en 64 grandes ciudades. Descubre més en seur.com
+Impuesto:(Art.6.3 R.D.1496/2003) E-Exento;S-Sujeto,N-No sujeto, D-Destinatario Sujeto Pasivo
+Claves: A-Volumen B-Reexpedición C-Reembolso D-Suplidos E-Seguro F_Aduana G-Recogida H-Comprobante de entrega I-SEUR Plus J-Entrega en sábados N-Recogida en sábados S-Sobrecargos T-Tasa IMO
+REGISTRO MERCANTIL DE MADRID,HOJA 249810, FOLIO 84,TOMO 14986
+NP Factura:
+0289992023D0272042
+2/2

@@ -1,0 +1,75 @@
+
+
+--- Página 1 ---
+
+CESÁREO GÓMEZ S.A.
+A-15.238.009
+15008 A Coruña
+SIBONEY
+oficina@cafesiboney.com
+Deleqación SANTIAGO
+Tlf: 981 57 77 44
+Pol. Ind. Boisaca B26
+15890
+Santiago de Compostela
+FACTURA
+FECHA
+N
+CLIENTE
+30/11/2023
+903
+B-70.508.932
+4
+15004
+A
+CORUÑA
+A
+CORUÑA
+RD 1055/2022: ENVI2023/000008754
+CÓDIGO
+LOTE
+DESCRIPCIÓN
+CANTIDAD
+PRECIO
+IMPORTE
+1008
+161,44
+3729
+6,00
+7,20
+43,20
+De Albarán N? 001-13539 del 28/11/2023:
+1008
+6,00
+20,18
+121,08
+3729
+4,00
+7,20
+28,80
+1
+g
+8
+1
+Total Bruto
+Total Descuento
+Base Imponible
+%
+%
+Rec.Equivalencia
+IMPORTE
+354,52
+72,00
+21%
+15,12
+28,25
+Total BASE
+354,52
+Total IVA
+43,37
+Total RECARGO
+RECIBO BANCO
+10/12/2023
+397,89
+TOTAL
+397,89

@@ -1,0 +1,57 @@
+
+
+--- Página 1 ---
+
+administracion@mnprogramcom
+wwwmnprogramcom
+981 146300
+C
+Somos la primera compañía de software de
+estrategia basada en alcanzar la satisfacción
+plena de nuestros clientes; ofreciéndoles un
+software de gestión integral basado en sus
+necesidades y
+sugerencias y
+soporte y
+
+--- Página 2 ---
+
+902 309 909
+15004 A Coruña
+981 146 300
+www.mnprogram.com
+Factura
+Cliente:
+NIFICIF: B70508932
+Domicilio: Calle Fonseca 6, 4
+Población: A Coruña
+Provincia: A Coruña
+Uds.
+Descripción
+B
+1,00
+MNprogram Licencia Principal Cloud Enterprise
+100,00
+13,00
+MNprogram Licencia Adicional Cloud Enterprise
+283,01
+383,01
+IVA
+80,43
+TOTAL FACTURA
+463,44
+
+--- Página 3 ---
+
+902 309 909
+15004 A Coruña
+981 146 300
+www.mnprogram.com
+Información de pago:
+Su forma de Pago:
+Recibo
+0049************9989
+Fecha Vencimiento
+Total
+05/11/2023
+463,44

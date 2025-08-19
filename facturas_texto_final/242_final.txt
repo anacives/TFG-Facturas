@@ -1,0 +1,78 @@
+
+
+--- Página 1 ---
+
+DSGQ
+981
+103
+006
+VENTO
+ABOGADOS
+ASESORES
+Fecha
+FONSECA
+6
+Factura
+242
+15004
+A
+CORUÑA
+Cliente
+1557
+Vencimiento
+05/12/2023
+Cta 
+Bco _
+IBAN
+ES22
+0049
+4090
+37
+2114059989
+Página
+Albarán
+Fecha
+Iipo
+Servicio
+Direc
+Kms
+Exces
+Ayudante
+Autopista
+Hora
+704
+07/11/2023
+30
+38,90
+Mensajería
+Local
+30
+38, 90
+Bruto
+Exento
+IVA
+Bruto
+38, 90
+IVA
+218
+8
+Dto
+8
+Base Imp
+Base Imponible
+38, 90
+DELIVERY
+SPEED
+&
+B13901103
+POLG
+POCOMACO
+AVDA
+4
+PARCELA
+18/1
+15190
+com
+981
+103
+006

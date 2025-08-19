@@ -10,7 +10,7 @@ model = AutoModelForTokenClassification.from_pretrained(model_name)
 
 ner_pipeline = pipeline("ner", model=model, tokenizer=tokenizer, aggregation_strategy="simple")
 
-carpeta = "facturas_texto"
+carpeta = "facturas_texto2"
 
 def limpiar_texto(texto):
     texto = texto.replace('\n', ' ').replace('\t', ' ')

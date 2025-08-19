@@ -1,0 +1,52 @@
+
+
+--- Página 1 ---
+
+SERVICIO
+DE
+LIMPIEZAS
+HIGIENE
+32001
+OURENSE
+15004
+A CORUÑA
+Fecha
+Cliente
+1/2023/3538
+30/11/2023
+709
+NIF/CIF
+Refencia
+contrato
+B70508932
+Descripción
+Precio €
+Importe €
+1,00
+139,65
+139,65|
+(21 )
+Base Imponible
+% IVA
+Imp. IVA
+% REC
+Imp. Rec.
+Forma de pago:   Contado
+139,65
+21
+29,33
+0,00
+VENCIMIENTOS:
+Fecha
+Importe
+Total Bruto:
+139,65 €
+30/11/2023
+168,98
+Transferencia bancaria
+Dto. Artículos:
+0,00 €
+Total Neto:
+Total Impuestos:
+Total Factura:
+168,98 €

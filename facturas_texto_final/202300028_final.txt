@@ -1,0 +1,37 @@
+
+
+--- Página 1 ---
+
+Factura serie:
+2023
+Factura num:
+00028
+202300028
+07-12-2023
+Fecha vencimiento:
+07-01-2024
+De:
+Para:
+B70508932
+CL FONSECA
+15004
+A
+CORUÑA
+A CORUÑA
+ESPAÑA
+Servicios informáticos extraordinarios
+9.000,00 €
+21,00 %
+9.000,00 €
+Subtotal
+Método de pago:
+Base imponible
+TRANSFERENCIA BANCARIO BANCO SANTANDER
+ES5700494090382014064338
+Total
+Desglose impuestos:
+Base imponible
+IVAIGIC
+9.000,00 €
+21,00 %
+Página

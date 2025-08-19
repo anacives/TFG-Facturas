@@ -1,0 +1,109 @@
+
+
+--- Página 1 ---
+
+Resumen de facturación
+Microsoft
+Microsoft Iberica SRL Paseo Club Deportivo 1, Pozuelo de Alarcón; 28223, Madrid, Spain: N.o de reg. IVA ESB78603495
+Resumen
+Perfil de facturación
+Consultoría Vento
+Número de facturación
+G034661477
+Fecha del documento
+09/12/2023
+Vendido a Vento Abogados y Asesores S.LP. Rúa Fonseca, 6, 40 A Coruña A CORUÑA 15004 ES
+Facturar a
+Vento Abogados y Asesores S.LP. Rúa Fonseca, 6, 40 A Coruña A CORUÑA 15004 ES
+Importe total Vencimiento el 09/12/2023
+EUR 5.63
+iTienes alguna pregunta sobre tu factura? Visita https:/ Iaka ms/invoice-billing
+Esta factura es para el período de facturación 01/11/2023 30/11/2023 Esta lista contiene los cargos para las compras y servicios que se han consumido de Microsoft:. Podrás encontrar más detalles acerca de tu factura en httpsLladminmicrosoft comlAdminportal/Home#[billoverviewlinvoice-list/G03466147Z
+Resumen de facturación Cargos Créditos
+4.65
+0.00
+Subtotal
+4.65
+Impuesto
+0.98
+Total con impuestos incluidos
+EUR 5.63
+Instrucciones de pago:
+Su cuenta tiene una tarjeta de crédito registrada y no es necesario realizar ninguna acción. Se le cargará en la tarjeta registrada.
+1/4
+
+--- Página 2 ---
+
+Microsoft
+Factura
+Microsoft Iberica SRL Paseo Club Deportivo 1, Pozuelo de Alarcón; 28223, Madrid, Spain: N.' de reg: IVA ESB78603495
+Perfil de facturación
+Consultoría Vento
+Número de factura de impuestos Fecha de factura de impuestos
+ES-TI2300287875
+09/12/2023
+Vendido a Vento Abogados y Asesores S.LP. Rúa Fonseca, 6, 40 A Coruña A CORUÑA 15004 ES
+Facturar a Vento Abogados y Asesores S.LP. Rúa Fonseca, 6, 40 A Coruña A CORUÑA 15004 ES
+Esta factura es para el período de facturación 01/11/2023 30/11/2023
+Resumen de sección
+Cargos (EUR)
+Total (EUR)
+Nombre de sección
+Consultoría Vento
+4.65
+4.65
+Total (sin incluir impuestos)
+4.65
+Importe de impuestos
+0.98
+Total con impuestos incluidos
+5.63
+Detalles de facturación por producto
+Consultoría Vento
+Gastos de uso Microsoft Azure Standard
+Indicador de la línea de impuestos
+Compras Fecha de inicio del cargo fecha de finalización del cargo Databases 01/11/2023-30/11/2023
+Cargos/ Créditos (EUR)
+Tipo impositivo 21.00%
+Total (sin incluir impuestos) (EUR) 4.56
+4.56
+A
+Analytics 01/11/2023-30/11/2023
+0.09
+21.00%
+0.09
+Importe de impuestos (EUR)
+Total con impuestos Indicador de la línea incluidos de impuestos (EUR)
+Cantidad subtotal (EUR)
+Descripción de impuestos
+Ventas nacionales con tasa estándar 21.00%
+4.65
+0.98
+5.63
+Subtotal
+4.65
+2/4
+
+--- Página 3 ---
+
+Crédito de Azure
+Impuesto Total
+0.98
+EUR 5.63
+3/4
+
+--- Página 4 ---
+
+Microsoft
+Instrucciones de pago:
+Su cuenta tiene una tarjeta de crédito registrada y no es necesario realizar ninguna acción. Se le cargará en la tarjeta registrada.
+Tipo de cambio
+Divisa de precios
+Tasa de cambio EUR
+Intervalo de fechas
+USD
+0.945268929
+01/11/2023-30/11/2023
+Más información acerca de cómo se calculó la tasa de cambio: https:Llgo microsoft com/fwlink/?linkid=2034352
+Los impuestos se calculan en la moneda de facturación
+4/4

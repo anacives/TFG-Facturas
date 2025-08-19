@@ -1,0 +1,36 @@
+
+
+--- Página 1 ---
+
+FACTURA
+Página
+1 /
+15003 A CORUÑA
+Tel. 981 916010
+15004 A Coruña
+TABEANA
+A CORUÑA
+Fecha
+29/11/2023
+29/11/2023
+Descripción
+Código
+Artículo
+Subtotal
+004
+COMIDA DE EMPRESA
+10,00
+390,00
+Subtotal
+390,00
+IVA
+Importe IVA
+%
+39,00
+TOTAL FACTURA
+429,00 €
+15003 A Coruña; ante quien se podrán ejercitar los derechos de acceso; rectificación; cancelación y oposición;
+mediante escrito dirigido al efecto.
+Secreto
+15879687
+18

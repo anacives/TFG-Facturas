@@ -1,0 +1,63 @@
+
+
+--- Página 1 ---
+
+B81098188
+28020
+MADRID
+MADRID
+VENTO ABOGADOS Y ASESORES,SLP
+B70508932
+15004
+CORUÑA, A
+CORUÑA (A)
+FECHA:
+DESCRIPCIÓN
+IMPORTE EUROS
+Honorarios correspondientes a los trabajos de gestión administrativa
+correspondiente al Plan de Formación 2023 respecto a las siguientes acciones
+formativas
+VENTOABOGA23-08.01
+30,00
+SUMA IMPORTES
+30,00€
+6,30€
+36,30€
+TRIODOS BANK
+28008 Madrid
+IBAN: ES24 1491 0001 2621 58947925
+2
+
+--- Página 2 ---
+
+N? Acc y grupo
+MODALIDAD
+FECHA
+FECHA FIN
+LOCALIDAD
+HORAS
+ALUMNOS
+MODULO
+CANTIDAD
+INICIO
+LIMPARTICION
+ECONOMI
+CABLE
+ALKU
+BONIFICADA
+CO
+VENTOABOG
+Sensibilidad Igualdad
+Presencial
+07/11/2023
+20/11/2023
+SANT ADRIA DE
+13.00
+416,00€
+251,66€
+A23-08.01
+BESOS
+416,00€
+30,00€
+251,66€
+2/2
